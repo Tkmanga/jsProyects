@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="94462d20-5c7f-4a1e-b8c7-7655b1aaaaf6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/segundoProyecto/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/segundoProyecto/js/app.js" afterDir="false" />
+    <list default="true" id="94462d20-5c7f-4a1e-b8c7-7655b1aaaaf6" name="Default Changelist" comment="terminado primer ejercicio js">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,7 +58,8 @@
       <workItem from="1584795648388" duration="309000" />
       <workItem from="1584796102522" duration="15908000" />
       <workItem from="1584898844733" duration="2379000" />
-      <workItem from="1584903154326" duration="3365000" />
+      <workItem from="1584903154326" duration="3417000" />
+      <workItem from="1584915660843" duration="182000" />
     </task>
     <task id="LOCAL-00001" summary="terminado primer ejercicio js">
       <created>1584843303560</created>
@@ -68,7 +68,14 @@
       <option name="project" value="LOCAL" />
       <updated>1584843303560</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="terminado primer ejercicio js">
+      <created>1584909164389</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1584909164389</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -87,14 +94,19 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="1120" y="549" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1584795881479" />
-    <state x="585" y="134" key="CommitChangelistDialog2" timestamp="1584843320527">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="585" y="134" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1584843320527" />
-    <state x="467" y="259" key="com.intellij.ide.util.TipDialog" timestamp="1584903142097">
+    <state x="416" y="0" key="CommitChangelistDialog2" timestamp="1584915723539">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="467" y="259" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1584903142097" />
+    <state x="416" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1584915723539" />
+    <state x="585" y="134" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1584843320527" />
+    <state x="275" y="117" key="Vcs.Push.Dialog.v2" timestamp="1584909171025">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="275" y="117" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1584909171025" />
+    <state x="467" y="259" key="com.intellij.ide.util.TipDialog" timestamp="1584915675623">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="467" y="259" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1584915675623" />
     <state x="656" y="364" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1584899035837" />
     <state x="549" y="459" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1584797229237">
       <screen x="0" y="0" width="1920" height="1080" />
