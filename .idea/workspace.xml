@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="94462d20-5c7f-4a1e-b8c7-7655b1aaaaf6" name="Default Changelist" comment="terminado primer ejercicio js">
+    <list default="true" id="94462d20-5c7f-4a1e-b8c7-7655b1aaaaf6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/tercerProyecto/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/tercerProyecto/js/app.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -22,6 +23,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
@@ -43,6 +45,9 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\User\Desktop\jproyects\jsProyects\.idea\primerProyecto" />
     </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="showServicesTree" value="false" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -99,27 +104,26 @@
     </state>
     <state x="416" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1584915723539" />
     <state x="585" y="134" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1584843320527" />
-    <state x="275" y="117" key="Vcs.Push.Dialog.v2" timestamp="1584909171025">
+    <state x="467" y="259" key="com.intellij.ide.util.TipDialog" timestamp="1584903142097">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="275" y="117" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1584909171025" />
-    <state x="467" y="259" key="com.intellij.ide.util.TipDialog" timestamp="1584915675623">
-      <screen x="0" y="0" width="1366" height="768" />
-    </state>
-    <state x="467" y="259" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1584915675623" />
+    <state x="467" y="259" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1584903142097" />
     <state x="656" y="364" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1584899035837" />
     <state x="549" y="459" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1584797229237">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="549" y="459" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1584797229237" />
+    <state x="1249" y="457" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1584916007137">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1249" y="457" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1080@0.0.1920.1080" timestamp="1584916007137" />
     <state x="65" y="108" key="new project wizard" timestamp="1584722595465">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="65" y="108" key="new project wizard/0.0.1366.768@0.0.1366.768" timestamp="1584722595465" />
-    <state x="625" y="195" width="672" height="483" key="search.everywhere.popup" timestamp="1584903733777">
-      <screen x="0" y="0" width="1366" height="768" />
+    <state x="1103" y="401" width="672" height="678" key="search.everywhere.popup" timestamp="1584917645416">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="625" y="195" width="672" height="483" key="search.everywhere.popup/0.0.1366.768@0.0.1366.768" timestamp="1584903733777" />
-    <state x="1103" y="401" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1584901384660" />
+    <state x="1103" y="401" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1584917645416" />
   </component>
 </project>
