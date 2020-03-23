@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="94462d20-5c7f-4a1e-b8c7-7655b1aaaaf6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/tercerProyecto/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/tercerProyecto/js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/AseccionObjeto/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/AseccionObjeto/js/app.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -80,15 +81,34 @@
       <option name="project" value="LOCAL" />
       <updated>1584909164389</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="terminado el 3er ejercicio">
+      <created>1584927397415</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1584927397415</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="terminado primer ejercicio js" />
-    <option name="LAST_COMMIT_MESSAGE" value="terminado primer ejercicio js" />
+    <MESSAGE value="terminado el 3er ejercicio" />
+    <option name="LAST_COMMIT_MESSAGE" value="terminado el 3er ejercicio" />
   </component>
   <component name="WindowStateProjectService">
     <state x="592" y="462" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1584843656761">
@@ -99,11 +119,11 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="1120" y="549" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1584795881479" />
-    <state x="416" y="0" key="CommitChangelistDialog2" timestamp="1584915723539">
-      <screen x="0" y="0" width="1366" height="768" />
+    <state x="585" y="134" key="CommitChangelistDialog2" timestamp="1584927397009">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="416" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1584915723539" />
-    <state x="585" y="134" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1584843320527" />
+    <state x="585" y="134" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1584927397009" />
     <state x="467" y="259" key="com.intellij.ide.util.TipDialog" timestamp="1584903142097">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
