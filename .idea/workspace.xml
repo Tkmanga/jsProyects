@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="94462d20-5c7f-4a1e-b8c7-7655b1aaaaf6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/cuartoProyecto/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/cuartoProyecto/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/cuartoProyecto/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/cuartoProyecto/js/app.js" afterDir="false" />
+    <list default="true" id="94462d20-5c7f-4a1e-b8c7-7655b1aaaaf6" name="Default Changelist" comment="terminado primer ejercicio js">
+      <change afterPath="$PROJECT_DIR$/.idea/teoricaBasica/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/teoricaBasica/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/primerProyecto/script/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/primerProyecto/script/App.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,6 +42,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -69,6 +71,9 @@
       <workItem from="1585012397276" duration="674000" />
       <workItem from="1585072019437" duration="6839000" />
       <workItem from="1585148804547" duration="2053000" />
+      <workItem from="1585842884714" duration="4015000" />
+      <workItem from="1585881866305" duration="2547000" />
+      <workItem from="1585922552396" duration="167000" />
     </task>
     <task id="LOCAL-00001" summary="terminado primer ejercicio js">
       <created>1584843303560</created>
@@ -146,10 +151,10 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="terminado primer ejercicio js" />
     <MESSAGE value="terminado el 3er ejercicio" />
     <MESSAGE value="comenzando el 4to ejercicio" />
-    <option name="LAST_COMMIT_MESSAGE" value="comenzando el 4to ejercicio" />
+    <MESSAGE value="terminado primer ejercicio js" />
+    <option name="LAST_COMMIT_MESSAGE" value="terminado primer ejercicio js" />
   </component>
   <component name="WindowStateProjectService">
     <state x="828" y="195" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585148618029">
@@ -164,10 +169,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="1120" y="536" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1585267087377" />
-    <state x="585" y="134" key="CommitChangelistDialog2" timestamp="1585148840940">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state x="416" y="0" key="CommitChangelistDialog2" timestamp="1585922681558">
+      <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="416" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1584915723539" />
+    <state x="416" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1585922681558" />
     <state x="585" y="134" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1585148840940" />
     <state x="368" y="90" key="DiffContextDialog" timestamp="1585148336936">
       <screen x="0" y="0" width="1920" height="1080" />
@@ -177,18 +182,19 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="1032" y="273" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1585148844934" />
-    <state x="656" y="364" key="com.intellij.ide.util.TipDialog" timestamp="1585267083043">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state x="467" y="259" key="com.intellij.ide.util.TipDialog" timestamp="1585922550632">
+      <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="467" y="259" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1584903142097" />
+    <state x="467" y="259" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1585922550632" />
     <state x="656" y="364" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1585267083043" />
     <state x="549" y="459" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1584797229237">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="549" y="459" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1584797229237" />
-    <state x="1249" y="457" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1585267148655">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state x="889" y="325" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1585922636451">
+      <screen x="0" y="0" width="1366" height="768" />
     </state>
+    <state x="889" y="325" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.768@0.0.1366.768" timestamp="1585922636451" />
     <state x="1249" y="457" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1080@0.0.1920.1080" timestamp="1585267148655" />
     <state x="65" y="108" key="new project wizard" timestamp="1584722595465">
       <screen x="0" y="0" width="1366" height="768" />
@@ -198,9 +204,10 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="680" y="176" key="run.anything.popup/0.0.1366.768@0.0.1366.768" timestamp="1585004625508" />
-    <state x="1103" y="401" width="672" height="678" key="search.everywhere.popup" timestamp="1585150739642">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state x="343" y="175" width="672" height="483" key="search.everywhere.popup" timestamp="1585882715463">
+      <screen x="0" y="0" width="1366" height="768" />
     </state>
+    <state x="343" y="175" width="672" height="483" key="search.everywhere.popup/0.0.1366.768@0.0.1366.768" timestamp="1585882715463" />
     <state x="1103" y="401" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1585150739642" />
   </component>
 </project>
