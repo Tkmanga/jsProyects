@@ -1,5 +1,5 @@
 //aca voy a poner toda la teoria que no toque hasta el momento de la mejor forma posible para futuras referencias
-
+/*
 
 alert("asd");
 
@@ -179,10 +179,235 @@ dato = 265526;
 dato = 23132132.15616516;
 
 console.log(dato.toFixed(2));
+
 //to fixed es una funcion que corta el decimal en la cantidad de numeros que precisemos
 
+let cp = 90210;
+cp = String(cp);
+console.log(cp.length) // si yo intento hacer un length de un numero no va encontrar la funcion por que esta disponible solo para cadenas de texto
+let dato;
+dato = '4'+'4';
+dato = String(dato);
 
-// me salite las primeras partes hasta el video 59 por que me parecian aburridas
+//booleanos
+dato = true;
+dato = false;
+// de arreglo a string
+dato = [1,2,3];
+// toString();
+dato = 20;
+dato = true;
+dato = [1,2,3];
+dato = null; // esto devuelve error cuando se intenta hacer toString();
+
+dato = dato.toString();
+
+console.log(dato); // false
+console.log(dato.length); //undefinded
+console.log(typeof dato);  // boolean
+*/
+
+//alert('asdd');
+/*
+const producto1 = 'Pizza',
+    precio1 = 30,
+    producto2 = 'Hamburgesa',
+    precio2 = 40;
+
+
+//forma vieja de crear un templade de html
+/*
+let html;
+html =  '<ul>'+
+        '<li>Orden: '+ producto1+ '</li>'+
+        '<li>Precio: '+ precio1+ '</li>'+
+        '<li>Orden: '+ producto2+ '</li>'+
+        '<li>Precio: '+ precio2+ '</li>'+
+        '<li>Total: '+ (precio1+precio2)+ '</li>'+
+        '</ul>';
+*/
+
+// forma mas normal de crera los templade
+/*
+html = `
+        <ul>
+            <li>Orden: ${producto1}</li>
+            <li>Precio: ${precio1}</li>
+            <li>Orden: ${producto2}</li>
+            <li>Precio: ${precio2}</li>
+            <li>Total: ${total(precio1,precio2)}</li>
+        </ul>`;
+
+function total(precio1,precio2){
+    return precio1+precio2;
+}
+
+document.getElementById('app').innerHTML = html;
+
+
+//crear un arreglo
+const numeros = [10,20,30,40,50];
+
+//arreglo de string metodo alternativo
+const meses = new Array('enero','febrero','marzo','abril');
+
+//arreglo mesclado
+const mezclado = ['hola',1,2,3,false];
+
+// el length te dice cuantos elementos tiene un arreglo
+// Array.isArray(x) devuelve un booleano confirmando si es un array
+
+console.log(meses[1]); // forma de acceder a un elemento preciso del arreglo
+meses[4] = 'Mayo'; //reemplazando un valor del arreglo
+meses.push('febrero'); // agregar un elemento al final del arreglo
+
+//encontrar un elemento en el arreglo
+console.log(meses.indexOf('Abril'))
+
+//como agregar un elemento al inicio del arreglo
+meses.unshift('Mes 0');
+
+//eliminar un elemento de un arreglo
+meses.pop();
+
+//eliminar un elemento del inicio del arreglo
+meses.shift();
+
+//quitar un rango del arreglo
+meses.splice(2,1);
+
+//revertir
+meses.reverse();
+
+let arreglo1 = [1,2,3], arreglo2 = [9,8,7];
+
+console.log(arreglo1.concat(arreglo2)); //los une
+
+// ordenar un arreglo
+const frutas = ['Platano','Manzana','Fresa','Naranja','Zanahoria']; //lo ordena alfabeticamente
+frutas.sort();
+console.log(frutas);
+
+//ordenar numeros
+arreglo1 = [3,8,1,0,5];
+
+arreglo1.sort();
+console.log(arreglo1);
+
+
+arreglo1.sort(function (x,y) {
+    return y-x;
+});
+console.log(arreglo1);
+
+let numeros = [1,2,3];
+
+numeros = [3,4]; // wrong way no se puede cambiar por que no especifico que quiero cambiar del arreglo
+numeros[0] = 4; //ok
+numeros.push(5); //agregarndo al final
+
+numeros = ['Enero','Febrero']; // esto si se puede hacer
+
+console.log(numeros);
+
+//objetos
+
+const persona = {
+    nombre: 'miguel',
+    apellido: 'martinez',
+    profesion: 'diseñador grafico',
+    email: 'lala@hotmail.com',
+    edad: 20,
+    musica: ['trance','rock','Grunge'],
+    hogar: {
+        ciudad: 'Guadalajara',
+        pais: 'Mexico'
+    },
+    nacimiento: function () {
+        return new Date().getFullYear() - this.edad;
+    }
+
+}
+
+console.log(persona); //persona.algo para acceder a ese objeto y persona.algo[x] para acceder al valor e un arrelgo
+persona.musica.push('alternativo');
+console.log(persona.hogar.ciudad);
+//console.log(persona['hogar']['pais']); // esto no es muy usada ni recomendada
+console.log(persona.nacimiento());
+
+const autos = [
+    {modelo:'Mustang', motor:6.0},
+    {modelo:'Camaro', motor:6.1},
+    {modelo:'Challenger', motor:6.2},
+];
+//ejemplo de for
+for(let i = 0; i<autos.length; i++){
+    console.log(`${autos[i].modelo} ${autos[i].motor}`);
+}
+
+autos[0].modelo = 'Audi';  // accediendo de forma individual si se puede modificar aunque sea const
+const autos = { // no se puede hacer por que ya esta declarado con constante habria que cambiarlo a let
+    modelo: 'Auto',
+    motor: 2.3
+}
+console.log(auto)
+
+function saludar(){
+    console.log('Hola miguel');
+}
+
+function saludar(nombre){
+    console.log(`Hola ${nombre}`);
+}
+
+function sumar(a,b){
+    console.log(a+b);
+}
+
+function sumar(a,b) {
+    return a+b;
+}
+
+function saludar(nombre = 'Visitante') { // forma nueva
+    //if(typeof nombre === 'undefined'){nombre = 'Visitante'} // forma vieja
+    return `hola ${nombre}`
+}
+
+//function expression
+
+const saludar = function (nombre='visitante',edad=30, trabajo = 'desarrollador web') {
+    return `Hola, tienes ${edad}, profesion ${trabajo} y te llamas ${nombre}`
+}
+*/
+
+// IIFE
+
+    (function (tecnologia) {
+    console.log(`Creando un ${tecnologia}`)
+    })('javascript');
+
+const musica = {
+    reproducir: function (id) {
+        console.log(`reproduciendo muisca ${id}`);
+    },
+    pausar: function (id) {
+        console.log(`pausar la musica`)
+    }
+}
+
+// los metodos tambien pueden guardarse/crearse fuera del objeto
+
+musica.borrar = function (id){
+    console.log(`Borrando la cancion con el id ${id}`)
+}
+musica.reproducir(30);
+musica.pausar(30);
+
+
+
+
+/*
+    // me salite las primeras partes hasta el video 59 por que me parecian aburridas
 
 localStorage.setItem('nombre','juan'); // aunque recarge o cierre el valor siempre se va quedar
 
@@ -197,3 +422,4 @@ const nombre = localStorage.getItem('nombre');
 console.log(nombre);
 
 //PROYECTO UTILIZANDO LOCAL STORAGE
+*/
