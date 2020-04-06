@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="94462d20-5c7f-4a1e-b8c7-7655b1aaaaf6" name="Default Changelist" comment="" />
+    <list default="true" id="94462d20-5c7f-4a1e-b8c7-7655b1aaaaf6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -71,6 +73,7 @@
       <workItem from="1585922552396" duration="215000" />
       <workItem from="1586012921047" duration="823000" />
       <workItem from="1586177612124" duration="3001000" />
+      <workItem from="1586183547606" duration="298000" />
     </task>
     <task id="LOCAL-00001" summary="terminado primer ejercicio js">
       <created>1584843303560</created>
@@ -156,7 +159,14 @@
       <option name="project" value="LOCAL" />
       <updated>1586180639137</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="parte teorica me quede en el video 40">
+      <created>1586183584582</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1586183584582</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -196,10 +206,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="1120" y="536" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1585267087377" />
-    <state x="416" y="0" key="CommitChangelistDialog2" timestamp="1586180637623">
+    <state x="416" y="0" key="CommitChangelistDialog2" timestamp="1586183583089">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="416" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1586180637623" />
+    <state x="416" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1586183583089" />
     <state x="585" y="134" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1585148840940" />
     <state x="368" y="90" key="DiffContextDialog" timestamp="1585148336936">
       <screen x="0" y="0" width="1920" height="1080" />
