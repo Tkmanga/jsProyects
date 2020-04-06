@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="94462d20-5c7f-4a1e-b8c7-7655b1aaaaf6" name="Default Changelist" comment="">
+    <list default="true" id="94462d20-5c7f-4a1e-b8c7-7655b1aaaaf6" name="Default Changelist" comment="parte teorica me quede en el video 37">
       <change beforePath="$PROJECT_DIR$/.idea/teoricaBasica/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/teoricaBasica/js/app.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -73,6 +73,7 @@
       <workItem from="1585881866305" duration="2547000" />
       <workItem from="1585922552396" duration="215000" />
       <workItem from="1586012921047" duration="823000" />
+      <workItem from="1586177612124" duration="2784000" />
     </task>
     <task id="LOCAL-00001" summary="terminado primer ejercicio js">
       <created>1584843303560</created>
@@ -144,7 +145,14 @@
       <option name="project" value="LOCAL" />
       <updated>1585426715429</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="parte teorica me quede en el video 37">
+      <created>1586028808205</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1586028808205</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -167,7 +175,8 @@
     <MESSAGE value="terminado primer ejercicio js" />
     <MESSAGE value="terminado el 3er ejercicio" />
     <MESSAGE value="comenzando el 4to ejercicio" />
-    <option name="LAST_COMMIT_MESSAGE" value="comenzando el 4to ejercicio" />
+    <MESSAGE value="parte teorica me quede en el video 37" />
+    <option name="LAST_COMMIT_MESSAGE" value="parte teorica me quede en el video 37" />
   </component>
   <component name="WindowStateProjectService">
     <state x="828" y="195" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585420096039">
@@ -182,15 +191,19 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="1120" y="536" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1585267087377" />
-    <state x="416" y="0" key="CommitChangelistDialog2" timestamp="1586028774744">
+    <state x="416" y="0" key="CommitChangelistDialog2" timestamp="1586028974798">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="416" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1586028774744" />
+    <state x="416" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1586028974798" />
     <state x="585" y="134" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1585148840940" />
     <state x="368" y="90" key="DiffContextDialog" timestamp="1585148336936">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="368" y="90" key="DiffContextDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1585148336936" />
+    <state x="804" y="142" key="FileChooserDialogImpl" timestamp="1586028983278">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="804" y="142" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1586028983278" />
     <state x="550" y="194" key="Vcs.Push.Dialog.v2" timestamp="1585924120395">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
@@ -205,19 +218,19 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="549" y="459" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1584797229237" />
-    <state x="889" y="325" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1586014040440">
+    <state x="889" y="325" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1586177813199">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="889" y="325" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.768@0.0.1366.768" timestamp="1586014040440" />
+    <state x="889" y="325" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.768@0.0.1366.768" timestamp="1586177813199" />
     <state x="1249" y="457" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1080@0.0.1920.1080" timestamp="1585267148655" />
     <state x="65" y="108" key="new project wizard" timestamp="1584722595465">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="65" y="108" key="new project wizard/0.0.1366.768@0.0.1366.768" timestamp="1584722595465" />
-    <state x="680" y="176" key="run.anything.popup" timestamp="1585004625508">
+    <state x="680" y="176" key="run.anything.popup" timestamp="1586178227624">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="680" y="176" key="run.anything.popup/0.0.1366.768@0.0.1366.768" timestamp="1585004625508" />
+    <state x="680" y="176" key="run.anything.popup/0.0.1366.768@0.0.1366.768" timestamp="1586178227624" />
     <state x="147" y="242" width="796" height="483" key="search.everywhere.popup" timestamp="1586023305972">
       <screen x="0" y="0" width="1366" height="768" />
     </state>

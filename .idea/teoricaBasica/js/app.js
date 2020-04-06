@@ -505,7 +505,7 @@ if(totalCarrito < efectivo || totalCarrito<credito ||totalCarrito < disponible){
     console.log('no puedo pagar ')
 }
 const logueado = true;
-
+//una forma es poner un if debajo de otro pero no es recomendada
 console.log(logueado === true ? 'si se logue':'no se logueo');
 
 //switch
@@ -575,9 +575,77 @@ for(let i = 0; i < 10; i++){
     console.log(`Numero ${i}`);
 }
 
+const arregloProductos = [1,2,3];
 
-//una forma es poner un if debajo de otro pero no es recomendada
+for(let i = 0; i < arregloProductos.length; i++){
+    console.log(`el num del arreglo es ${arregloProductos[i]}`);
+}
 
+let i = 0;
+const musica = ['cancion 1','cancion 2','cancion 3'];
+
+while (i<musica.length){
+    console.log(`numero ${musica[i]}`);
+    i++;
+}
+
+let i = 1000;
+do{
+    console.log(`Numero ${i}`)
+    i++;
+}while(i<20);
+// la diferencia entr el do y el do while es que el do corre aunque sea 1 vez
+
+const pendientes  = ['Tarea','Comer','Proyecto','Aprender','Javascript']
+
+for(let i = 0; i<pendientes.length; i++){
+    console.log(pendientes[i]);
+
+}
+
+pendientes.forEach(function (pendiente, index) {
+    console.log(`${index}: ${pendiente}`);
+});
+console.log(pendientes);
+
+//map para recorrer un arreglo de objetos
+
+const carrito = [
+    { id:1, producto: 'libro'},
+    { id:2, producto: 'libro2'},
+    { id:3, producto: 'libro3'}
+]
+
+const nombreProducto = carrito.map(function (carrito) {
+    return carrito.producto;
+})
+console.log(nombreProducto);
+
+const automovil = {
+    modelo: 'auto',
+    motor: '6.1',
+    anio: '2019',
+    marca: 'Chevrolet'
+}
+
+for ( let caracteristica in automovil){
+    console.log(`${caracteristica}: ${automovil[caracteristica]}`);
+}
+
+const ciudades = ['ny','miami','england','russia'];
+const ordenes = new Set([123,321,243,234,543]);
+const datos = new Map();
+datos.set('nombre','Juan');
+datos.set('profesion','dev web');
+console.log(ciudades);
+
+for(let entrada of ciudades.entries()){
+    console.log(entrada);
+}
+
+for(let entrada of ordenes.entries()){
+    console.log(entrada);
+}
 
 /*
     // me salite las primeras partes hasta el video 59 por que me parecian aburridas
