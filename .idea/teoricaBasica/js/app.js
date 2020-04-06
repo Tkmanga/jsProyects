@@ -378,7 +378,7 @@ function saludar(nombre = 'Visitante') { // forma nueva
 const saludar = function (nombre='visitante',edad=30, trabajo = 'desarrollador web') {
     return `Hola, tienes ${edad}, profesion ${trabajo} y te llamas ${nombre}`
 }
-*/
+
 
 // IIFE
 
@@ -402,9 +402,250 @@ musica.borrar = function (id){
 }
 musica.reproducir(30);
 musica.pausar(30);
+*/
 
+obtenerClientes();
+//funcion que no existe
 
+try{
+    algo();
+}catch (e) {
+    console.log(e);
+}finally {
+    console.log('No le importa, ejecuta de todos modos');
+}
+function obtenerClientes() {
+    console.log('Descargando...');
 
+    setTimeout(function () {
+        console.log('Completo');
+    },3000)
+}
+
+//en javascript existe un objeto llamado date
+
+const diaHoy = new Date();
+
+//fecha en especidifico mes, dia y año
+
+let navidad2017 = new Date('12-25-2017');
+
+console.log(navidad2017);
+let valor;
+//mes
+valor = diaHoy.getMonth();
+//dia
+valor = diaHoy.getDate();
+valor = diaHoy.getDay();
+//obtener el año
+valor = diaHoy.getMinutes();
+//minutos
+valor = diaHoy.getMinutes();
+//hora
+valor = diaHoy.getHours();
+//todos los milisegundos desde 1970
+valor = diaHoy.getTime();
+//
+valor = diaHoy.getFullYear();
+valor = diaHoy.setFullYear(2015);
+valor = diaHoy.getFullYear();
+
+//condiconales
+
+const edad = 19;
+
+if(edad > 18) {
+    // < > <= >=
+    console.log('si se puede entrar al sitio');
+}else{
+    console.log('no puedes entrar al sitio ');
+}
+
+//comprobar que una variable tiene valor
+
+const puntaje = 1000;
+
+if(puntaje){
+    // si no esta inicializado typeof puntaje != 'undefinded'
+    console.log('el puntaje fue de '+puntaje);
+}else{
+    console.log('no hay puntaje');
+}
+
+let efectivo = 500;
+let totalCarrito = 400;
+
+if(efectivo>totalCarrito){
+    console.log('Pago Correcto');
+}else{
+    console.log('Fondos Insuficientes');
+}
+
+let hora = 20;
+if(hora > 0 && hora <= 10){
+    console.log('buenos dias');
+}else if(hora > 10 && hora <= 18) {
+    console.log('buenas tardes');
+}else if(hora > 19 && hora <= 24){
+    console.log('buenas noches');
+}else{
+    console.log('hora no valida')
+}
+
+//operador ||
+
+let efectivo = 300,
+    credito = 700,
+    disponible = efectivo+credito;
+    totalCarrito = 500;
+
+if(totalCarrito < efectivo || totalCarrito<credito ||totalCarrito < disponible){
+    console.log('Puedo pagar');
+}else{
+    console.log('no puedo pagar ')
+}
+const logueado = true;
+//una forma es poner un if debajo de otro pero no es recomendada
+console.log(logueado === true ? 'si se logue':'no se logueo');
+
+//switch
+const  metodoPago = 'efectivo';
+switch (metodoPago) {
+    case 'efectivo':
+        console.log(`el usuario pago con ${metodoPago}`)
+        break;
+    case 'checke':
+        console.log(`el usuario pago con ${metodoPago}`)
+        break;
+    case 'efectivo':
+        console.log(`el usuario pago con ${metodoPago}`)
+        break;
+    default:
+        console.log('metodo no aceptado');
+        break;
+}
+let mes;
+const fechaa = new Date();
+switch (new Date().getMonth() ) {
+    case 0:
+        mes = 'Enero';
+        break;
+    case 1:
+        mes = 'EneroO';
+        break;
+    case 2:
+        mes = 'EneroOO';
+        break;
+    case 3:
+        mes = 'EneroO';
+        break;
+    case 4:
+        mes = 'EnerOo';
+        break;
+    case 5:
+        mes = 'Enero';
+        break;
+    case 6:
+        mes = 'Enero';
+        break;
+    case 7:
+        mes = 'Enero';
+        break;
+    case 8:
+        mes = 'Enero';
+        break;
+    case 9:
+        mes = 'Enero';
+        break;
+    case 10:
+        mes = 'Enero';
+        break;
+    case 11:
+        mes = 'Enero';
+        break;
+}
+
+//FOR LOOPS
+
+for(let i = 0; i < 10; i++){
+    if(i == 5){
+        console.log('voy en el 5');
+        break;
+    }
+    console.log(`Numero ${i}`);
+}
+
+const arregloProductos = [1,2,3];
+
+for(let i = 0; i < arregloProductos.length; i++){
+    console.log(`el num del arreglo es ${arregloProductos[i]}`);
+}
+
+let i = 0;
+const musica = ['cancion 1','cancion 2','cancion 3'];
+
+while (i<musica.length){
+    console.log(`numero ${musica[i]}`);
+    i++;
+}
+
+let i = 1000;
+do{
+    console.log(`Numero ${i}`)
+    i++;
+}while(i<20);
+// la diferencia entr el do y el do while es que el do corre aunque sea 1 vez
+
+const pendientes  = ['Tarea','Comer','Proyecto','Aprender','Javascript']
+
+for(let i = 0; i<pendientes.length; i++){
+    console.log(pendientes[i]);
+
+}
+
+pendientes.forEach(function (pendiente, index) {
+    console.log(`${index}: ${pendiente}`);
+});
+console.log(pendientes);
+
+//map para recorrer un arreglo de objetos
+
+const carrito = [
+    { id:1, producto: 'libro'},
+    { id:2, producto: 'libro2'},
+    { id:3, producto: 'libro3'}
+]
+
+const nombreProducto = carrito.map(function (carrito) {
+    return carrito.producto;
+})
+console.log(nombreProducto);
+
+const automovil = {
+    modelo: 'auto',
+    motor: '6.1',
+    anio: '2019',
+    marca: 'Chevrolet'
+}
+
+for ( let caracteristica in automovil){
+    console.log(`${caracteristica}: ${automovil[caracteristica]}`);
+}
+
+const ciudades = ['ny','miami','england','russia'];
+const ordenes = new Set([123,321,243,234,543]);
+const datos = new Map();
+datos.set('nombre','Juan');
+datos.set('profesion','dev web');
+console.log(ciudades);
+
+for(let entrada of ciudades.entries()){
+    console.log(entrada);
+}
+
+for(let entrada of ordenes.entries()){
+    console.log(entrada);
+}
 
 /*
     // me salite las primeras partes hasta el video 59 por que me parecian aburridas
