@@ -49,15 +49,15 @@
         }
         if(this.tipo === 'completo'){
             cantidad *= 1.30;
-        }else{
-
         }
+
+        return cantidad;
     }
 
 //esto esta encargado del UI
 function Interfaz() {}
 // mensaje que se imprime en el html
-    Interfaz.prototype.mostrarError = function(mensaje,tipo) {
+    Interfaz.prototype.mostrarMensaje = function(mensaje,tipo) {
 
         const div = document.createElement('div');
 
@@ -88,17 +88,24 @@ function Interfaz() {}
                 marca = 'Europeo';
                 break;
         }
+
         //crear div
         const div = document.createElement('div');
         div.innerHTML = `
-            <p>Tu resumen: </p> 
+            <p class='header'>Tu resumen: </p> 
             <p>Marca: ${marca}</p>
             <p>Año: ${seguro.anio}</p>
             <p>Tipo: ${seguro.tipo}</p>
             <p>Total: $ ${total}</p>
             
         `;
-        resultado.appendChild(div);
+        const spinner = document.querySelector('#cargando img');
+        spinner.style.display = 'block';
+        setTimeout(function () {
+
+            spinner.style.display = 'none';
+            resultado.appendChild(div);
+        },3000);
     }
 
 
@@ -122,13 +129,20 @@ function Interfaz() {}
         if(marcaSeleccionada === '' || anioSeleccionado === '' || tipo === ''){
             //interfaz imprimiendo un error
             //cuando hicimos el new podemos usar el prototype
-            interfaz.mostrarError('Faltan datos, revisa el formulario y crealo denuevo','error');
+            interfaz.mostrarMensaje('Faltan datos, revisa el formulario y crealo denuevo','error');
+
         }else{
+            //limpiamos los resultado anteriores a consultar
+            const resultados = document.querySelector('#resultado div')
+            if(resultados != null){
+                resultados.remove();
+            }
             //instanciar seguro y mostrar interfaz
             const seguro = new Seguro(marcaSeleccionada,anioSeleccionado,tipo);
             //cotizar el seguro
             const cantidad = seguro.cotizarSeguro(seguro);
             interfaz.mostrarResultado(seguro, cantidad);
+            interfaz.mostrarMensaje('Cotizando....','exito');
         }
     })
     //esto nos trae el maximo año actual
