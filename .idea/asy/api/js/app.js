@@ -3,14 +3,15 @@ document.getElementById('jsonBtn').addEventListener('click',cargarJSON);
 document.getElementById('apiBTN').addEventListener('click',cargarREST);
 
 
+
 function cargarTXT() {
-    fetch('datos.txt')
+    fetch('datos.txt',{mode: 'cors'})
         .then(function (res) {
             return res.text();
         })
         .then(function (empleados) {
             console.log(empleados);
-            document.getElementById('resultado').innerHTML = empleados;
+            document.getElementById('response').innerHTML = empleados;
         })
         .then((function (error) {
             console.log(error);
@@ -30,7 +31,7 @@ function cargarJSON() {
                 <li>${empleado.nombre} ${empleado.puesto}</li>
             `;
             })
-            document.getElementById('resultado').innerHTML = html;
+            document.getElementById('response').innerHTML = html;
         })
         .catch(function (error) {
             console.log(error);
@@ -38,7 +39,6 @@ function cargarJSON() {
 }
 
 function cargarREST() {
-    console.log('asd')
     fetch('https://picsum.photos/v2/list')
         .then(function (res) {
             return res.json();
@@ -53,8 +53,11 @@ function cargarREST() {
                     </li>
                 `;
             })
+            
+            document.getElementById('response').innerHTML = html; 
         })
         .catch(function (error) {
             console.log(error);
         })
 }
+
