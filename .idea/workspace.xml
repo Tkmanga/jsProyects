@@ -20,6 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="94462d20-5c7f-4a1e-b8c7-7655b1aaaaf6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/asy/callback/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asy/callback/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asy/promise/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asy/promise/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sextoProyecto/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sextoProyecto/js/app.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,6 +65,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Desktop\jproyects\jsProyects\.idea\asy\callback" />
       <recent name="C:\Users\User\Desktop\jproyects\jsProyects\.idea\toricaAjaxRequest\sinJson" />
       <recent name="C:\Users\User\Desktop\jproyects\jsProyects\.idea\primerProyecto" />
     </key>
@@ -105,6 +111,10 @@
       <workItem from="1587493201162" duration="7746000" />
       <workItem from="1587666188070" duration="155000" />
       <workItem from="1589299379156" duration="17401000" />
+      <workItem from="1589343443048" duration="347000" />
+      <workItem from="1589345378013" duration="486000" />
+      <workItem from="1589382722236" duration="4783000" />
+      <workItem from="1589400316420" duration="1477000" />
     </task>
     <task id="LOCAL-00001" summary="terminado primer ejercicio js">
       <created>1584843303560</created>
@@ -286,9 +296,9 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="680" y="176" key="run.anything.popup/0.0.1366.768@0.0.1366.768" timestamp="1585004625508" />
-    <state x="1103" y="401" width="672" height="678" key="search.everywhere.popup" timestamp="1586131551969">
+    <state x="1103" y="401" width="672" height="678" key="search.everywhere.popup" timestamp="1589384605692">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="1103" y="401" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1586131551969" />
+    <state x="1103" y="401" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1589384605692" />
   </component>
 </project>
