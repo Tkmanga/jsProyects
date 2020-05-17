@@ -20,7 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="94462d20-5c7f-4a1e-b8c7-7655b1aaaaf6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/originalTeoricoDom/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/originalTeoricoDom/js/app.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,11 +56,10 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Codo a Codo" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../CaC" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\User\Desktop\jproyects\jsProyects\.idea\asy" />
       <recent name="C:\Users\User\Desktop\jproyects\jsProyects\.idea\asy\callback" />
       <recent name="C:\Users\User\Desktop\jproyects\jsProyects\.idea\toricaAjaxRequest\sinJson" />
       <recent name="C:\Users\User\Desktop\jproyects\jsProyects\.idea\primerProyecto" />
@@ -112,8 +111,6 @@
       <workItem from="1589382722236" duration="4783000" />
       <workItem from="1589400316420" duration="1544000" />
       <workItem from="1589404214680" duration="1974000" />
-      <workItem from="1589414155513" duration="959000" />
-      <workItem from="1589566353914" duration="767000" />
     </task>
     <task id="LOCAL-00001" summary="terminado primer ejercicio js">
       <created>1584843303560</created>
@@ -220,14 +217,7 @@
       <option name="project" value="LOCAL" />
       <updated>1589401833426</updated>
     </task>
-    <task id="LOCAL-00016" summary="solucionado problemas de APIS!">
-      <created>1589414205937</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1589414205937</updated>
-    </task>
-    <option name="localTasksCounter" value="17" />
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -253,8 +243,7 @@
     <MESSAGE value="haciendo parte teorica me quede en el comienzo del video 44" />
     <MESSAGE value="terminando cuarto proyecto &#10;terminando quinto proyecto" />
     <MESSAGE value="sexto proyecto y callbaks *falta solucionar el tema que no me deja hacer llamadas a las APIS!!!!" />
-    <MESSAGE value="solucionado problemas de APIS!" />
-    <option name="LAST_COMMIT_MESSAGE" value="solucionado problemas de APIS!" />
+    <option name="LAST_COMMIT_MESSAGE" value="sexto proyecto y callbaks *falta solucionar el tema que no me deja hacer llamadas a las APIS!!!!" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1325" y="403" key="#Notifications" timestamp="1586629652235">
@@ -273,23 +262,24 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="1120" y="536" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1586626736535" />
-    <state x="585" y="134" key="CommitChangelistDialog2" timestamp="1589414205350">
+    <state x="585" y="134" key="CommitChangelistDialog2" timestamp="1589401832907">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="416" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1584915723539" />
-    <state x="585" y="134" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1589414205350" />
+    <state x="585" y="134" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1589401832907" />
     <state x="368" y="90" width="1536" height="892" key="DiffContextDialog" timestamp="1586183756019">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="368" y="90" width="1536" height="892" key="DiffContextDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1586183756019" />
-    <state x="1220" y="295" key="FileChooserDialogImpl" timestamp="1589401856110">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state x="868" y="210" key="FileChooserDialogImpl" timestamp="1589579016860">
+      <screen x="0" y="0" width="1366" height="768" />
     </state>
+    <state x="868" y="210" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1589579016860" />
     <state x="1220" y="295" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1589401856110" />
-    <state x="1032" y="273" key="Vcs.Push.Dialog.v2" timestamp="1589414207682">
+    <state x="1032" y="273" key="Vcs.Push.Dialog.v2" timestamp="1589401836163">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="1032" y="273" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1589414207682" />
+    <state x="1032" y="273" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1589401836163" />
     <state x="656" y="364" key="com.intellij.ide.util.TipDialog" timestamp="1586626692227">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>

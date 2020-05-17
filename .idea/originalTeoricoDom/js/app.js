@@ -19,7 +19,7 @@ elemento = document.forms[0].classList[0];
 elemento = document.images;
 elemento = document.images[2];
 elemento = document.images[2].src;
-elemento = document.images[2].getAttribute('src');.3
+elemento = document.images[2].getAttribute('src'); // .3 aca habia un .3 no me acuerdo por que
 elemento = document.scripts;
 elemento = document.images;
 let imagenes = document.images;
@@ -29,10 +29,19 @@ imagenesArr.forEach(function (imagen) {
 })
 
 //get
-let ele;
-ele = document.getElementById('header');
 let encabezado;
-encabezado = document.getElementById('encabezado'); //classname
+encabezado = document.getElementById('encabezado');
+//.classname
+//.id
+//.textContent
+//.innerText
+//.style.background se les puede hacer miles de modificaciones
 
+// Query Selector
 
-console.log(elemento);
+const encabezadoo = document.querySelector('#encabezado');
+console.log(encabezadoo);
+
+//aplicar CSS
+
+encabezadoo.style.background = '#333';
