@@ -20,7 +20,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="94462d20-5c7f-4a1e-b8c7-7655b1aaaaf6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/originalTeoricoDom/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/originalTeoricoDom/js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asy/asyFunction/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asy/asyFunction/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asy/asyFunctionAPI/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asy/asyFunctionAPI/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/asy/api/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/asy/api/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/asy/api/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/asy/api/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sextoProyecto/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sextoProyecto/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sextoProyecto/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sextoProyecto/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_15_5_2020_6_32_p__m___Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_15_5_2020_6_32_p__m___Default_Changelist_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_17_5_2020_8_13_p__m___Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_17_5_2020_8_13_p__m___Default_Changelist_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,10 +66,11 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../CaC" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Desktop\jproyects\jsProyects\.idea\asy" />
       <recent name="C:\Users\User\Desktop\jproyects\jsProyects\.idea\asy\callback" />
       <recent name="C:\Users\User\Desktop\jproyects\jsProyects\.idea\toricaAjaxRequest\sinJson" />
       <recent name="C:\Users\User\Desktop\jproyects\jsProyects\.idea\primerProyecto" />
@@ -111,6 +122,12 @@
       <workItem from="1589382722236" duration="4783000" />
       <workItem from="1589400316420" duration="1544000" />
       <workItem from="1589404214680" duration="1974000" />
+      <workItem from="1589414155513" duration="959000" />
+      <workItem from="1589566353914" duration="767000" />
+      <workItem from="1589581862420" duration="826000" />
+      <workItem from="1589647829481" duration="18000" />
+      <workItem from="1589774245330" duration="2850000" />
+      <workItem from="1589825477396" duration="5633000" />
     </task>
     <task id="LOCAL-00001" summary="terminado primer ejercicio js">
       <created>1584843303560</created>
@@ -217,7 +234,21 @@
       <option name="project" value="LOCAL" />
       <updated>1589401833426</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="solucionado problemas de APIS!">
+      <created>1589414205937</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1589414205937</updated>
+    </task>
+    <task id="LOCAL-00017" summary="solucionado problemas de APIS!">
+      <created>1589581888180</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1589581888180</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -243,7 +274,8 @@
     <MESSAGE value="haciendo parte teorica me quede en el comienzo del video 44" />
     <MESSAGE value="terminando cuarto proyecto &#10;terminando quinto proyecto" />
     <MESSAGE value="sexto proyecto y callbaks *falta solucionar el tema que no me deja hacer llamadas a las APIS!!!!" />
-    <option name="LAST_COMMIT_MESSAGE" value="sexto proyecto y callbaks *falta solucionar el tema que no me deja hacer llamadas a las APIS!!!!" />
+    <MESSAGE value="solucionado problemas de APIS!" />
+    <option name="LAST_COMMIT_MESSAGE" value="solucionado problemas de APIS!" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1325" y="403" key="#Notifications" timestamp="1586629652235">
@@ -262,24 +294,27 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="1120" y="536" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1586626736535" />
-    <state x="585" y="134" key="CommitChangelistDialog2" timestamp="1589401832907">
+    <state x="585" y="134" key="CommitChangelistDialog2" timestamp="1589581887748">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="416" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1584915723539" />
-    <state x="585" y="134" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1589401832907" />
+    <state x="585" y="134" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1589581887748" />
     <state x="368" y="90" width="1536" height="892" key="DiffContextDialog" timestamp="1586183756019">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="368" y="90" width="1536" height="892" key="DiffContextDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1586183756019" />
-    <state x="868" y="210" key="FileChooserDialogImpl" timestamp="1589579016860">
-      <screen x="0" y="0" width="1366" height="768" />
-    </state>
-    <state x="868" y="210" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1589579016860" />
-    <state x="1220" y="295" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1589401856110" />
-    <state x="1032" y="273" key="Vcs.Push.Dialog.v2" timestamp="1589401836163">
+    <state x="1220" y="295" key="FileChooserDialogImpl" timestamp="1589647845344">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="1032" y="273" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1589401836163" />
+    <state x="1220" y="295" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1589647845344" />
+    <state x="368" y="93" key="MergeDialog" timestamp="1589774259588">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="368" y="93" key="MergeDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1589774259588" />
+    <state x="1032" y="273" key="Vcs.Push.Dialog.v2" timestamp="1589581891881">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1032" y="273" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1589581891881" />
     <state x="656" y="364" key="com.intellij.ide.util.TipDialog" timestamp="1586626692227">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -289,10 +324,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="549" y="459" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1584797229237" />
-    <state x="1249" y="457" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1589401793061">
+    <state x="1249" y="457" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1589774246902">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="1249" y="457" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1080@0.0.1920.1080" timestamp="1589401793061" />
+    <state x="1249" y="457" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1080@0.0.1920.1080" timestamp="1589774246902" />
     <state x="65" y="108" key="new project wizard" timestamp="1584722595465">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
@@ -301,9 +336,9 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="680" y="176" key="run.anything.popup/0.0.1366.768@0.0.1366.768" timestamp="1585004625508" />
-    <state x="1103" y="401" width="672" height="678" key="search.everywhere.popup" timestamp="1589384605692">
+    <state x="1103" y="401" width="672" height="678" key="search.everywhere.popup" timestamp="1589828941788">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="1103" y="401" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1589384605692" />
+    <state x="1103" y="401" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1589828941788" />
   </component>
 </project>

@@ -3,27 +3,19 @@ document.getElementById('jsonBtn').addEventListener('click',cargarJSON);
 document.getElementById('apiBTN').addEventListener('click',cargarREST);
 
 
+//les pusimos en arrow functions para que se vea MEJOR y se entienda mas facil
 
 function cargarTXT() {
     fetch('datos.txt',{mode: 'cors'})
-        .then(function (res) {
-            return res.text();
-        })
-        .then(function (empleados) {
-            console.log(empleados);
-            document.getElementById('response').innerHTML = empleados;
-        })
-        .then((function (error) {
-            console.log(error);
-        }))
+        .then(res => res.text())
+        .then(empleados => document.getElementById('response').innerHTML = empleados)
+        .catch(error => console.log(error))
 }
 
 function cargarJSON() {
     fetch('empleados.json')
-        .then(function (res) {
-            return res.json();
-    })
-        .then(function (data) {
+        .then(res => res.json())
+        .then(data => {
 
             let html = '';
             data.forEach(function (empleado) {
@@ -33,31 +25,24 @@ function cargarJSON() {
             })
             document.getElementById('response').innerHTML = html;
         })
-        .catch(function (error) {
-            console.log(error);
-        })
+        .catch(error => console.log(error))
 }
 
 function cargarREST() {
     fetch('https://picsum.photos/v2/list')
-        .then(function (res) {
-            return res.json();
-        })
-        .then(function (data) {
+        .then( res => res.json())
+        .then(imagenes => {
             let html = '';
-            data.forEach(function (dato) {
+            imagenes.forEach(function (imagen) {
                 html += `
                     <li>
-                        <a href="${dato.download_url}">Ver imagen</a>
-                        ${dato.author}
+                        <a href="${imagen.download_url}">Ver imagen</a>
+                        ${imagen.author}
                     </li>
                 `;
             })
-            
             document.getElementById('response').innerHTML = html; 
         })
-        .catch(function (error) {
-            console.log(error);
-        })
+        .catch(error => console.log(error))
 }
 
