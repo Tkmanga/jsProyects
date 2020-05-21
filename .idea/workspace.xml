@@ -20,11 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="94462d20-5c7f-4a1e-b8c7-7655b1aaaaf6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/octavoProyecto/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/octavoProyecto/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/octavoProyecto/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/octavoProyecto/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/novenoProyecto/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/novenoProyecto/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/novenoProyecto/js/eventbrite.js" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/novenoProyecto/js/eventbrite.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/novenoProyecto/js/interfaz.js" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/novenoProyecto/js/interfaz.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/octavoProyecto/js/api.js" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/octavoProyecto/js/api.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/octavoProyecto/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/octavoProyecto/js/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/octavoProyecto/js/ui.js" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/octavoProyecto/js/ui.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -126,7 +125,7 @@
       <workItem from="1589934495547" duration="336000" />
       <workItem from="1589934846070" duration="812000" />
       <workItem from="1590022363856" duration="6175000" />
-      <workItem from="1590073968829" duration="3919000" />
+      <workItem from="1590073968829" duration="6096000" />
     </task>
     <task id="LOCAL-00001" summary="terminado primer ejercicio js">
       <created>1584843303560</created>
@@ -254,7 +253,14 @@
       <option name="project" value="LOCAL" />
       <updated>1589837539022</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Octavo proyecto!">
+      <created>1590086482220</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1590086482220</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -301,11 +307,11 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="1120" y="536" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1586626736535" />
-    <state x="585" y="134" key="CommitChangelistDialog2" timestamp="1589837538464">
+    <state x="585" y="134" key="CommitChangelistDialog2" timestamp="1590086481298">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="416" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1584915723539" />
-    <state x="585" y="134" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1589837538464" />
+    <state x="585" y="134" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1590086481298" />
     <state x="368" y="90" width="1536" height="892" key="DiffContextDialog" timestamp="1586183756019">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -318,10 +324,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="368" y="93" key="MergeDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1589774259588" />
-    <state x="1032" y="273" key="Vcs.Push.Dialog.v2" timestamp="1589837542173">
+    <state x="1032" y="273" key="Vcs.Push.Dialog.v2" timestamp="1590086484099">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="1032" y="273" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1589837542173" />
+    <state x="1032" y="273" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1590086484099" />
     <state x="656" y="364" key="com.intellij.ide.util.TipDialog" timestamp="1586626692227">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
