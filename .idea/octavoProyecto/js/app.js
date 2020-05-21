@@ -1,4 +1,6 @@
+const coti = new API(`c6ad9092ef9c8eaba3be4a899cfb5a5f15969f395ada211dfb0e298f13383d27`);
 const ui = new Interfaz();
+
 //leer formulario
 
 const formulario = document.querySelector('#formulario').addEventListener('submit',(e)=>{
@@ -15,9 +17,12 @@ const formulario = document.querySelector('#formulario').addEventListener('submi
     const cryptomonedaSeleccionada = cryptomonedaSelect.options[cryptomonedaSelect.selectedIndex].value;
 
     if(monedaSeleccionada === '' || cryptomonedaSeleccionada === '' ){
-        ui.mostrarMensaje('ambos campos son obligatorios','alert');
+        ui.mostrarMensaje('Ambos campos son obligatorios','alert bg-danger text-center');
     }else {
-        console.log(monedaSeleccionada);
-        console.log(cryptomonedaSeleccionada);
+
+        coti.obtenerValores(monedaSeleccionada, cryptomonedaSeleccionada)
+            .then(data => {
+                ui.mostrarResultado(data.resultado.RAW,monedaSeleccionada,cryptomonedaSeleccionada);
+            })
     }
 })
