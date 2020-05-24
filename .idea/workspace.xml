@@ -19,13 +19,12 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="94462d20-5c7f-4a1e-b8c7-7655b1aaaaf6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/novenoProyecto/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/novenoProyecto/js/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/novenoProyecto/js/eventbrite.js" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/novenoProyecto/js/eventbrite.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/novenoProyecto/js/interfaz.js" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/novenoProyecto/js/interfaz.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_15_5_2020_6_32_p__m___Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_15_5_2020_6_32_p__m___Default_Changelist_.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_17_5_2020_8_13_p__m___Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_17_5_2020_8_13_p__m___Default_Changelist_.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_18_5_2020_12_57_a__m___Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_18_5_2020_12_57_a__m___Default_Changelist_.xml" afterDir="false" />
+    <list default="true" id="94462d20-5c7f-4a1e-b8c7-7655b1aaaaf6" name="Default Changelist" comment="ejercicio noveno ! me quede en el search by name por que parece que ya esta deprecado">
+      <change afterPath="$PROJECT_DIR$/.idea/Games/01/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Games/01/desing.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Games/01/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_15_5_2020_6_32_p__m__[Default_Changelist]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_15_5_2020_6_32_p__m___Default_Changelist_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,6 +40,7 @@
       <list>
         <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -63,6 +63,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -119,7 +120,8 @@
       <workItem from="1589404214680" duration="1974000" />
       <workItem from="1589757203053" duration="747000" />
       <workItem from="1589903700220" duration="814000" />
-      <workItem from="1590095308580" duration="7121000" />
+      <workItem from="1590095308580" duration="7788000" />
+      <workItem from="1590274521893" duration="4250000" />
     </task>
     <task id="LOCAL-00001" summary="terminado primer ejercicio js">
       <created>1584843303560</created>
@@ -233,7 +235,14 @@
       <option name="project" value="LOCAL" />
       <updated>1589757256207</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="ejercicio noveno ! me quede en el search by name por que parece que ya esta deprecado">
+      <created>1590105430515</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1590105430515</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -260,7 +269,8 @@
     <MESSAGE value="terminando cuarto proyecto &#10;terminando quinto proyecto" />
     <MESSAGE value="sexto proyecto y callbaks *falta solucionar el tema que no me deja hacer llamadas a las APIS!!!!" />
     <MESSAGE value="agregando contenido visto durante corte de internet" />
-    <option name="LAST_COMMIT_MESSAGE" value="agregando contenido visto durante corte de internet" />
+    <MESSAGE value="ejercicio noveno ! me quede en el search by name por que parece que ya esta deprecado" />
+    <option name="LAST_COMMIT_MESSAGE" value="ejercicio noveno ! me quede en el search by name por que parece que ya esta deprecado" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1325" y="403" key="#Notifications" timestamp="1586629652235">
@@ -279,10 +289,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="1120" y="536" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1586626736535" />
-    <state x="122" y="0" key="CommitChangelistDialog2" timestamp="1589757254823">
+    <state x="122" y="0" key="CommitChangelistDialog2" timestamp="1590116169312">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="122" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1589757254823" />
+    <state x="122" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1590116169312" />
     <state x="585" y="134" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1589401832907" />
     <state x="368" y="90" width="1536" height="892" key="DiffContextDialog" timestamp="1586183756019">
       <screen x="0" y="0" width="1920" height="1080" />
@@ -297,10 +307,10 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="129" y="59" key="MergeDialog/0.0.1366.768@0.0.1366.768" timestamp="1590095458224" />
-    <state x="550" y="194" key="Vcs.Push.Dialog.v2" timestamp="1589757260512">
+    <state x="550" y="194" key="Vcs.Push.Dialog.v2" timestamp="1590105437520">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="550" y="194" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1589757260512" />
+    <state x="550" y="194" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1590105437520" />
     <state x="1032" y="273" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1589401836163" />
     <state x="656" y="364" key="com.intellij.ide.util.TipDialog" timestamp="1586626692227">
       <screen x="0" y="0" width="1920" height="1080" />
@@ -311,10 +321,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="549" y="459" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1584797229237" />
-    <state x="889" y="325" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1590095427019">
+    <state x="889" y="325" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1590277746316">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="889" y="325" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.768@0.0.1366.768" timestamp="1590095427019" />
+    <state x="889" y="325" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.768@0.0.1366.768" timestamp="1590277746316" />
     <state x="1249" y="457" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1080@0.0.1920.1080" timestamp="1589401793061" />
     <state x="65" y="108" key="new project wizard" timestamp="1584722595465">
       <screen x="0" y="0" width="1366" height="768" />
