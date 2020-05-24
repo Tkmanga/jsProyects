@@ -20,8 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="94462d20-5c7f-4a1e-b8c7-7655b1aaaaf6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/Games/01/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Games/01/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Games/01/img/withe.png" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Games/01/img/white.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Games/02/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Games/02/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Games/02/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -118,7 +119,7 @@
       <workItem from="1589757203053" duration="747000" />
       <workItem from="1589903700220" duration="814000" />
       <workItem from="1590095308580" duration="7788000" />
-      <workItem from="1590274521893" duration="9656000" />
+      <workItem from="1590274521893" duration="11066000" />
     </task>
     <task id="LOCAL-00001" summary="terminado primer ejercicio js">
       <created>1584843303560</created>
@@ -246,7 +247,14 @@
       <option name="project" value="LOCAL" />
       <updated>1590281612025</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="games 01 memory game falta corregir el tema del doble click sobre la misma imagen (la toma como un movimiento valido una vez que se pickeo una imagen no se puede volver a pickear)">
+      <created>1590287452953</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1590287452953</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -275,7 +283,8 @@
     <MESSAGE value="agregando contenido visto durante corte de internet" />
     <MESSAGE value="ejercicio noveno ! me quede en el search by name por que parece que ya esta deprecado" />
     <MESSAGE value="Games" />
-    <option name="LAST_COMMIT_MESSAGE" value="Games" />
+    <MESSAGE value="games 01 memory game falta corregir el tema del doble click sobre la misma imagen (la toma como un movimiento valido una vez que se pickeo una imagen no se puede volver a pickear)" />
+    <option name="LAST_COMMIT_MESSAGE" value="games 01 memory game falta corregir el tema del doble click sobre la misma imagen (la toma como un movimiento valido una vez que se pickeo una imagen no se puede volver a pickear)" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1325" y="403" key="#Notifications" timestamp="1586629652235">
@@ -294,10 +303,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="1120" y="536" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1586626736535" />
-    <state x="122" y="0" key="CommitChangelistDialog2" timestamp="1590281610574">
+    <state x="122" y="0" key="CommitChangelistDialog2" timestamp="1590287451975">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="122" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1590281610574" />
+    <state x="122" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1590287451975" />
     <state x="585" y="134" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1589401832907" />
     <state x="368" y="90" width="1536" height="892" key="DiffContextDialog" timestamp="1586183756019">
       <screen x="0" y="0" width="1920" height="1080" />
@@ -312,10 +321,10 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="129" y="59" key="MergeDialog/0.0.1366.768@0.0.1366.768" timestamp="1590095458224" />
-    <state x="550" y="194" key="Vcs.Push.Dialog.v2" timestamp="1590281614631">
+    <state x="550" y="194" key="Vcs.Push.Dialog.v2" timestamp="1590287456202">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="550" y="194" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1590281614631" />
+    <state x="550" y="194" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1590287456202" />
     <state x="1032" y="273" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1589401836163" />
     <state x="656" y="364" key="com.intellij.ide.util.TipDialog" timestamp="1586626692227">
       <screen x="0" y="0" width="1920" height="1080" />
