@@ -19,24 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="94462d20-5c7f-4a1e-b8c7-7655b1aaaaf6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Games/02/mole.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Games/03/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Games/03/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Games/03/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Games/04/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Games/04/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Games/04/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Games/02/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Games/02/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Games/02/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Games/02/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Games/02/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Games/02/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_17_5_2020_8_13_p__m__[Default_Changelist]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_17_5_2020_8_13_p__m___Default_Changelist_.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_18_5_2020_12_57_a__m___Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_18_5_2020_12_57_a__m___Default_Changelist_.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_19_5_2020_12_56_p__m___Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_19_5_2020_12_56_p__m___Default_Changelist_.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_21_5_2020_6_10_p__m___Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_21_5_2020_6_10_p__m___Default_Changelist_.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="94462d20-5c7f-4a1e-b8c7-7655b1aaaaf6" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -143,7 +126,7 @@
       <workItem from="1590258063499" duration="545000" />
       <workItem from="1590277693791" duration="38000" />
       <workItem from="1590361876649" duration="4306000" />
-      <workItem from="1590374431117" duration="10876000" />
+      <workItem from="1590374431117" duration="10935000" />
     </task>
     <task id="LOCAL-00001" summary="terminado primer ejercicio js">
       <created>1584843303560</created>
@@ -292,7 +275,14 @@
       <option name="project" value="LOCAL" />
       <updated>1590277723847</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Cuarto proyecto games">
+      <created>1590454241431</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1590454241432</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -321,7 +311,8 @@
     <MESSAGE value="solucionado problemas de APIS!" />
     <MESSAGE value="Octavo proyecto!" />
     <MESSAGE value="noveno proyecto" />
-    <option name="LAST_COMMIT_MESSAGE" value="noveno proyecto" />
+    <MESSAGE value="Cuarto proyecto games" />
+    <option name="LAST_COMMIT_MESSAGE" value="Cuarto proyecto games" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1325" y="403" key="#Notifications" timestamp="1590258087276">
@@ -340,11 +331,11 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="1120" y="536" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1586626736535" />
-    <state x="585" y="134" key="CommitChangelistDialog2" timestamp="1590277723349">
+    <state x="585" y="134" key="CommitChangelistDialog2" timestamp="1590454240779">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="416" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1584915723539" />
-    <state x="585" y="134" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1590277723349" />
+    <state x="585" y="134" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1590454240779" />
     <state x="368" y="90" width="1536" height="892" key="DiffContextDialog" timestamp="1586183756019">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -361,10 +352,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="848" y="408" width="389" height="264" key="MultipleFileMergeDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1590361948642" />
-    <state x="1032" y="273" key="Vcs.Push.Dialog.v2" timestamp="1590277728417">
+    <state x="1032" y="273" key="Vcs.Push.Dialog.v2" timestamp="1590454246063">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="1032" y="273" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1590277728417" />
+    <state x="1032" y="273" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1590454246063" />
     <state x="656" y="364" key="com.intellij.ide.util.TipDialog" timestamp="1586626692227">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
