@@ -12,8 +12,10 @@
 *
 * */
 
+
 document.addEventListener('DOMContentLoaded',() =>{
 
+    //define the variables
     const squares = document.querySelectorAll('.grid div');
     const scoreDisplay = document.querySelector('span');
     const startBtn = document.querySelector('.start');
@@ -35,7 +37,7 @@ document.addEventListener('DOMContentLoaded',() =>{
         squares[appleIndex].classList.remove('apple')
         clearInterval(interval)
         score = 0
-        //randomApple()
+        randomApple()
         direction = 1
         scoreDisplay.innerText = score;
         intervalTime = 1000;
@@ -43,8 +45,6 @@ document.addEventListener('DOMContentLoaded',() =>{
         currentIndex = 0;
         currentSnake.forEach(index => squares[index].classList.add('snake'))
         interval = setInterval(moveOutComes,intervalTime);
-
-
     }
 
     //function that deals with all the ove outcomes of the snake
@@ -53,15 +53,42 @@ document.addEventListener('DOMContentLoaded',() =>{
 
     //deal with snake hitting border and snakes hitting self
     if(
-        (currentSnake[0] + width >= (width*width) && direction === width ) ||
-        (currentSnake[0] % width === width - 1 && direction === 1) ||
-        (currentSnake[0] % width === 0 && direction === 1) ||
-        (currentSnake[0] - width < 0 && direction === -width) ||
-        squares[currentSnake[0+ direction].claim() ]
-    )
-    //deal with snake getting apple
-
+        (currentSnake[0] + width >= (width*width) && direction === width ) || // if the snake hits bottom
+        (currentSnake[0] % width === width - 1 && direction === 1) || // if the snake hits right wall
+        (currentSnake[0] % width === 0 && direction === -1) || // if snake hits left wall
+        (currentSnake[0] - width < 0 && direction === -width) || //if snake hits the top
+        squares[currentSnake[0]+ direction].classList.contains('snake') //if snake goes into itself
+    ) {
+        return clearInterval(interval) //this will clear the interval if any of the above happen
     }
+
+    const tail = currentSnake.pop(); //removes last item of the array and  shows it
+    squares[tail].classList.remove('snake'); //removes class of snake from the tail
+    currentSnake.unshift(currentSnake[0] + direction) // gives direction to the head of the array
+
+    //deal with snake getting apple
+    if(squares[currentSnake[0]].classList.contains('apple')){
+        squares[currentSnake[0]].classList.remove('apple');
+        squares[tail].classList.add('snake');
+        currentSnake.push(tail);
+        randomApple();
+        score++
+        scoreDisplay.textContent = score;
+        clearInterval(interval)
+        intervalTime = intervalTime * speed;
+        interval = setInterval(moveOutComes,intervalTime);
+    }
+    squares[currentSnake[0]].classList.add('snake');
+    }
+
+    //random apple
+    function randomApple() {
+        do{
+            appleIndex = Math.floor(Math.random() * squares.length)
+        } while(squares[appleIndex].classList.contains('snake')) //making sure apples dont appear on the snake
+        squares[appleIndex].classList.add('apple')
+    }
+    
     //assing function to keycodes
     function control(e) {
         squares[currentIndex].classList.remove('snake'); //we are removing the class from all the squares
@@ -71,14 +98,16 @@ document.addEventListener('DOMContentLoaded',() =>{
         }else if (e.keyCode === 38){
             direction = -width; //if we press down arrow, the snake will go back ten divs, appearing to go up
         }else if(e.keyCode === 37){
-            direction -1; //if we press left, the snake will  go left one div
+            direction = -1; //if we press left, the snake will  go left one div
         }else if(e.keyCode === 40){
             direction = +width; //if  we press down, the sanek head will instanly appear in the div ten divs from where you are now
         }
-
-        document.addEventListener('keyup',control)
-
-
     }
 
+    function msjUser(mensaje, num){
+        alert(`${mensaje}: ${num}`)
+    }
+
+    document.addEventListener('keyup',control);
+    startBtn.addEventListener('click',startGame);
 });
