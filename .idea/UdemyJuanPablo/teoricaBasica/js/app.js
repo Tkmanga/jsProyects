@@ -756,6 +756,8 @@ for(var a = 0; a<10; a++){
 }
 
 
+
+
 //DOM document object modelm
 
 
@@ -777,3 +779,4 @@ console.log(nombre);
 
 //PROYECTO UTILIZANDO LOCAL STORAGE
 */
+

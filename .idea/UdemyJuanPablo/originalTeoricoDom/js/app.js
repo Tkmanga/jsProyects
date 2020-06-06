@@ -1,56 +1,50 @@
-//arrow functions
-//basico
-let aprendiendo;
-aprendiendo = function(){
-  console.log('aprendiendo javascript');
-}
-//reducido
-aprendiendoA = () => {
-  console.log('aprendiendo arrow function de javascript');
-}
-//aun mas reducido
-aprendiendoB = () => console.log('reducir codigo');
-// AUN MAS REDUCIDO
-aprendiendoC = () => "reducir aun mas codigo";
-//devolviendo un objeto
-aprendiendoD = () => ({tomate: 'perita'});
-//pasandole parametros
-aprendiendoD = (tec) => (console.log(`Aprendiendo ${tec}`));
-//puede ir sin parentecis cuando tenes 1 parametro nada mas
-aprendiendoD = tec => (console.log(`Aprendiendo ${tec}`));
-//con mas parametros
-aprendiendoD = (fru1, fru2) => (console.log(`Fruta ${fru1} ${fru2}`))
+// Eliminar de Local Storage
+localStorage.clear();
 
-//maps
+let elemento = document;
+elemento = document.all;
+elemento = document.all[10]; //esta es una forma de seleccionar un elemento pero no es la mas usada
+elemento = document.head;
+elemento = document.body;
+elemento = document.domain;
+elemento = document.URL; // url
+elemento = document.characterSet; //utf etc
+elemento = document.forms; //devuelve un formulario
+elemento = document.forms[0]; //devuelve un formulario
 
-const productos = ['aaaa','bbb','ccasd','dqweredsf'];
+elemento = document.forms[0].id; //devuelve un formulario
+elemento = document.forms[0].classList;
+elemento = document.forms[0].className;
+elemento = document.forms[0].classList[0];
+elemento = document.images;
+elemento = document.images[2];
+elemento = document.images[2].src;
+elemento = document.images[2].getAttribute('src'); // .3 aca habia un .3 no me acuerdo por que
+elemento = document.scripts;
+elemento = document.images;
+let imagenes = document.images;
+let imagenesArr = Array.from(imagenes);
+imagenesArr.forEach(function (imagen) {
+    console.log(imagen);
+})
 
-const cantidadProductos =
+//get
+let encabezado;
+encabezado = document.getElementById('encabezado');
+//.classname
+//.id
+//.textContent
+//.innerText
+//.style.background se les puede hacer miles de modificaciones
 
-/*productos.map(function(producto){
-  return producto.length;
-});
+// Query Selector
 
+const encabezadoo = document.querySelector('#encabezado');
+console.log(encabezadoo);
 
-productos.map((producto) =>{
-  return producto.length;
-});
+//aplicar CSS
 
-productos.map(producto =>{
-  return producto.length;
-});
-*/
-//vs mas reducida
-productos.map(producto => producto.length);
-
-//console.log(cantidadProductos);
-//tambien podemos en vez de crear una variable imprimir sus valores en tiempo de salida
-
-productos.forEach((producto) => console.log(producto.length));
-
-//aprendiendoB();
-//console.log(aprendiendoC());
-aprendiendoD('tomates', 'lechuga');
+encabezadoo.style.background = '#333';
 
 
 ///TEORICAA BASICA
@@ -94,4 +88,4 @@ let liink = Array.from(links);
 enlaces.forEach(enlace => console.log(enlace.textContent));
 
 const enlacee = document.querySelectorAll('#principal .enlace');
-enlacee[1].style  
+enlacee[1].style

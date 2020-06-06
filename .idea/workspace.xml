@@ -20,10 +20,142 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="94462d20-5c7f-4a1e-b8c7-7655b1aaaaf6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Games/07/desing.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Games/07/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/UdemyJuanPablo/AseccionOneToFiveNotation/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/AseccionObjeto/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/UdemyJuanPablo/AseccionObjeto/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/AseccionObjeto/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/UdemyJuanPablo/AseccionObjeto/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/AseccionOneToFiveNotation/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/UdemyJuanPablo/AseccionOneToFiveNotation/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/AseccionOneToFiveNotation/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Games/07/app.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/Games/06/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Games/06/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Games/06/design.css" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Games/06/design.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Games/06/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Games/06/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_1_6_2020_1_58_p__m___Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_1_6_2020_1_58_p__m___Default_Changelist_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/asy/api/css/normalize.css" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/UdemyJuanPablo/Proyects/01/css/normalize.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/asy/api/css/skeleton.css" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/UdemyJuanPablo/Proyects/01/css/skeleton.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/asy/api/datos.txt" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/UdemyJuanPablo/asy/api/datos.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/asy/api/empleados.json" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/UdemyJuanPablo/asy/api/empleados.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/asy/api/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/UdemyJuanPablo/asy/api/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/asy/api/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/UdemyJuanPablo/asy/api/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/asy/asyFunction/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/UdemyJuanPablo/asy/asyFunction/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/asy/asyFunction/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/UdemyJuanPablo/asy/asyFunction/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/asy/asyFunctionAPI/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/UdemyJuanPablo/asy/asyFunctionAPI/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/asy/asyFunctionAPI/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/UdemyJuanPablo/asy/asyFunctionAPI/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/asy/callback/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/UdemyJuanPablo/asy/callback/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/asy/callback/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/UdemyJuanPablo/asy/callback/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/asy/promise/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/UdemyJuanPablo/asy/promise/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/asy/promise/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/UdemyJuanPablo/asy/promise/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/UdemyJuanPablo/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/cuartoProyecto/css/bootstrap-material-design.css" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/UdemyJuanPablo/Proyects/04/css/bootstrap-material-design.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/cuartoProyecto/css/bootstrap-material-design.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/UdemyJuanPablo/Proyects/04/css/bootstrap-material-design.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/cuartoProyecto/css/custom.css" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/UdemyJuanPablo/Proyects/04/css/custom.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/cuartoProyecto/img/spinner.gif" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/UdemyJuanPablo/Proyects/04/img/spinner.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/cuartoProyecto/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/UdemyJuanPablo/Proyects/04/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/cuartoProyecto/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/UdemyJuanPablo/Proyects/04/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/cuartoProyecto/js/appe6.js" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/UdemyJuanPablo/Proyects/04/js/appe6.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/cuartoProyecto/js/bootstrap-material-design.js" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/UdemyJuanPablo/Proyects/04/js/bootstrap-material-design.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/cuartoProyecto/js/bootstrap-material-design.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/UdemyJuanPablo/Proyects/04/js/bootstrap-material-design.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/cuartoProyecto/js/bootstrap-material-design.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/UdemyJuanPablo/Proyects/04/js/bootstrap-material-design.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/novenoProyecto/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/UdemyJuanPablo/novenoProyecto/css/bootstrap.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/novenoProyecto/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/UdemyJuanPablo/novenoProyecto/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/novenoProyecto/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/UdemyJuanPablo/novenoProyecto/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/novenoProyecto/js/eventbrite.js" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/UdemyJuanPablo/novenoProyecto/js/eventbrite.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/novenoProyecto/js/interfaz.js" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/UdemyJuanPablo/novenoProyecto/js/interfaz.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/octavoProyecto/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/UdemyJuanPablo/octavoProyecto/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/octavoProyecto/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/UdemyJuanPablo/octavoProyecto/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/octavoProyecto/js/api.js" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/UdemyJuanPablo/octavoProyecto/js/api.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/octavoProyecto/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/UdemyJuanPablo/octavoProyecto/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/octavoProyecto/js/ui.js" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/UdemyJuanPablo/octavoProyecto/js/ui.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/originalTeoricoDom/css/custom.css" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/UdemyJuanPablo/originalTeoricoDom/css/custom.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/originalTeoricoDom/css/normalize.css" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/UdemyJuanPablo/Proyects/02/css/normalize.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/originalTeoricoDom/css/skeleton.css" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/UdemyJuanPablo/Proyects/02/css/skeleton.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/originalTeoricoDom/img/cart.png" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/UdemyJuanPablo/Proyects/02/img/cart.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/originalTeoricoDom/img/curso1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/UdemyJuanPablo/Proyects/02/img/curso1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/originalTeoricoDom/img/curso2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/UdemyJuanPablo/Proyects/02/img/curso2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/originalTeoricoDom/img/curso3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/UdemyJuanPablo/Proyects/02/img/curso3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/originalTeoricoDom/img/curso4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/UdemyJuanPablo/Proyects/02/img/curso4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/originalTeoricoDom/img/curso5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/UdemyJuanPablo/Proyects/02/img/curso5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/originalTeoricoDom/img/estrellas.png" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/UdemyJuanPablo/Proyects/02/img/estrellas.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/originalTeoricoDom/img/hero.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/UdemyJuanPablo/Proyects/02/img/hero.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/originalTeoricoDom/img/icono1.png" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/UdemyJuanPablo/Proyects/02/img/icono1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/originalTeoricoDom/img/icono2.png" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/UdemyJuanPablo/Proyects/02/img/icono2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/originalTeoricoDom/img/icono3.png" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/UdemyJuanPablo/Proyects/02/img/icono3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/originalTeoricoDom/img/logo.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/UdemyJuanPablo/Proyects/02/img/logo.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/originalTeoricoDom/img/lupa.png" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/UdemyJuanPablo/Proyects/02/img/lupa.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/originalTeoricoDom/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/UdemyJuanPablo/originalTeoricoDom/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/originalTeoricoDom/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/UdemyJuanPablo/originalTeoricoDom/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/primerProyecto/css/custom.css" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/UdemyJuanPablo/Proyects/01/css/custom.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/primerProyecto/css/normalize.css" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/UdemyJuanPablo/Proyects/sextoProyecto/css/normalize.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/primerProyecto/css/skeleton.css" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/UdemyJuanPablo/Proyects/sextoProyecto/css/skeleton.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/primerProyecto/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/UdemyJuanPablo/Proyects/01/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/primerProyecto/script/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/UdemyJuanPablo/Proyects/01/script/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/quintoProyecto/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/UdemyJuanPablo/Proyects/05/css/bootstrap.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/quintoProyecto/css/custom.css" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/UdemyJuanPablo/Proyects/05/css/custom.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/quintoProyecto/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/UdemyJuanPablo/Proyects/05/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/quintoProyecto/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/UdemyJuanPablo/Proyects/05/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/quintoProyecto/js/bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/UdemyJuanPablo/Proyects/05/js/bootstrap.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/segundoProyecto/css/custom.css" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/UdemyJuanPablo/Proyects/02/css/custom.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/segundoProyecto/css/normalize.css" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/UdemyJuanPablo/asy/api/css/normalize.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/segundoProyecto/css/skeleton.css" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/UdemyJuanPablo/asy/api/css/skeleton.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/segundoProyecto/img/cart.png" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/UdemyJuanPablo/originalTeoricoDom/img/cart.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/segundoProyecto/img/curso1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/UdemyJuanPablo/originalTeoricoDom/img/curso1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/segundoProyecto/img/curso2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/UdemyJuanPablo/originalTeoricoDom/img/curso2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/segundoProyecto/img/curso3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/UdemyJuanPablo/originalTeoricoDom/img/curso3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/segundoProyecto/img/curso4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/UdemyJuanPablo/originalTeoricoDom/img/curso4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/segundoProyecto/img/curso5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/UdemyJuanPablo/originalTeoricoDom/img/curso5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/segundoProyecto/img/estrellas.png" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/UdemyJuanPablo/originalTeoricoDom/img/estrellas.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/segundoProyecto/img/hero.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/UdemyJuanPablo/originalTeoricoDom/img/hero.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/segundoProyecto/img/icono1.png" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/UdemyJuanPablo/originalTeoricoDom/img/icono1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/segundoProyecto/img/icono2.png" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/UdemyJuanPablo/originalTeoricoDom/img/icono2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/segundoProyecto/img/icono3.png" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/UdemyJuanPablo/originalTeoricoDom/img/icono3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/segundoProyecto/img/logo.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/UdemyJuanPablo/originalTeoricoDom/img/logo.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/segundoProyecto/img/lupa.png" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/UdemyJuanPablo/originalTeoricoDom/img/lupa.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/segundoProyecto/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/UdemyJuanPablo/Proyects/02/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/segundoProyecto/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/UdemyJuanPablo/Proyects/02/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sextoProyecto/css/custom.css" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/UdemyJuanPablo/Proyects/sextoProyecto/css/custom.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sextoProyecto/css/normalize.css" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/UdemyJuanPablo/originalTeoricoDom/css/normalize.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sextoProyecto/css/skeleton.css" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/UdemyJuanPablo/originalTeoricoDom/css/skeleton.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sextoProyecto/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/UdemyJuanPablo/Proyects/sextoProyecto/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sextoProyecto/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/UdemyJuanPablo/Proyects/sextoProyecto/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_1_6_2020_1_58_p__m__[Default_Changelist]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_1_6_2020_1_58_p__m___Default_Changelist_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/teoricaBasica/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/UdemyJuanPablo/teoricaBasica/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/teoricaBasica/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/UdemyJuanPablo/teoricaBasica/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/tercerProyecto/css/custom.css" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/UdemyJuanPablo/Proyects/03/css/custom.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/tercerProyecto/css/materialize.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/UdemyJuanPablo/Proyects/03/css/materialize.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/tercerProyecto/fonts/roboto/Roboto-Bold.woff" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/UdemyJuanPablo/Proyects/03/fonts/roboto/Roboto-Bold.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/tercerProyecto/fonts/roboto/Roboto-Bold.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/UdemyJuanPablo/Proyects/03/fonts/roboto/Roboto-Bold.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/tercerProyecto/fonts/roboto/Roboto-Light.woff" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/UdemyJuanPablo/Proyects/03/fonts/roboto/Roboto-Light.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/tercerProyecto/fonts/roboto/Roboto-Light.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/UdemyJuanPablo/Proyects/03/fonts/roboto/Roboto-Light.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/tercerProyecto/fonts/roboto/Roboto-Medium.woff" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/UdemyJuanPablo/Proyects/03/fonts/roboto/Roboto-Medium.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/tercerProyecto/fonts/roboto/Roboto-Medium.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/UdemyJuanPablo/Proyects/03/fonts/roboto/Roboto-Medium.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/tercerProyecto/fonts/roboto/Roboto-Regular.woff" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/UdemyJuanPablo/Proyects/03/fonts/roboto/Roboto-Regular.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/tercerProyecto/fonts/roboto/Roboto-Regular.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/UdemyJuanPablo/Proyects/03/fonts/roboto/Roboto-Regular.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/tercerProyecto/fonts/roboto/Roboto-Thin.woff" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/UdemyJuanPablo/Proyects/03/fonts/roboto/Roboto-Thin.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/tercerProyecto/fonts/roboto/Roboto-Thin.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/UdemyJuanPablo/Proyects/03/fonts/roboto/Roboto-Thin.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/tercerProyecto/img/mail.gif" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/UdemyJuanPablo/Proyects/03/img/mail.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/tercerProyecto/img/spinner.gif" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/UdemyJuanPablo/Proyects/03/img/spinner.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/tercerProyecto/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/UdemyJuanPablo/Proyects/03/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/tercerProyecto/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/UdemyJuanPablo/Proyects/03/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/tercerProyecto/js/materialize.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/UdemyJuanPablo/Proyects/03/js/materialize.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/toricaAjaxRequest/API/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/UdemyJuanPablo/toricaAjaxRequest/API/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/toricaAjaxRequest/API/css/normalize.css" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/UdemyJuanPablo/toricaAjaxRequest/API/css/normalize.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/toricaAjaxRequest/API/css/skeleton.css" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/UdemyJuanPablo/toricaAjaxRequest/API/css/skeleton.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/toricaAjaxRequest/API/debug.log" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/UdemyJuanPablo/toricaAjaxRequest/API/debug.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/toricaAjaxRequest/API/images/favicon.png" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/UdemyJuanPablo/toricaAjaxRequest/API/images/favicon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/toricaAjaxRequest/API/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/UdemyJuanPablo/toricaAjaxRequest/API/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/toricaAjaxRequest/conJson/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/UdemyJuanPablo/toricaAjaxRequest/conJson/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/toricaAjaxRequest/conJson/css/normalize.css" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/UdemyJuanPablo/toricaAjaxRequest/conJson/css/normalize.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/toricaAjaxRequest/conJson/css/skeleton.css" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/UdemyJuanPablo/toricaAjaxRequest/conJson/css/skeleton.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/toricaAjaxRequest/conJson/debug.log" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/UdemyJuanPablo/toricaAjaxRequest/conJson/debug.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/toricaAjaxRequest/conJson/empleado.json" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/UdemyJuanPablo/toricaAjaxRequest/conJson/empleado.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/toricaAjaxRequest/conJson/empleados.json" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/UdemyJuanPablo/toricaAjaxRequest/conJson/empleados.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/toricaAjaxRequest/conJson/images/favicon.png" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/UdemyJuanPablo/toricaAjaxRequest/conJson/images/favicon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/toricaAjaxRequest/conJson/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/UdemyJuanPablo/toricaAjaxRequest/conJson/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/toricaAjaxRequest/sinJson/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/UdemyJuanPablo/toricaAjaxRequest/sinJson/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/toricaAjaxRequest/sinJson/css/normalize.css" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/UdemyJuanPablo/toricaAjaxRequest/sinJson/css/normalize.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/toricaAjaxRequest/sinJson/css/skeleton.css" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/UdemyJuanPablo/toricaAjaxRequest/sinJson/css/skeleton.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/toricaAjaxRequest/sinJson/datos.txt" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/UdemyJuanPablo/toricaAjaxRequest/sinJson/datos.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/toricaAjaxRequest/sinJson/images/favicon.png" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/UdemyJuanPablo/toricaAjaxRequest/sinJson/images/favicon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/toricaAjaxRequest/sinJson/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/UdemyJuanPablo/toricaAjaxRequest/sinJson/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/withoutInternet/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/withoutInternet/app.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -66,9 +198,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Desktop\jsProyects\.idea\UdemyJuanPablo\Proyects" />
+      <recent name="C:\Users\User\Desktop\jsProyects\.idea\UdemyJuanPablo" />
+      <recent name="C:\Users\User\Desktop\jproyects\jsProyects\.idea\asy" />
       <recent name="C:\Users\User\Desktop\jproyects\jsProyects\.idea\asy\callback" />
       <recent name="C:\Users\User\Desktop\jproyects\jsProyects\.idea\toricaAjaxRequest\sinJson" />
-      <recent name="C:\Users\User\Desktop\jproyects\jsProyects\.idea\primerProyecto" />
     </key>
   </component>
   <component name="SvnConfiguration">
@@ -117,18 +251,29 @@
       <workItem from="1589382722236" duration="4783000" />
       <workItem from="1589400316420" duration="1544000" />
       <workItem from="1589404214680" duration="1974000" />
-      <workItem from="1589757203053" duration="747000" />
-      <workItem from="1589903700220" duration="814000" />
-      <workItem from="1590095308580" duration="7788000" />
-      <workItem from="1590274521893" duration="11101000" />
-      <workItem from="1590554538259" duration="7000" />
-      <workItem from="1590603025492" duration="3875000" />
-      <workItem from="1590641844723" duration="2875000" />
-      <workItem from="1590786573260" duration="650000" />
-      <workItem from="1591028584129" duration="582000" />
-      <workItem from="1591216176301" duration="611000" />
-      <workItem from="1591220758041" duration="611000" />
-      <workItem from="1591470259366" duration="4482000" />
+      <workItem from="1589414155513" duration="959000" />
+      <workItem from="1589566353914" duration="767000" />
+      <workItem from="1589581862420" duration="826000" />
+      <workItem from="1589647829481" duration="18000" />
+      <workItem from="1589774245330" duration="2850000" />
+      <workItem from="1589825477396" duration="6260000" />
+      <workItem from="1589934495547" duration="336000" />
+      <workItem from="1589934846070" duration="812000" />
+      <workItem from="1590022363856" duration="6175000" />
+      <workItem from="1590073968829" duration="6707000" />
+      <workItem from="1590257986196" duration="66000" />
+      <workItem from="1590258063499" duration="545000" />
+      <workItem from="1590277693791" duration="38000" />
+      <workItem from="1590361876649" duration="4306000" />
+      <workItem from="1590374431117" duration="10935000" />
+      <workItem from="1590532468975" duration="66000" />
+      <workItem from="1590533577274" duration="6250000" />
+      <workItem from="1591030675640" duration="7791000" />
+      <workItem from="1591109696238" duration="124000" />
+      <workItem from="1591395441772" duration="79000" />
+      <workItem from="1591395693841" duration="13000" />
+      <workItem from="1591403596899" duration="34000" />
+      <workItem from="1591466186318" duration="3271000" />
     </task>
     <task id="LOCAL-00001" summary="terminado primer ejercicio js">
       <created>1584843303560</created>
@@ -235,49 +380,91 @@
       <option name="project" value="LOCAL" />
       <updated>1589401833426</updated>
     </task>
-    <task id="LOCAL-00016" summary="agregando contenido visto durante corte de internet">
-      <created>1589757256207</created>
+    <task id="LOCAL-00016" summary="solucionado problemas de APIS!">
+      <created>1589414205937</created>
       <option name="number" value="00016" />
       <option name="presentableId" value="LOCAL-00016" />
       <option name="project" value="LOCAL" />
-      <updated>1589757256207</updated>
+      <updated>1589414205937</updated>
     </task>
-    <task id="LOCAL-00017" summary="ejercicio noveno ! me quede en el search by name por que parece que ya esta deprecado">
-      <created>1590105430515</created>
+    <task id="LOCAL-00017" summary="solucionado problemas de APIS!">
+      <created>1589581888180</created>
       <option name="number" value="00017" />
       <option name="presentableId" value="LOCAL-00017" />
       <option name="project" value="LOCAL" />
-      <updated>1590105430515</updated>
+      <updated>1589581888180</updated>
     </task>
-    <task id="LOCAL-00018" summary="Games">
-      <created>1590281612025</created>
+    <task id="LOCAL-00018" summary="Octavo proyecto!">
+      <created>1589837539022</created>
       <option name="number" value="00018" />
       <option name="presentableId" value="LOCAL-00018" />
       <option name="project" value="LOCAL" />
-      <updated>1590281612025</updated>
+      <updated>1589837539022</updated>
     </task>
-    <task id="LOCAL-00019" summary="games 01 memory game falta corregir el tema del doble click sobre la misma imagen (la toma como un movimiento valido una vez que se pickeo una imagen no se puede volver a pickear)">
-      <created>1590287452953</created>
+    <task id="LOCAL-00019" summary="Octavo proyecto!">
+      <created>1590086482220</created>
       <option name="number" value="00019" />
       <option name="presentableId" value="LOCAL-00019" />
       <option name="project" value="LOCAL" />
-      <updated>1590287452953</updated>
+      <updated>1590086482220</updated>
     </task>
-    <task id="LOCAL-00020" summary="games 02">
-      <created>1590361545648</created>
+    <task id="LOCAL-00020" summary="noveno proyecto">
+      <created>1590095038010</created>
       <option name="number" value="00020" />
       <option name="presentableId" value="LOCAL-00020" />
       <option name="project" value="LOCAL" />
-      <updated>1590361545648</updated>
+      <updated>1590095038010</updated>
     </task>
-    <task id="LOCAL-00021" summary="games 02">
-      <created>1590679644306</created>
+    <task id="LOCAL-00021" summary="noveno proyecto">
+      <created>1590277723847</created>
       <option name="number" value="00021" />
       <option name="presentableId" value="LOCAL-00021" />
       <option name="project" value="LOCAL" />
-      <updated>1590679644306</updated>
+      <updated>1590277723847</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Cuarto proyecto games">
+      <created>1590454241431</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1590454241432</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Cuarto proyecto games">
+      <created>1590532522018</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1590532522018</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Quinto proyecto game">
+      <created>1590592090303</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1590592090303</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Quinto proyecto game">
+      <created>1591032794023</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1591032794024</updated>
+    </task>
+    <task id="LOCAL-00026" summary="sexto proyecto game">
+      <created>1591053209361</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1591053209361</updated>
+    </task>
+    <task id="LOCAL-00027" summary="sexto proyecto game">
+      <created>1591403622830</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1591403622830</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -303,18 +490,19 @@
     <MESSAGE value="haciendo parte teorica me quede en el comienzo del video 44" />
     <MESSAGE value="terminando cuarto proyecto &#10;terminando quinto proyecto" />
     <MESSAGE value="sexto proyecto y callbaks *falta solucionar el tema que no me deja hacer llamadas a las APIS!!!!" />
-    <MESSAGE value="agregando contenido visto durante corte de internet" />
-    <MESSAGE value="ejercicio noveno ! me quede en el search by name por que parece que ya esta deprecado" />
-    <MESSAGE value="Games" />
-    <MESSAGE value="games 01 memory game falta corregir el tema del doble click sobre la misma imagen (la toma como un movimiento valido una vez que se pickeo una imagen no se puede volver a pickear)" />
-    <MESSAGE value="games 02" />
-    <option name="LAST_COMMIT_MESSAGE" value="games 02" />
+    <MESSAGE value="solucionado problemas de APIS!" />
+    <MESSAGE value="Octavo proyecto!" />
+    <MESSAGE value="noveno proyecto" />
+    <MESSAGE value="Cuarto proyecto games" />
+    <MESSAGE value="Quinto proyecto game" />
+    <MESSAGE value="sexto proyecto game" />
+    <option name="LAST_COMMIT_MESSAGE" value="sexto proyecto game" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1325" y="403" key="#Notifications" timestamp="1586629652235">
+    <state x="1325" y="403" key="#Notifications" timestamp="1590258087276">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="1325" y="403" key="#Notifications/0.0.1920.1080@0.0.1920.1080" timestamp="1586629652235" />
+    <state x="1325" y="403" key="#Notifications/0.0.1920.1080@0.0.1920.1080" timestamp="1590258087276" />
     <state x="828" y="195" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585420096039">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -323,33 +511,35 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="592" y="462" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1584843656761" />
-    <state x="1120" y="536" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1586626736535">
+    <state x="1120" y="536" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1591395451454">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="1120" y="536" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1586626736535" />
-    <state x="0" y="0" key="CommitChangelistDialog2" timestamp="1590679643206">
-      <screen x="0" y="0" width="1366" height="768" />
+    <state x="1120" y="536" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1591395451454" />
+    <state x="585" y="134" key="CommitChangelistDialog2" timestamp="1591403622077">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="0" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1590679643206" />
-    <state x="585" y="134" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1589401832907" />
+    <state x="416" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1584915723539" />
+    <state x="585" y="134" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1591403622077" />
     <state x="368" y="90" width="1536" height="892" key="DiffContextDialog" timestamp="1586183756019">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="368" y="90" width="1536" height="892" key="DiffContextDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1586183756019" />
-    <state x="868" y="210" key="FileChooserDialogImpl" timestamp="1590786602795">
-      <screen x="0" y="0" width="1366" height="768" />
+    <state x="1220" y="295" key="FileChooserDialogImpl" timestamp="1589935055688">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="868" y="210" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1590786602795" />
-    <state x="1220" y="295" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1589401856110" />
-    <state x="129" y="59" key="MergeDialog" timestamp="1591470371327">
-      <screen x="0" y="0" width="1366" height="768" />
+    <state x="1220" y="295" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1589935055688" />
+    <state x="368" y="93" key="MergeDialog" timestamp="1591475316928">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="129" y="59" key="MergeDialog/0.0.1366.768@0.0.1366.768" timestamp="1591470371327" />
-    <state x="550" y="194" key="Vcs.Push.Dialog.v2" timestamp="1590679648123">
-      <screen x="0" y="0" width="1366" height="768" />
+    <state x="368" y="93" key="MergeDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1591475316928" />
+    <state x="848" y="408" width="389" height="264" key="MultipleFileMergeDialog" timestamp="1590361948642">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="550" y="194" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1590679648123" />
-    <state x="1032" y="273" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1589401836163" />
+    <state x="848" y="408" width="389" height="264" key="MultipleFileMergeDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1590361948642" />
+    <state x="1032" y="273" key="Vcs.Push.Dialog.v2" timestamp="1591403624642">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1032" y="273" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1591403624642" />
     <state x="656" y="364" key="com.intellij.ide.util.TipDialog" timestamp="1586626692227">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -359,23 +549,25 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="549" y="459" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1584797229237" />
-    <state x="889" y="325" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1591470332326">
-      <screen x="0" y="0" width="1366" height="768" />
+    <state x="1249" y="457" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1591475290789">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="889" y="325" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.768@0.0.1366.768" timestamp="1591470332326" />
-    <state x="1249" y="457" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1080@0.0.1920.1080" timestamp="1589401793061" />
+    <state x="1249" y="457" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1080@0.0.1920.1080" timestamp="1591475290789" />
+    <state width="600" height="428" key="javadoc.popup" timestamp="1590437368080">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="600" height="428" key="javadoc.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1590437368080" />
     <state x="65" y="108" key="new project wizard" timestamp="1584722595465">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="65" y="108" key="new project wizard/0.0.1366.768@0.0.1366.768" timestamp="1584722595465" />
-    <state x="680" y="176" key="run.anything.popup" timestamp="1590644646690">
+    <state x="680" y="176" key="run.anything.popup" timestamp="1586178227624">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="680" y="176" key="run.anything.popup/0.0.1366.768@0.0.1366.768" timestamp="1590644646690" />
-    <state x="348" y="181" width="672" height="483" key="search.everywhere.popup" timestamp="1590644626434">
-      <screen x="0" y="0" width="1366" height="768" />
+    <state x="680" y="176" key="run.anything.popup/0.0.1366.768@0.0.1366.768" timestamp="1585004625508" />
+    <state x="1103" y="401" width="672" height="678" key="search.everywhere.popup" timestamp="1590534595195">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="348" y="181" width="672" height="483" key="search.everywhere.popup/0.0.1366.768@0.0.1366.768" timestamp="1590644626434" />
-    <state x="1103" y="401" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1589384605692" />
+    <state x="1103" y="401" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1590534595195" />
   </component>
 </project>

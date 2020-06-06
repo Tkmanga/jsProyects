@@ -156,7 +156,6 @@ document.addEventListener('DOMContentLoaded',() => {
 
 
     //move the frog when its on the log moving left
-
     function moveWithLogLeft() {
         if(currentIndex >= 27 && currentIndex < 35){
             squares[currentIndex].classList.remove('frog');
