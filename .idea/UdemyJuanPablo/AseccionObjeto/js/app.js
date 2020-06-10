@@ -38,7 +38,6 @@ function Cliente(nombre,saldo) {
     }
 }
 
- */
 
 //const persona = new Cliente('Pedro',30000);
 //const persona2 = new Cliente('lala',203);
@@ -55,8 +54,6 @@ const boolean2 = new Boolean(true);
 const function1 = function (a,b) {
     return a+b;
 }
-
- */
 
 const function2 = new Function('a','b','return 1+2');
 
@@ -134,9 +131,8 @@ const empresa = new Empresa('Udemy',1000000,122453,'Educacion');
 
 console.log(empresa.nombreClienteSaldo());
 
- */
 //no hereda el proto si antes no le especififamos que queremos que herede
-/*
+
  const Cliente = {
      imprimirSaldo: function(){
          return `hola ${this.nombre} tu saldo es ${this.saldo}`;
@@ -153,7 +149,7 @@ const mary = Object.create(Cliente);
  mary.saldo = 1000;
  mary.retirarSaldo(400);
  console.log(mary.imprimirSaldo());
- */
+
 
 class Cliente {
     constructor(nombre,saldo) {
@@ -164,7 +160,7 @@ class Cliente {
     imprimirSaldo(){
         return `Hola ${this.nombre}, tu saldo es de: ${this.saldo}`;
     }
-    /*
+
     tipoCliente(){
         let tipo;
         if(this.saldo > 10000){
@@ -180,19 +176,19 @@ class Cliente {
         this.saldo -= retiro;
     }
 
-     */
+
     //hay otros tipos de atributos como staticos
     static bienvenida(){
         return 'Bienvenido al cajero';
     }
 }
-/*
+
 const marya = new Cliente ('Maria','Perez','10000');
 marya.retirarSaldo(400);
 console.log(Cliente.bienvenida());
 
 
- */
+
 class Empresa extends Cliente {
     constructor(nombre,saldo,telefono,tipo) {
         super(nombre, saldo);
@@ -206,5 +202,61 @@ class Empresa extends Cliente {
 }
 
 const empresa = new Empresa('Empresa1',10000,12345,'Construccion');
-console.log(Empresa.bienvenida())
-console.log(Cliente.bienvenida())
+//console.log(Empresa.bienvenida())
+//console.log(Cliente.bienvenida())
+*/
+
+//seccion otros temas ECS6
+
+
+const cliente = {
+    nombre : 'Alejandra',
+    tipo : 'Premiun',
+    datos: {
+        ubicacion:{
+            ciudad: 'Jalisco',
+            pais : 'Mexico'
+        },
+        cuenta: {
+            desde: '10-12-2012',
+            saldo: 4000
+        }
+    }
+};
+//aunque esten estas variables en el scope global no afecta por que el destructuring busca las variables del objeto
+
+nombre = 'Pedro';
+tipo = 'gold';
+
+( {nombre,tipo}=cliente);
+({datos:{cuenta}}=cliente);
+({sexo='No aclara'}=cliente);
+
+({datos:{ubicacion}}=cliente);
+/*
+console.log(nombre)
+console.log(tipo)
+console.log(cuenta);
+console.log(cuenta.desde);
+console.log(cuenta.saldo);
+console.log(ubicacion);
+console.log(ubicacion.ciudad);
+console.log(ubicacion.pais);
+console.log(sexo);
+ */
+
+const ciudades = ['Londres','New York','Madrid','Paris']
+
+/*
+const [
+    primeraCiudad,
+    segundaCiudad
+] = ciudades;
+
+console.log(primeraCiudad)
+console.log(segundaCiudad)
+ */
+
+const[,,,paris] = ciudades;
+
+console.log(paris)

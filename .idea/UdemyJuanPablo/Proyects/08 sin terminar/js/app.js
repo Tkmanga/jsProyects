@@ -14,9 +14,12 @@ document.getElementById('buscarBtn').addEventListener('click',(e) => {
     //revisar que esten lleno ambos valores
     if(textoBuscador !== ''){
         //cuando si hay una busqueda
-        eventBrite.obtenerEventos(textoBuscador, categoriaSeleccionada);
+        eventBrite.obtenerEventos(textoBuscador, categoriaSeleccionada)
+            .then(eventos => {
+                console.log(eventos)
+            })
 
     }else{
-        ui.mostrarMensaje('Falta llen ar partes del formulario','alert alert-danger mt-4');
+        ui.mostrarMensaje('Falta llenar partes del formulario','alert alert-danger mt-4');
     }
 });
