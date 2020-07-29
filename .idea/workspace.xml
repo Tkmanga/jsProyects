@@ -20,14 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="94462d20-5c7f-4a1e-b8c7-7655b1aaaaf6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/UdemyJuanPablo/AseccionObjeto/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/UdemyJuanPablo/AseccionObjeto/js/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/UdemyJuanPablo/AseccionOneToFiveNotation/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/UdemyJuanPablo/AseccionOneToFiveNotation/js/app.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/UdemyJuanPablo/Proyects/08/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/UdemyJuanPablo/Proyects/08 sin terminar/css/bootstrap.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/UdemyJuanPablo/Proyects/08/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/UdemyJuanPablo/Proyects/08 sin terminar/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/UdemyJuanPablo/Proyects/08/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/UdemyJuanPablo/Proyects/08 sin terminar/js/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/UdemyJuanPablo/Proyects/08/js/eventbrite.js" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/UdemyJuanPablo/Proyects/08 sin terminar/js/eventbrite.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/UdemyJuanPablo/Proyects/08/js/interfaz.js" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/UdemyJuanPablo/Proyects/08 sin terminar/js/interfaz.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/UdemyJuanPablo/ECMA6/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/UdemyJuanPablo/ECMA6/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/UdemyJuanPablo/Proyects/09/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,8 +37,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
-        <option value="JavaScript File" />
         <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -70,11 +65,9 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\User\Desktop\jsProyects\.idea\UdemyJuanPablo" />
-      <recent name="C:\Users\User\Desktop\jsProyects\.idea\UdemyJuanPablo\Proyects" />
-      <recent name="C:\Users\User\Desktop\jproyects\jsProyects\.idea\asy" />
       <recent name="C:\Users\User\Desktop\jproyects\jsProyects\.idea\asy\callback" />
       <recent name="C:\Users\User\Desktop\jproyects\jsProyects\.idea\toricaAjaxRequest\sinJson" />
+      <recent name="C:\Users\User\Desktop\jproyects\jsProyects\.idea\primerProyecto" />
     </key>
   </component>
   <component name="SvnConfiguration">
@@ -123,33 +116,24 @@
       <workItem from="1589382722236" duration="4783000" />
       <workItem from="1589400316420" duration="1544000" />
       <workItem from="1589404214680" duration="1974000" />
-      <workItem from="1589414155513" duration="959000" />
-      <workItem from="1589566353914" duration="767000" />
-      <workItem from="1589581862420" duration="826000" />
-      <workItem from="1589647829481" duration="18000" />
-      <workItem from="1589774245330" duration="2850000" />
-      <workItem from="1589825477396" duration="6260000" />
-      <workItem from="1589934495547" duration="336000" />
-      <workItem from="1589934846070" duration="812000" />
-      <workItem from="1590022363856" duration="6175000" />
-      <workItem from="1590073968829" duration="6707000" />
-      <workItem from="1590257986196" duration="66000" />
-      <workItem from="1590258063499" duration="545000" />
-      <workItem from="1590277693791" duration="38000" />
-      <workItem from="1590361876649" duration="4306000" />
-      <workItem from="1590374431117" duration="10935000" />
-      <workItem from="1590532468975" duration="66000" />
-      <workItem from="1590533577274" duration="6250000" />
-      <workItem from="1591030675640" duration="7791000" />
-      <workItem from="1591109696238" duration="124000" />
-      <workItem from="1591395441772" duration="79000" />
-      <workItem from="1591395693841" duration="13000" />
-      <workItem from="1591403596899" duration="34000" />
-      <workItem from="1591466186318" duration="4255000" />
-      <workItem from="1591556991896" duration="671000" />
-      <workItem from="1591657769852" duration="4448000" />
-      <workItem from="1591746960178" duration="1697000" />
-      <workItem from="1591822226859" duration="87000" />
+      <workItem from="1589757203053" duration="747000" />
+      <workItem from="1589903700220" duration="814000" />
+      <workItem from="1590095308580" duration="7788000" />
+      <workItem from="1590274521893" duration="11101000" />
+      <workItem from="1590554538259" duration="7000" />
+      <workItem from="1590603025492" duration="3875000" />
+      <workItem from="1590641844723" duration="2875000" />
+      <workItem from="1590786573260" duration="650000" />
+      <workItem from="1591028584129" duration="582000" />
+      <workItem from="1591216176301" duration="611000" />
+      <workItem from="1591220758041" duration="611000" />
+      <workItem from="1591470259366" duration="4482000" />
+      <workItem from="1593370689893" duration="1092000" />
+      <workItem from="1593399797179" duration="629000" />
+      <workItem from="1594155578660" duration="121000" />
+      <workItem from="1595898934073" duration="14327000" />
+      <workItem from="1596026540234" duration="2982000" />
+      <workItem from="1596057189520" duration="1031000" />
     </task>
     <task id="LOCAL-00001" summary="terminado primer ejercicio js">
       <created>1584843303560</created>
@@ -256,105 +240,49 @@
       <option name="project" value="LOCAL" />
       <updated>1589401833426</updated>
     </task>
-    <task id="LOCAL-00016" summary="solucionado problemas de APIS!">
-      <created>1589414205937</created>
+    <task id="LOCAL-00016" summary="agregando contenido visto durante corte de internet">
+      <created>1589757256207</created>
       <option name="number" value="00016" />
       <option name="presentableId" value="LOCAL-00016" />
       <option name="project" value="LOCAL" />
-      <updated>1589414205937</updated>
+      <updated>1589757256207</updated>
     </task>
-    <task id="LOCAL-00017" summary="solucionado problemas de APIS!">
-      <created>1589581888180</created>
+    <task id="LOCAL-00017" summary="ejercicio noveno ! me quede en el search by name por que parece que ya esta deprecado">
+      <created>1590105430515</created>
       <option name="number" value="00017" />
       <option name="presentableId" value="LOCAL-00017" />
       <option name="project" value="LOCAL" />
-      <updated>1589581888180</updated>
+      <updated>1590105430515</updated>
     </task>
-    <task id="LOCAL-00018" summary="Octavo proyecto!">
-      <created>1589837539022</created>
+    <task id="LOCAL-00018" summary="Games">
+      <created>1590281612025</created>
       <option name="number" value="00018" />
       <option name="presentableId" value="LOCAL-00018" />
       <option name="project" value="LOCAL" />
-      <updated>1589837539022</updated>
+      <updated>1590281612025</updated>
     </task>
-    <task id="LOCAL-00019" summary="Octavo proyecto!">
-      <created>1590086482220</created>
+    <task id="LOCAL-00019" summary="games 01 memory game falta corregir el tema del doble click sobre la misma imagen (la toma como un movimiento valido una vez que se pickeo una imagen no se puede volver a pickear)">
+      <created>1590287452953</created>
       <option name="number" value="00019" />
       <option name="presentableId" value="LOCAL-00019" />
       <option name="project" value="LOCAL" />
-      <updated>1590086482220</updated>
+      <updated>1590287452953</updated>
     </task>
-    <task id="LOCAL-00020" summary="noveno proyecto">
-      <created>1590095038010</created>
+    <task id="LOCAL-00020" summary="games 02">
+      <created>1590361545648</created>
       <option name="number" value="00020" />
       <option name="presentableId" value="LOCAL-00020" />
       <option name="project" value="LOCAL" />
-      <updated>1590095038010</updated>
+      <updated>1590361545648</updated>
     </task>
-    <task id="LOCAL-00021" summary="noveno proyecto">
-      <created>1590277723847</created>
+    <task id="LOCAL-00021" summary="games 02">
+      <created>1590679644306</created>
       <option name="number" value="00021" />
       <option name="presentableId" value="LOCAL-00021" />
       <option name="project" value="LOCAL" />
-      <updated>1590277723847</updated>
+      <updated>1590679644306</updated>
     </task>
-    <task id="LOCAL-00022" summary="Cuarto proyecto games">
-      <created>1590454241431</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1590454241432</updated>
-    </task>
-    <task id="LOCAL-00023" summary="Cuarto proyecto games">
-      <created>1590532522018</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1590532522018</updated>
-    </task>
-    <task id="LOCAL-00024" summary="Quinto proyecto game">
-      <created>1590592090303</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1590592090303</updated>
-    </task>
-    <task id="LOCAL-00025" summary="Quinto proyecto game">
-      <created>1591032794023</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1591032794024</updated>
-    </task>
-    <task id="LOCAL-00026" summary="sexto proyecto game">
-      <created>1591053209361</created>
-      <option name="number" value="00026" />
-      <option name="presentableId" value="LOCAL-00026" />
-      <option name="project" value="LOCAL" />
-      <updated>1591053209361</updated>
-    </task>
-    <task id="LOCAL-00027" summary="sexto proyecto game">
-      <created>1591403622830</created>
-      <option name="number" value="00027" />
-      <option name="presentableId" value="LOCAL-00027" />
-      <option name="project" value="LOCAL" />
-      <updated>1591403622830</updated>
-    </task>
-    <task id="LOCAL-00028" summary="Organizando la mesa">
-      <created>1591476450210</created>
-      <option name="number" value="00028" />
-      <option name="presentableId" value="LOCAL-00028" />
-      <option name="project" value="LOCAL" />
-      <updated>1591476450210</updated>
-    </task>
-    <task id="LOCAL-00029" summary="Organizando la mesa">
-      <created>1591557006758</created>
-      <option name="number" value="00029" />
-      <option name="presentableId" value="LOCAL-00029" />
-      <option name="project" value="LOCAL" />
-      <updated>1591557006758</updated>
-    </task>
-    <option name="localTasksCounter" value="30" />
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -380,89 +308,49 @@
     <MESSAGE value="haciendo parte teorica me quede en el comienzo del video 44" />
     <MESSAGE value="terminando cuarto proyecto &#10;terminando quinto proyecto" />
     <MESSAGE value="sexto proyecto y callbaks *falta solucionar el tema que no me deja hacer llamadas a las APIS!!!!" />
-    <MESSAGE value="solucionado problemas de APIS!" />
-    <MESSAGE value="Octavo proyecto!" />
-    <MESSAGE value="noveno proyecto" />
-    <MESSAGE value="Cuarto proyecto games" />
-    <MESSAGE value="Quinto proyecto game" />
-    <MESSAGE value="sexto proyecto game" />
-    <MESSAGE value="Organizando la mesa" />
-    <option name="LAST_COMMIT_MESSAGE" value="Organizando la mesa" />
+    <MESSAGE value="agregando contenido visto durante corte de internet" />
+    <MESSAGE value="ejercicio noveno ! me quede en el search by name por que parece que ya esta deprecado" />
+    <MESSAGE value="Games" />
+    <MESSAGE value="games 01 memory game falta corregir el tema del doble click sobre la misma imagen (la toma como un movimiento valido una vez que se pickeo una imagen no se puede volver a pickear)" />
+    <MESSAGE value="games 02" />
+    <option name="LAST_COMMIT_MESSAGE" value="games 02" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1325" y="403" key="#Notifications" timestamp="1590258087276">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="1325" y="403" key="#Notifications/0.0.1920.1080@0.0.1920.1080" timestamp="1590258087276" />
-    <state x="828" y="195" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585420096039">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="828" y="195" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1585420096039" />
-    <state x="592" y="462" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1584843656761">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="592" y="462" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1584843656761" />
-    <state x="1120" y="536" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1591395451454">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="1120" y="536" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1591395451454" />
-    <state x="585" y="134" key="CommitChangelistDialog2" timestamp="1591557006266">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="416" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1584915723539" />
-    <state x="585" y="134" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1591557006266" />
-    <state x="368" y="90" width="1536" height="892" key="DiffContextDialog" timestamp="1586183756019">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="368" y="90" width="1536" height="892" key="DiffContextDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1586183756019" />
-    <state x="1220" y="295" key="FileChooserDialogImpl" timestamp="1589935055688">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="1220" y="295" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1589935055688" />
-    <state x="368" y="93" key="MergeDialog" timestamp="1591475316928">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="368" y="93" key="MergeDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1591475316928" />
-    <state x="848" y="408" width="389" height="264" key="MultipleFileMergeDialog" timestamp="1590361948642">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="848" y="408" width="389" height="264" key="MultipleFileMergeDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1590361948642" />
-    <state x="1032" y="273" key="Vcs.Push.Dialog.v2" timestamp="1591557008320">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="1032" y="273" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1591557008320" />
-    <state x="656" y="364" key="com.intellij.ide.util.TipDialog" timestamp="1586626692227">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="467" y="259" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1584903142097" />
-    <state x="656" y="364" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1586626692227" />
-    <state x="549" y="459" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1584797229237">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="549" y="459" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1584797229237" />
-    <state x="1249" y="457" width="382" height="170" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1591556997138">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="1249" y="457" width="382" height="170" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1080@0.0.1920.1080" timestamp="1591556997138" />
-    <state x="1148" y="139" width="585" height="801" key="find.popup" timestamp="1591660785829">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="1148" y="139" width="585" height="801" key="find.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1591660785829" />
-    <state width="600" height="428" key="javadoc.popup" timestamp="1590437368080">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state width="600" height="428" key="javadoc.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1590437368080" />
-    <state x="65" y="108" key="new project wizard" timestamp="1584722595465">
+    <state x="0" y="0" key="CommitChangelistDialog2" timestamp="1590679643206">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="65" y="108" key="new project wizard/0.0.1366.768@0.0.1366.768" timestamp="1584722595465" />
-    <state x="680" y="176" key="run.anything.popup" timestamp="1586178227624">
+    <state x="0" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1590679643206" />
+    <state x="585" y="134" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1589401832907" />
+    <state x="868" y="210" key="FileChooserDialogImpl" timestamp="1594155720964">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="680" y="176" key="run.anything.popup/0.0.1366.768@0.0.1366.768" timestamp="1585004625508" />
-    <state x="1103" y="401" width="672" height="678" key="search.everywhere.popup" timestamp="1591658881782">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state x="868" y="210" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1594155720964" />
+    <state x="1220" y="295" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1589401856110" />
+    <state x="129" y="56" key="MergeDialog" timestamp="1595899094647">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="1103" y="401" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1591658881782" />
+    <state x="129" y="56" key="MergeDialog/0.0.1366.728@0.0.1366.728" timestamp="1595899094647" />
+    <state x="129" y="59" key="MergeDialog/0.0.1366.768@0.0.1366.768" timestamp="1591470371327" />
+    <state x="550" y="194" key="Vcs.Push.Dialog.v2" timestamp="1590679648123">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="550" y="194" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1590679648123" />
+    <state x="1032" y="273" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1589401836163" />
+    <state x="889" y="308" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1596057705013">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="889" y="308" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1596057705013" />
+    <state x="889" y="325" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.768@0.0.1366.768" timestamp="1591470332326" />
+    <state x="1249" y="457" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1080@0.0.1920.1080" timestamp="1589401793061" />
+    <state x="680" y="176" key="run.anything.popup" timestamp="1590644646690">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="680" y="176" key="run.anything.popup/0.0.1366.768@0.0.1366.768" timestamp="1590644646690" />
+    <state x="348" y="172" width="672" height="458" key="search.everywhere.popup" timestamp="1595940677603">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="348" y="172" width="672" height="458" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1595940677603" />
+    <state x="348" y="181" width="672" height="483" key="search.everywhere.popup/0.0.1366.768@0.0.1366.768" timestamp="1590644626434" />
+    <state x="1103" y="401" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1589384605692" />
   </component>
 </project>
