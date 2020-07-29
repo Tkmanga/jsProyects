@@ -19,177 +19,67 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="94462d20-5c7f-4a1e-b8c7-7655b1aaaaf6" name="Default Changelist" comment="Organizando la mesa">
-      <change beforePath="$PROJECT_DIR$/.idea/Games/01/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/Games/01/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Games/01/desing.css" beforeDir="false" afterPath="$PROJECT_DIR$/Games/01/desing.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Games/01/img/back.png" beforeDir="false" afterPath="$PROJECT_DIR$/Games/01/img/back.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Games/01/img/food_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/Games/01/img/food_1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Games/01/img/food_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/Games/01/img/food_2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Games/01/img/food_3.png" beforeDir="false" afterPath="$PROJECT_DIR$/Games/01/img/food_3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Games/01/img/food_4.png" beforeDir="false" afterPath="$PROJECT_DIR$/Games/01/img/food_4.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Games/01/img/food_5.png" beforeDir="false" afterPath="$PROJECT_DIR$/Games/01/img/food_5.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Games/01/img/food_6.png" beforeDir="false" afterPath="$PROJECT_DIR$/Games/01/img/food_6.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Games/01/img/white.png" beforeDir="false" afterPath="$PROJECT_DIR$/Games/01/img/white.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Games/01/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Games/01/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Games/02/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/Games/02/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Games/02/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Games/02/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Games/02/mole.png" beforeDir="false" afterPath="$PROJECT_DIR$/Games/02/mole.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Games/02/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Games/02/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Games/03/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/Games/03/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Games/03/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Games/03/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Games/03/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Games/03/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Games/04/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/Games/04/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Games/04/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Games/04/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Games/04/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Games/04/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Games/05/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/Games/05/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Games/05/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Games/05/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Games/05/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Games/05/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Games/06/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/Games/06/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Games/06/design.css" beforeDir="false" afterPath="$PROJECT_DIR$/Games/06/design.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Games/06/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Games/06/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Games/07/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/Games/07/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Games/07/desing.css" beforeDir="false" afterPath="$PROJECT_DIR$/Games/07/desing.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Games/07/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Games/07/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/UdemyJuanPablo/AseccionObjeto/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/AseccionObjeto/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/UdemyJuanPablo/AseccionObjeto/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/AseccionObjeto/js/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/UdemyJuanPablo/ECMA6/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/ECMA6/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/UdemyJuanPablo/ECMA6/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/ECMA6/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/UdemyJuanPablo/Proyects/01/css/custom.css" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/01/css/custom.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/UdemyJuanPablo/Proyects/01/css/normalize.css" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/01/css/normalize.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/UdemyJuanPablo/Proyects/01/css/skeleton.css" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/01/css/skeleton.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/UdemyJuanPablo/Proyects/01/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/01/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/UdemyJuanPablo/Proyects/01/script/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/01/script/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/UdemyJuanPablo/Proyects/02/css/custom.css" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/02/css/custom.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/UdemyJuanPablo/Proyects/02/css/normalize.css" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/02/css/normalize.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/UdemyJuanPablo/Proyects/02/css/skeleton.css" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/02/css/skeleton.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/UdemyJuanPablo/Proyects/02/img/cart.png" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/02/img/cart.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/UdemyJuanPablo/Proyects/02/img/curso1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/02/img/curso1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/UdemyJuanPablo/Proyects/02/img/curso2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/02/img/curso2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/UdemyJuanPablo/Proyects/02/img/curso3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/02/img/curso3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/UdemyJuanPablo/Proyects/02/img/curso4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/02/img/curso4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/UdemyJuanPablo/Proyects/02/img/curso5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/02/img/curso5.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/UdemyJuanPablo/Proyects/02/img/estrellas.png" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/02/img/estrellas.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/UdemyJuanPablo/Proyects/02/img/hero.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/02/img/hero.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/UdemyJuanPablo/Proyects/02/img/icono1.png" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/02/img/icono1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/UdemyJuanPablo/Proyects/02/img/icono2.png" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/02/img/icono2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/UdemyJuanPablo/Proyects/02/img/icono3.png" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/02/img/icono3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/UdemyJuanPablo/Proyects/02/img/logo.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/02/img/logo.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/UdemyJuanPablo/Proyects/02/img/lupa.png" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/02/img/lupa.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/UdemyJuanPablo/Proyects/02/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/02/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/UdemyJuanPablo/Proyects/02/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/02/js/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/UdemyJuanPablo/Proyects/03/css/custom.css" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/03/css/custom.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/UdemyJuanPablo/Proyects/03/css/materialize.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/03/css/materialize.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/UdemyJuanPablo/Proyects/03/fonts/roboto/Roboto-Bold.woff" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/03/fonts/roboto/Roboto-Bold.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/UdemyJuanPablo/Proyects/03/fonts/roboto/Roboto-Bold.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/03/fonts/roboto/Roboto-Bold.woff2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/UdemyJuanPablo/Proyects/03/fonts/roboto/Roboto-Light.woff" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/03/fonts/roboto/Roboto-Light.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/UdemyJuanPablo/Proyects/03/fonts/roboto/Roboto-Light.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/03/fonts/roboto/Roboto-Light.woff2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/UdemyJuanPablo/Proyects/03/fonts/roboto/Roboto-Medium.woff" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/03/fonts/roboto/Roboto-Medium.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/UdemyJuanPablo/Proyects/03/fonts/roboto/Roboto-Medium.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/03/fonts/roboto/Roboto-Medium.woff2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/UdemyJuanPablo/Proyects/03/fonts/roboto/Roboto-Regular.woff" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/03/fonts/roboto/Roboto-Regular.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/UdemyJuanPablo/Proyects/03/fonts/roboto/Roboto-Regular.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/03/fonts/roboto/Roboto-Regular.woff2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/UdemyJuanPablo/Proyects/03/fonts/roboto/Roboto-Thin.woff" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/03/fonts/roboto/Roboto-Thin.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/UdemyJuanPablo/Proyects/03/fonts/roboto/Roboto-Thin.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/03/fonts/roboto/Roboto-Thin.woff2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/UdemyJuanPablo/Proyects/03/img/mail.gif" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/03/img/mail.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/UdemyJuanPablo/Proyects/03/img/spinner.gif" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/03/img/spinner.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/UdemyJuanPablo/Proyects/03/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/03/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/UdemyJuanPablo/Proyects/03/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/03/js/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/UdemyJuanPablo/Proyects/03/js/materialize.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/03/js/materialize.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/UdemyJuanPablo/Proyects/04/css/bootstrap-material-design.css" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/04/css/bootstrap-material-design.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/UdemyJuanPablo/Proyects/04/css/bootstrap-material-design.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/04/css/bootstrap-material-design.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/UdemyJuanPablo/Proyects/04/css/custom.css" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/04/css/custom.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/UdemyJuanPablo/Proyects/04/img/spinner.gif" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/04/img/spinner.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/UdemyJuanPablo/Proyects/04/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/04/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/UdemyJuanPablo/Proyects/04/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/04/js/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/UdemyJuanPablo/Proyects/04/js/appe6.js" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/04/js/appe6.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/UdemyJuanPablo/Proyects/04/js/bootstrap-material-design.js" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/04/js/bootstrap-material-design.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/UdemyJuanPablo/Proyects/04/js/bootstrap-material-design.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/04/js/bootstrap-material-design.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/UdemyJuanPablo/Proyects/04/js/bootstrap-material-design.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/04/js/bootstrap-material-design.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/UdemyJuanPablo/Proyects/05/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/05/css/bootstrap.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/UdemyJuanPablo/Proyects/05/css/custom.css" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/05/css/custom.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/UdemyJuanPablo/Proyects/05/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/05/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/UdemyJuanPablo/Proyects/05/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/05/js/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/UdemyJuanPablo/Proyects/05/js/bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/05/js/bootstrap.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/UdemyJuanPablo/Proyects/06/css/custom.css" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/06/css/custom.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/UdemyJuanPablo/Proyects/06/css/normalize.css" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/06/css/normalize.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/UdemyJuanPablo/Proyects/06/css/skeleton.css" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/06/css/skeleton.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/UdemyJuanPablo/Proyects/06/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/06/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/UdemyJuanPablo/Proyects/06/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/06/js/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/UdemyJuanPablo/Proyects/07/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/07/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/UdemyJuanPablo/Proyects/07/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/07/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/UdemyJuanPablo/Proyects/07/js/api.js" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/07/js/api.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/UdemyJuanPablo/Proyects/07/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/07/js/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/UdemyJuanPablo/Proyects/07/js/ui.js" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/07/js/ui.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/UdemyJuanPablo/Proyects/08 sin terminar/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/08 sin terminar/css/bootstrap.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/UdemyJuanPablo/Proyects/08 sin terminar/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/08 sin terminar/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/UdemyJuanPablo/Proyects/08 sin terminar/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/08 sin terminar/js/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/UdemyJuanPablo/Proyects/08 sin terminar/js/eventbrite.js" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/08 sin terminar/js/eventbrite.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/UdemyJuanPablo/Proyects/08 sin terminar/js/interfaz.js" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/08 sin terminar/js/interfaz.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/UdemyJuanPablo/Proyects/09/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/09/css/bootstrap.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/UdemyJuanPablo/Proyects/09/css/custom.css" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/09/css/custom.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/UdemyJuanPablo/Proyects/09/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/09/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/UdemyJuanPablo/Proyects/09/js/API.js" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/09/js/API.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/UdemyJuanPablo/Proyects/09/js/UI.js" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/09/js/UI.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/UdemyJuanPablo/Proyects/09/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/09/js/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/UdemyJuanPablo/arrowFunctions/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/arrowFunctions/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/UdemyJuanPablo/arrowFunctions/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/arrowFunctions/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/UdemyJuanPablo/asy/api/css/normalize.css" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/asy/api/css/normalize.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/UdemyJuanPablo/asy/api/css/skeleton.css" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/asy/api/css/skeleton.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/UdemyJuanPablo/asy/api/datos.txt" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/asy/api/datos.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/UdemyJuanPablo/asy/api/empleados.json" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/asy/api/empleados.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/UdemyJuanPablo/asy/api/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/asy/api/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/UdemyJuanPablo/asy/api/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/asy/api/js/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/UdemyJuanPablo/asy/asyFunction/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/asy/asyFunction/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/UdemyJuanPablo/asy/asyFunction/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/asy/asyFunction/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/UdemyJuanPablo/asy/asyFunctionAPI/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/asy/asyFunctionAPI/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/UdemyJuanPablo/asy/asyFunctionAPI/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/asy/asyFunctionAPI/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/UdemyJuanPablo/asy/callback/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/asy/callback/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/UdemyJuanPablo/asy/callback/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/asy/callback/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/UdemyJuanPablo/asy/promise/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/asy/promise/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/UdemyJuanPablo/asy/promise/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/asy/promise/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/UdemyJuanPablo/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/UdemyJuanPablo/originalTeoricoDom/css/custom.css" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/originalTeoricoDom/css/custom.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/UdemyJuanPablo/originalTeoricoDom/css/normalize.css" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/originalTeoricoDom/css/normalize.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/UdemyJuanPablo/originalTeoricoDom/css/skeleton.css" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/originalTeoricoDom/css/skeleton.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/UdemyJuanPablo/originalTeoricoDom/img/cart.png" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/originalTeoricoDom/img/cart.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/UdemyJuanPablo/originalTeoricoDom/img/curso1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/originalTeoricoDom/img/curso1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/UdemyJuanPablo/originalTeoricoDom/img/curso2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/originalTeoricoDom/img/curso2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/UdemyJuanPablo/originalTeoricoDom/img/curso3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/originalTeoricoDom/img/curso3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/UdemyJuanPablo/originalTeoricoDom/img/curso4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/originalTeoricoDom/img/curso4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/UdemyJuanPablo/originalTeoricoDom/img/curso5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/originalTeoricoDom/img/curso5.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/UdemyJuanPablo/originalTeoricoDom/img/estrellas.png" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/originalTeoricoDom/img/estrellas.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/UdemyJuanPablo/originalTeoricoDom/img/hero.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/originalTeoricoDom/img/hero.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/UdemyJuanPablo/originalTeoricoDom/img/icono1.png" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/originalTeoricoDom/img/icono1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/UdemyJuanPablo/originalTeoricoDom/img/icono2.png" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/originalTeoricoDom/img/icono2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/UdemyJuanPablo/originalTeoricoDom/img/icono3.png" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/originalTeoricoDom/img/icono3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/UdemyJuanPablo/originalTeoricoDom/img/logo.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/originalTeoricoDom/img/logo.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/UdemyJuanPablo/originalTeoricoDom/img/lupa.png" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/originalTeoricoDom/img/lupa.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/UdemyJuanPablo/originalTeoricoDom/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/originalTeoricoDom/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/UdemyJuanPablo/originalTeoricoDom/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/originalTeoricoDom/js/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/UdemyJuanPablo/teoricaBasica/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/teoricaBasica/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/UdemyJuanPablo/teoricaBasica/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/teoricaBasica/js/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/UdemyJuanPablo/toricaAjaxRequest/API/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/toricaAjaxRequest/API/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/UdemyJuanPablo/toricaAjaxRequest/API/css/normalize.css" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/toricaAjaxRequest/API/css/normalize.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/UdemyJuanPablo/toricaAjaxRequest/API/css/skeleton.css" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/toricaAjaxRequest/API/css/skeleton.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/UdemyJuanPablo/toricaAjaxRequest/API/debug.log" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/toricaAjaxRequest/API/debug.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/UdemyJuanPablo/toricaAjaxRequest/API/images/favicon.png" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/toricaAjaxRequest/API/images/favicon.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/UdemyJuanPablo/toricaAjaxRequest/API/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/toricaAjaxRequest/API/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/UdemyJuanPablo/toricaAjaxRequest/conJson/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/toricaAjaxRequest/conJson/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/UdemyJuanPablo/toricaAjaxRequest/conJson/css/normalize.css" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/toricaAjaxRequest/conJson/css/normalize.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/UdemyJuanPablo/toricaAjaxRequest/conJson/css/skeleton.css" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/toricaAjaxRequest/conJson/css/skeleton.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/UdemyJuanPablo/toricaAjaxRequest/conJson/debug.log" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/toricaAjaxRequest/conJson/debug.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/UdemyJuanPablo/toricaAjaxRequest/conJson/empleado.json" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/toricaAjaxRequest/conJson/empleado.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/UdemyJuanPablo/toricaAjaxRequest/conJson/empleados.json" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/toricaAjaxRequest/conJson/empleados.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/UdemyJuanPablo/toricaAjaxRequest/conJson/images/favicon.png" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/toricaAjaxRequest/conJson/images/favicon.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/UdemyJuanPablo/toricaAjaxRequest/conJson/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/toricaAjaxRequest/conJson/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/UdemyJuanPablo/toricaAjaxRequest/sinJson/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/toricaAjaxRequest/sinJson/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/UdemyJuanPablo/toricaAjaxRequest/sinJson/css/normalize.css" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/toricaAjaxRequest/sinJson/css/normalize.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/UdemyJuanPablo/toricaAjaxRequest/sinJson/css/skeleton.css" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/toricaAjaxRequest/sinJson/css/skeleton.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/UdemyJuanPablo/toricaAjaxRequest/sinJson/datos.txt" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/toricaAjaxRequest/sinJson/datos.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/UdemyJuanPablo/toricaAjaxRequest/sinJson/images/favicon.png" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/toricaAjaxRequest/sinJson/images/favicon.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/UdemyJuanPablo/toricaAjaxRequest/sinJson/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/toricaAjaxRequest/sinJson/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_27_7_2020_10_17_p__m__[Default_Changelist]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_27_7_2020_10_17_p__m___Default_Changelist_.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="94462d20-5c7f-4a1e-b8c7-7655b1aaaaf6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/UdemyJuanPablo/AseccionObjeto/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Teoria/02-AseccionObjeto/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdemyJuanPablo/AseccionObjeto/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Teoria/02-AseccionObjeto/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdemyJuanPablo/ECMA6/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Teoria/06-ECMA6/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdemyJuanPablo/ECMA6/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Teoria/06-ECMA6/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdemyJuanPablo/arrowFunctions/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Teoria/03-arrowFunctions/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdemyJuanPablo/arrowFunctions/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Teoria/03-arrowFunctions/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdemyJuanPablo/asy/api/css/normalize.css" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Teoria/04-asy/api/css/normalize.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdemyJuanPablo/asy/api/css/skeleton.css" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Teoria/04-asy/api/css/skeleton.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdemyJuanPablo/asy/api/datos.txt" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Teoria/04-asy/api/datos.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdemyJuanPablo/asy/api/empleados.json" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Teoria/04-asy/api/empleados.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdemyJuanPablo/asy/api/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Teoria/04-asy/api/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdemyJuanPablo/asy/api/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Teoria/04-asy/api/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdemyJuanPablo/asy/asyFunction/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Teoria/04-asy/asyFunction/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdemyJuanPablo/asy/asyFunction/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Teoria/04-asy/asyFunction/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdemyJuanPablo/asy/asyFunctionAPI/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Teoria/04-asy/asyFunctionAPI/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdemyJuanPablo/asy/asyFunctionAPI/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Teoria/04-asy/asyFunctionAPI/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdemyJuanPablo/asy/callback/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Teoria/04-asy/callback/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdemyJuanPablo/asy/callback/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Teoria/04-asy/callback/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdemyJuanPablo/asy/promise/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Teoria/04-asy/promise/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdemyJuanPablo/asy/promise/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Teoria/04-asy/promise/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdemyJuanPablo/originalTeoricoDom/css/custom.css" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Teoria/originalTeoricoDom/css/custom.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdemyJuanPablo/originalTeoricoDom/css/normalize.css" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Teoria/05-toricaAjaxRequest/API/css/normalize.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdemyJuanPablo/originalTeoricoDom/css/skeleton.css" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Teoria/05-toricaAjaxRequest/API/css/skeleton.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdemyJuanPablo/originalTeoricoDom/img/cart.png" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Teoria/originalTeoricoDom/img/cart.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdemyJuanPablo/originalTeoricoDom/img/curso1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Teoria/originalTeoricoDom/img/curso1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdemyJuanPablo/originalTeoricoDom/img/curso2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Teoria/originalTeoricoDom/img/curso2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdemyJuanPablo/originalTeoricoDom/img/curso3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Teoria/originalTeoricoDom/img/curso3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdemyJuanPablo/originalTeoricoDom/img/curso4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Teoria/originalTeoricoDom/img/curso4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdemyJuanPablo/originalTeoricoDom/img/curso5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Teoria/originalTeoricoDom/img/curso5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdemyJuanPablo/originalTeoricoDom/img/estrellas.png" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Teoria/originalTeoricoDom/img/estrellas.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdemyJuanPablo/originalTeoricoDom/img/hero.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Teoria/originalTeoricoDom/img/hero.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdemyJuanPablo/originalTeoricoDom/img/icono1.png" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Teoria/originalTeoricoDom/img/icono1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdemyJuanPablo/originalTeoricoDom/img/icono2.png" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Teoria/originalTeoricoDom/img/icono2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdemyJuanPablo/originalTeoricoDom/img/icono3.png" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Teoria/originalTeoricoDom/img/icono3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdemyJuanPablo/originalTeoricoDom/img/logo.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Teoria/originalTeoricoDom/img/logo.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdemyJuanPablo/originalTeoricoDom/img/lupa.png" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Teoria/originalTeoricoDom/img/lupa.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdemyJuanPablo/originalTeoricoDom/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Teoria/originalTeoricoDom/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdemyJuanPablo/originalTeoricoDom/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Teoria/originalTeoricoDom/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdemyJuanPablo/teoricaBasica/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Teoria/01-teoricaBasica/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdemyJuanPablo/teoricaBasica/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Teoria/01-teoricaBasica/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdemyJuanPablo/toricaAjaxRequest/API/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Teoria/05-toricaAjaxRequest/API/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdemyJuanPablo/toricaAjaxRequest/API/css/normalize.css" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Teoria/05-toricaAjaxRequest/conJson/css/normalize.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdemyJuanPablo/toricaAjaxRequest/API/css/skeleton.css" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Teoria/05-toricaAjaxRequest/conJson/css/skeleton.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdemyJuanPablo/toricaAjaxRequest/API/debug.log" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Teoria/05-toricaAjaxRequest/API/debug.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdemyJuanPablo/toricaAjaxRequest/API/images/favicon.png" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Teoria/05-toricaAjaxRequest/API/images/favicon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdemyJuanPablo/toricaAjaxRequest/API/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Teoria/05-toricaAjaxRequest/API/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdemyJuanPablo/toricaAjaxRequest/conJson/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Teoria/05-toricaAjaxRequest/conJson/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdemyJuanPablo/toricaAjaxRequest/conJson/css/normalize.css" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Teoria/05-toricaAjaxRequest/sinJson/css/normalize.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdemyJuanPablo/toricaAjaxRequest/conJson/css/skeleton.css" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Teoria/05-toricaAjaxRequest/sinJson/css/skeleton.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdemyJuanPablo/toricaAjaxRequest/conJson/debug.log" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Teoria/05-toricaAjaxRequest/conJson/debug.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdemyJuanPablo/toricaAjaxRequest/conJson/empleado.json" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Teoria/05-toricaAjaxRequest/conJson/empleado.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdemyJuanPablo/toricaAjaxRequest/conJson/empleados.json" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Teoria/05-toricaAjaxRequest/conJson/empleados.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdemyJuanPablo/toricaAjaxRequest/conJson/images/favicon.png" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Teoria/05-toricaAjaxRequest/conJson/images/favicon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdemyJuanPablo/toricaAjaxRequest/conJson/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Teoria/05-toricaAjaxRequest/conJson/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdemyJuanPablo/toricaAjaxRequest/sinJson/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Teoria/05-toricaAjaxRequest/sinJson/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdemyJuanPablo/toricaAjaxRequest/sinJson/css/normalize.css" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Teoria/originalTeoricoDom/css/normalize.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdemyJuanPablo/toricaAjaxRequest/sinJson/css/skeleton.css" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Teoria/originalTeoricoDom/css/skeleton.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdemyJuanPablo/toricaAjaxRequest/sinJson/datos.txt" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Teoria/05-toricaAjaxRequest/sinJson/datos.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdemyJuanPablo/toricaAjaxRequest/sinJson/images/favicon.png" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Teoria/05-toricaAjaxRequest/sinJson/images/favicon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdemyJuanPablo/toricaAjaxRequest/sinJson/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Teoria/05-toricaAjaxRequest/sinJson/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -231,11 +121,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Desktop\jsProyects\UdemyJuanPablo\Teoria" />
       <recent name="C:\Users\User\Desktop\jsProyects" />
       <recent name="C:\Users\User\Desktop\jsProyects\.idea\UdemyJuanPablo" />
       <recent name="C:\Users\User\Desktop\jsProyects\.idea\UdemyJuanPablo\Proyects" />
       <recent name="C:\Users\User\Desktop\jproyects\jsProyects\.idea\asy" />
-      <recent name="C:\Users\User\Desktop\jproyects\jsProyects\.idea\asy\callback" />
     </key>
   </component>
   <component name="RunManager">
@@ -335,7 +225,7 @@
       <workItem from="1593859878038" duration="471000" />
       <workItem from="1594070661794" duration="21000" />
       <workItem from="1594070733086" duration="39000" />
-      <workItem from="1596058139702" duration="1061000" />
+      <workItem from="1596058139702" duration="1701000" />
     </task>
     <task id="LOCAL-00001" summary="terminado primer ejercicio js">
       <created>1584843303560</created>
@@ -547,7 +437,14 @@
       <option name="project" value="LOCAL" />
       <updated>1591822409242</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="Organizando la mesa">
+      <created>1596060187395</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1596060187395</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -591,10 +488,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="1120" y="536" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1591395451454" />
-    <state x="2505" y="134" key="CommitChangelistDialog2" timestamp="1596059971073">
+    <state x="2505" y="134" key="CommitChangelistDialog2" timestamp="1596060186447">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state x="2505" y="134" key="CommitChangelistDialog2/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1596059971073" />
+    <state x="2505" y="134" key="CommitChangelistDialog2/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1596060186447" />
     <state x="585" y="134" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1591822408615" />
     <state x="3140" y="295" key="FileChooserDialogImpl" timestamp="1594070770334">
       <screen x="1920" y="0" width="1920" height="1080" />
@@ -610,10 +507,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="848" y="408" width="389" height="264" key="MultipleFileMergeDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1590361948642" />
-    <state x="2952" y="273" key="Vcs.Push.Dialog.v2" timestamp="1596060147920">
+    <state x="2952" y="273" key="Vcs.Push.Dialog.v2" timestamp="1596060198048">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state x="2952" y="273" key="Vcs.Push.Dialog.v2/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1596060147920" />
+    <state x="2952" y="273" key="Vcs.Push.Dialog.v2/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1596060198048" />
     <state x="1032" y="273" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1591822411169" />
     <state x="2012" y="92" width="1736" height="896" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1596060148886">
       <screen x="1920" y="0" width="1920" height="1080" />

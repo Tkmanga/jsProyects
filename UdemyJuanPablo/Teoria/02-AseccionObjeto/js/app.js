@@ -223,6 +223,7 @@ const cliente = {
         }
     }
 };
+
 //aunque esten estas variables en el scope global no afecta por que el destructuring busca las variables del objeto
 
 nombre = 'Pedro';
@@ -244,19 +245,3 @@ console.log(ubicacion.ciudad);
 console.log(ubicacion.pais);
 console.log(sexo);
  */
-
-const ciudades = ['Londres','New York','Madrid','Paris']
-
-/*
-const [
-    primeraCiudad,
-    segundaCiudad
-] = ciudades;
-
-console.log(primeraCiudad)
-console.log(segundaCiudad)
- */
-
-const[,,,paris] = ciudades;
-
-console.log(paris)
