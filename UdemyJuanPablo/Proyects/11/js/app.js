@@ -3,7 +3,7 @@ const autos = [
 		marca: 'BMW',
 		modelo: 'Serie 3',
 		year: 2012,
-		precio: 30000,
+		precio: 10,
 		puertas: 4,
 		color: 'Blanco',
 		transmision: 'automatico'
@@ -124,16 +124,54 @@ const autos = [
 	{ marca: 'Audi', modelo: 'A4', year: 2016, precio: 30000, puertas: 4, color: 'Azul', transmision: 'automatico' }
 ];
 
-// forEach
 
-// map
+/*
+for( let i = 0; i <autos.length; i++){
+	if( autos[i].precio > 40000){
+		console.log(autos[i]);
+	}
+}
 
-// filter
+ */
 
-// find
+// forEach se utiliza cuando se tienen que recorrer-to do el arreglo
 
-// reduce
+// let resultado = [];
+// autos.forEach(auto => {
+// 	if(auto.color === 'Rojo'){
+// 		resultado.push(auto);
+// 	}
+// })
+// console.log(resultado);
 
-// some
+// map te retorna un arreglo nuevo con lo que tengas
+
+// let resultado = autos.map(auto => { //esto no lo podrias hacer con un forEach ir guardando al mismo tiempo que lees
+// 	if(auto.marca ===  'BMW'){
+// 		return auto;
+// 	}
+// });
+//
+//
+// console.log(resultado);
+// filter crea un arreglo basado en una prubea configurada
+
+// let resultado = autos.filter(auto => {
+// 	return auto.marca ==='BMW'; //la condicion funciona como un IF osea podes combinar varias condiciones
+// });
+// console.log(resultado);
+
+// find te devuelve el primer elemento que encuentre cumpliendo la condicion pactada
+
+// console.log(autos.find(auto => auto.modelo === 'Mustang'))
+
+// reduce toma todos los valores y retorna un valor unico
+// let resultado = autos.reduce((total, auto) => total + auto.precio,0); //lo ultimo es el valor de inicio
+// console.log(resultado);
+//
+// some evaula cierta condicion y devuelve un booleano
+
+let resultado = autos.some( auto => auto.precio === 10); //lo ultimo es el valor de inicio
+console.log(resultado);
 
 
