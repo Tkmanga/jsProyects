@@ -20,15 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="94462d20-5c7f-4a1e-b8c7-7655b1aaaaf6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/11/buscador.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/11/css/app.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/11/css/normalize.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/11/css/skeleton.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/11/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/11/js/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/11/js/buscador.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UdemyJuanPablo/Teoria/08-Patrones/nameSpace.js" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Teoria/08-Patrones/nameSpace.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/11/buscador.html" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/11/buscador.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,21 +78,6 @@
       <recent name="C:\Users\User\Desktop\jsProyects\.idea\UdemyJuanPablo\Proyects" />
       <recent name="C:\Users\User\Desktop\jproyects\jsProyects\.idea\asy" />
     </key>
-  </component>
-  <component name="RunManager">
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
@@ -188,7 +166,13 @@
       <workItem from="1596058139702" duration="1741000" />
       <workItem from="1596115617141" duration="14000" />
       <workItem from="1596232551927" duration="3411000" />
-      <workItem from="1596285323941" duration="11097000" />
+      <workItem from="1596285323941" duration="11128000" />
+      <workItem from="1596328107466" duration="653000" />
+      <workItem from="1596378916873" duration="1185000" />
+      <workItem from="1596543943129" duration="329000" />
+      <workItem from="1596631068920" duration="44000" />
+      <workItem from="1596631132707" duration="1155000" />
+      <workItem from="1596633890573" duration="611000" />
     </task>
     <task id="LOCAL-00001" summary="terminado primer ejercicio js">
       <created>1584843303560</created>
@@ -428,7 +412,14 @@
       <option name="project" value="LOCAL" />
       <updated>1596304942138</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="Practica 11">
+      <created>1596327531411</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1596327531411</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -464,7 +455,8 @@
     <MESSAGE value="Organizando la mesa" />
     <MESSAGE value="Modulos js" />
     <MESSAGE value="Patrones JS" />
-    <option name="LAST_COMMIT_MESSAGE" value="Patrones JS" />
+    <MESSAGE value="Practica 11" />
+    <option name="LAST_COMMIT_MESSAGE" value="Practica 11" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1325" y="403" key="#Notifications" timestamp="1590258087276">
@@ -475,10 +467,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="1120" y="536" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1591395451454" />
-    <state x="2505" y="129" key="CommitChangelistDialog2" timestamp="1596304941466">
+    <state x="2505" y="129" key="CommitChangelistDialog2" timestamp="1596327530698">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="2505" y="129" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596304941466" />
+    <state x="2505" y="129" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596327530698" />
     <state x="2505" y="134" key="CommitChangelistDialog2/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1596060814678" />
     <state x="585" y="134" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1591822408615" />
     <state x="3140" y="295" key="FileChooserDialogImpl" timestamp="1596115629492">
@@ -500,20 +492,20 @@
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2360" y="94" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596234584513" />
-    <state x="2952" y="263" key="Vcs.Push.Dialog.v2" timestamp="1596304943711">
+    <state x="2952" y="263" key="Vcs.Push.Dialog.v2" timestamp="1596327532733">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="2952" y="263" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596304943711" />
+    <state x="2952" y="263" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596327532733" />
     <state x="2952" y="273" key="Vcs.Push.Dialog.v2/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1596060817782" />
     <state x="1032" y="273" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1591822411169" />
     <state x="2012" y="92" width="1736" height="896" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1596060148886">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state x="2012" y="92" width="1736" height="896" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1596060148886" />
-    <state x="3169" y="440" width="382" height="170" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1596232559968">
+    <state x="3169" y="440" width="382" height="170" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1596633901030">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="3169" y="440" width="382" height="170" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596232559968" />
+    <state x="3169" y="440" width="382" height="170" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596633901030" />
     <state x="3169" y="457" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1596059980114" />
     <state x="1249" y="457" width="382" height="170" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1080@0.0.1920.1080" timestamp="1591556997138" />
     <state x="1148" y="139" width="585" height="801" key="find.popup" timestamp="1591660785829">
