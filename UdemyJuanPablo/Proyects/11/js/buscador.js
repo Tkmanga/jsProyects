@@ -34,7 +34,6 @@ marca.addEventListener('input', e =>{
     filtrarAuto();
 });
 
-
 const year = document.querySelector('#year');
 year.addEventListener('input', e =>{
     datosBusqueda.year = Number(e.target.value);
@@ -42,12 +41,44 @@ year.addEventListener('input', e =>{
     filtrarAuto();
 });
 
+const minimo = document.querySelector('#minimo');
+minimo.addEventListener('input', e =>{
+    datosBusqueda.minimo = Number(e.target.value);
+    //llamar a la funcion filtrar datos
+    filtrarAuto();
+});
+
+const maximo = document.querySelector('#maximo');
+maximo.addEventListener('input', e =>{
+    datosBusqueda.maximo = Number(e.target.value);
+    //llamar a la funcion filtrar datos
+    filtrarAuto();
+});
+
+const puertas = document.querySelector('#puertas');
+puertas.addEventListener('input', e =>{
+    datosBusqueda.puertas = Number(e.target.value);
+    //llamar a la funcion filtrar datos
+    filtrarAuto();
+});
+const transmision = document.querySelector('#transmision');
+transmision.addEventListener('input', e =>{
+    datosBusqueda.transmision = e.target.value;
+    //llamar a la funcion filtrar datos
+    filtrarAuto();
+});
+const color = document.querySelector('#color');
+color.addEventListener('input', e =>{
+    datosBusqueda.color = e.target.value;
+    //llamar a la funcion filtrar datos
+    filtrarAuto();
+});
 function filtrarAuto(){
-    const resultado = obtenerAutos().filter(filtrarMarca).filter(filtrarYear);
+    const resultado = obtenerAutos().filter(filtrarMarca).filter(filtrarYear).filter(filtrarMinimo).filter(filtrarMaximo).filter(filtrarPuertas).filter(filtrarTransmision).filter(filtrarColor);
     if(resultado.length){
         mostrarAutos(resultado);
     }else{
-        alert('no hay resultado');
+        noResultado();
     }
 }
 
@@ -61,8 +92,6 @@ function filtrarMarca(auto){
 }
 
 
-
-
 function filtrarYear(auto){
 
     if(datosBusqueda.year){
@@ -72,6 +101,47 @@ function filtrarYear(auto){
     }
 }
 
+
+function filtrarMinimo(auto){
+
+    if(datosBusqueda.minimo){
+        return auto.precio >= datosBusqueda.minimo;
+    }else{
+        return auto;
+    }
+}
+
+function filtrarMaximo(auto){
+    if(datosBusqueda.maximo){
+        return auto.precio <= datosBusqueda.maximo;
+    }else{
+        return auto;
+    }
+}
+
+function filtrarPuertas(auto){
+    if(datosBusqueda.puertas){
+        return auto.puertas === datosBusqueda.puertas;
+    }else{
+        return auto;
+    }
+}
+function filtrarColor(auto){
+    if(datosBusqueda.color){
+        return auto.color === datosBusqueda.color;
+    }else{
+        return auto;
+    }
+}
+
+
+function filtrarTransmision(auto){
+    if(datosBusqueda.transmision){
+        return auto.transmision === datosBusqueda.transmision;
+    }else{
+        return auto;
+    }
+}
 function obtenerAutos(){
     return [
         {
@@ -201,13 +271,10 @@ function obtenerAutos(){
 }
 
 function  mostrarAutos(autos){
-    //leer el elemento resultado
-    const resultado = document.querySelector('#resultado');
+
     //limpiar los resultados anteriores
-    while (resultado.firstChild){
-        //mientras el div resultado leido tenga hijos los vamos limpiando hasta que no quede nada
-        resultado.removeChild(resultado.firstChild);
-    }
+    limpiarHTML();
+
     //ahora agregamos los autos leidos
     autos.forEach(auto => {
         const autoHTML = document.createElement('p');
@@ -216,3 +283,19 @@ function  mostrarAutos(autos){
     });
 }
 
+function limpiarHTML(){
+    //leer el elemento resultado
+    const resultado = document.querySelector('#resultado');
+    while (resultado.firstChild){
+        //mientras el div resultado leido tenga hijos los vamos limpiando hasta que no quede nada
+        resultado.removeChild(resultado.firstChild);
+    }
+}
+
+function  noResultado(){
+    limpiarHTML();
+    const noResultado = document.createElement('div');
+    noResultado.classList.add('alerta','error');
+    noResultado.appendChild(document.createTextNode('No hay resultados'));
+    document.querySelector('#resultado').appendChild(noResultado);
+}

@@ -175,3 +175,4 @@ let resultado = autos.some( auto => auto.precio === 10); //lo ultimo es el valor
 console.log(resultado);
 
 
+  
