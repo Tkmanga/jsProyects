@@ -20,17 +20,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="94462d20-5c7f-4a1e-b8c7-7655b1aaaaf6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/12/css/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/12/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/12/js/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdemyJuanPablo/Teoria/09-ECMA10/css/app.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdemyJuanPablo/Teoria/09-ECMA10/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdemyJuanPablo/Teoria/09-ECMA10/js/01-flat.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdemyJuanPablo/Teoria/09-ECMA10/js/02-flatMap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdemyJuanPablo/Teoria/09-ECMA10/js/03-fromEntres.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdemyJuanPablo/Teoria/09-ECMA10/js/04-trim.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdemyJuanPablo/Teoria/09-ECMA10/js/05-toString.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdemyJuanPablo/Teoria/09-ECMA10/js/06-try.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -88,19 +77,6 @@
       <recent name="C:\Users\User\Desktop\jsProyects\.idea\UdemyJuanPablo\Proyects" />
       <recent name="C:\Users\User\Desktop\jproyects\jsProyects\.idea\asy" />
     </key>
-  </component>
-  <component name="RunManager">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
@@ -197,7 +173,8 @@
       <workItem from="1596631132707" duration="1155000" />
       <workItem from="1596633890573" duration="1863000" />
       <workItem from="1596648331159" duration="2047000" />
-      <workItem from="1596656095713" duration="6377000" />
+      <workItem from="1596656095713" duration="6995000" />
+      <workItem from="1596804065347" duration="610000" />
     </task>
     <task id="LOCAL-00001" summary="terminado primer ejercicio js">
       <created>1584843303560</created>
@@ -458,7 +435,14 @@
       <option name="project" value="LOCAL" />
       <updated>1596650428630</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="Practica 11">
+      <created>1596675661023</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1596675661023</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -506,10 +490,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="1120" y="536" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1591395451454" />
-    <state x="2505" y="129" key="CommitChangelistDialog2" timestamp="1596650427853">
+    <state x="2505" y="129" key="CommitChangelistDialog2" timestamp="1596675660292">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="2505" y="129" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596650427853" />
+    <state x="2505" y="129" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596675660292" />
     <state x="2505" y="134" key="CommitChangelistDialog2/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1596060814678" />
     <state x="585" y="134" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1591822408615" />
     <state x="3140" y="295" key="FileChooserDialogImpl" timestamp="1596115629492">
@@ -532,10 +516,10 @@
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2360" y="94" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596234584513" />
-    <state x="2952" y="263" key="Vcs.Push.Dialog.v2" timestamp="1596650430071">
+    <state x="2952" y="263" key="Vcs.Push.Dialog.v2" timestamp="1596675662194">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="2952" y="263" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596650430071" />
+    <state x="2952" y="263" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596675662194" />
     <state x="2952" y="273" key="Vcs.Push.Dialog.v2/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1596060817782" />
     <state x="1032" y="273" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1591822411169" />
     <state x="2012" y="92" width="1736" height="896" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1596060148886">
