@@ -283,6 +283,7 @@ function  mostrarAutos(autos){
     });
 }
 
+
 function limpiarHTML(){
     //leer el elemento resultado
     const resultado = document.querySelector('#resultado');
