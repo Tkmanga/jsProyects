@@ -20,13 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="94462d20-5c7f-4a1e-b8c7-7655b1aaaaf6" name="Default Changelist" comment="js teoria">
-      <change afterPath="$PROJECT_DIR$/UdemyJuanPablo/Teoria/10-jsAvanzado/js/05.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdemyJuanPablo/Teoria/10-jsAvanzado/js/06.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdemyJuanPablo/Teoria/10-jsAvanzado/js/07.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdemyJuanPablo/Teoria/10-jsAvanzado/js/08.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/11/js/buscador.js" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/11/js/buscador.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UdemyJuanPablo/Teoria/10-jsAvanzado/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Teoria/10-jsAvanzado/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdemyJuanPablo/Teoria/09-ECMA10/js/06-try.js" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Teoria/09-ECMA10/js/06-try.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,19 +73,6 @@
       <recent name="C:\Users\User\Desktop\jproyects\jsProyects\.idea\toricaAjaxRequest\sinJson" />
       <recent name="C:\Users\User\Desktop\jproyects\jsProyects\.idea\primerProyecto" />
     </key>
-  </component>
-  <component name="RunManager">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
@@ -166,7 +148,11 @@
       <workItem from="1596641344141" duration="2889000" />
       <workItem from="1596907349195" duration="2304000" />
       <workItem from="1597011299352" duration="2032000" />
-      <workItem from="1597091447228" duration="2540000" />
+      <workItem from="1597091447228" duration="2580000" />
+      <workItem from="1597629491732" duration="533000" />
+      <workItem from="1598388036759" duration="387000" />
+      <workItem from="1598482573017" duration="454000" />
+      <workItem from="1598483289788" duration="1558000" />
     </task>
     <task id="LOCAL-00001" summary="terminado primer ejercicio js">
       <created>1584843303560</created>
@@ -343,7 +329,14 @@
       <option name="project" value="LOCAL" />
       <updated>1596648171625</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="js teoria">
+      <created>1597094190950</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1597094190950</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -378,39 +371,39 @@
     <option name="LAST_COMMIT_MESSAGE" value="js teoria" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="0" y="0" key="CommitChangelistDialog2" timestamp="1597011433239">
+    <state x="363" y="100" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1598482855988">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="0" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1597011433239" />
+    <state x="363" y="100" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1366.728@0.0.1366.728" timestamp="1598482855988" />
+    <state x="0" y="0" key="CommitChangelistDialog2" timestamp="1598388054070">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="0" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1598388054070" />
     <state x="0" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1590679643206" />
-    <state x="585" y="134" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1589401832907" />
     <state x="0" y="55" key="DiffContextDialog" timestamp="1597011432195">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="0" y="55" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1597011432195" />
-    <state x="868" y="199" key="FileChooserDialogImpl" timestamp="1596115890462">
+    <state x="868" y="199" key="FileChooserDialogImpl" timestamp="1597629751718">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="868" y="199" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1596115890462" />
+    <state x="868" y="199" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1597629751718" />
     <state x="868" y="210" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1594155720964" />
-    <state x="1220" y="295" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1589401856110" />
     <state x="129" y="56" key="MergeDialog" timestamp="1597011539521">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="129" y="56" key="MergeDialog/0.0.1366.728@0.0.1366.728" timestamp="1597011539521" />
     <state x="129" y="59" key="MergeDialog/0.0.1366.768@0.0.1366.768" timestamp="1591470371327" />
-    <state x="550" y="184" key="Vcs.Push.Dialog.v2" timestamp="1596648201049">
+    <state x="550" y="184" key="Vcs.Push.Dialog.v2" timestamp="1597094193661">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="550" y="184" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1596648201049" />
+    <state x="550" y="184" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1597094193661" />
     <state x="550" y="194" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1590679648123" />
-    <state x="1032" y="273" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1589401836163" />
-    <state x="889" y="308" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1597091454747">
+    <state x="889" y="308" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1598490651991">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="889" y="308" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1597091454747" />
+    <state x="889" y="308" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1598490651991" />
     <state x="889" y="325" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.768@0.0.1366.768" timestamp="1591470332326" />
-    <state x="1249" y="457" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1080@0.0.1920.1080" timestamp="1589401793061" />
     <state x="680" y="167" width="672" height="677" key="run.anything.popup" timestamp="1597092551330">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -421,6 +414,5 @@
     </state>
     <state x="348" y="172" width="672" height="458" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1596406192387" />
     <state x="348" y="181" width="672" height="483" key="search.everywhere.popup/0.0.1366.768@0.0.1366.768" timestamp="1590644626434" />
-    <state x="1103" y="401" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1589384605692" />
   </component>
 </project>

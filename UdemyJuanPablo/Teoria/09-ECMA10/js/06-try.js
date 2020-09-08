@@ -5,3 +5,4 @@ try{
 }catch{
     console.log('Hubo un error bastante grave');
 }
+
