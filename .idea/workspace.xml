@@ -19,9 +19,13 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="94462d20-5c7f-4a1e-b8c7-7655b1aaaaf6" name="Default Changelist" comment="js teoria">
+    <list default="true" id="94462d20-5c7f-4a1e-b8c7-7655b1aaaaf6" name="Default Changelist" comment="teorica">
+      <change afterPath="$PROJECT_DIR$/UdemyJuanPablo/Teoria/11-webpack/dist/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UdemyJuanPablo/Teoria/11-webpack/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UdemyJuanPablo/Teoria/11-webpack/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UdemyJuanPablo/Teoria/11-webpack/src/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UdemyJuanPablo/Teoria/09-ECMA10/js/06-try.js" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Teoria/09-ECMA10/js/06-try.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdemyJuanPablo/Teoria/10-jsAvanzado/js/08.js" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Teoria/10-jsAvanzado/js/08.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,8 +39,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="CSS File" />
-        <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -56,6 +60,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
@@ -65,13 +70,18 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="web.server" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\tacac\Desktop\jsProyects\UdemyJuanPablo\Teoria\07-Modulos\JS" />
-      <recent name="C:\Users\User\Desktop\jproyects\jsProyects\.idea\asy\callback" />
-      <recent name="C:\Users\User\Desktop\jproyects\jsProyects\.idea\toricaAjaxRequest\sinJson" />
-      <recent name="C:\Users\User\Desktop\jproyects\jsProyects\.idea\primerProyecto" />
+      <recent name="C:\Users\User\Desktop\jsProyects\UdemyJuanPablo\Teoria" />
+      <recent name="C:\Users\User\Desktop\jsProyects" />
+      <recent name="C:\Users\User\Desktop\jsProyects\.idea\UdemyJuanPablo" />
+      <recent name="C:\Users\User\Desktop\jsProyects\.idea\UdemyJuanPablo\Proyects" />
+      <recent name="C:\Users\User\Desktop\jproyects\jsProyects\.idea\asy" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -121,38 +131,63 @@
       <workItem from="1589382722236" duration="4783000" />
       <workItem from="1589400316420" duration="1544000" />
       <workItem from="1589404214680" duration="1974000" />
-      <workItem from="1589757203053" duration="747000" />
-      <workItem from="1589903700220" duration="814000" />
-      <workItem from="1590095308580" duration="7788000" />
-      <workItem from="1590274521893" duration="11101000" />
-      <workItem from="1590554538259" duration="7000" />
-      <workItem from="1590603025492" duration="3875000" />
-      <workItem from="1590641844723" duration="2875000" />
-      <workItem from="1590786573260" duration="650000" />
-      <workItem from="1591028584129" duration="582000" />
-      <workItem from="1591216176301" duration="611000" />
-      <workItem from="1591220758041" duration="611000" />
-      <workItem from="1591470259366" duration="4482000" />
-      <workItem from="1593370689893" duration="1092000" />
-      <workItem from="1593399797179" duration="629000" />
-      <workItem from="1594155578660" duration="121000" />
-      <workItem from="1595898934073" duration="14327000" />
-      <workItem from="1596026540234" duration="2982000" />
-      <workItem from="1596057189520" duration="1245000" />
-      <workItem from="1596058826503" duration="551000" />
-      <workItem from="1596060651470" duration="219000" />
-      <workItem from="1596115875173" duration="17000" />
-      <workItem from="1596222878918" duration="2819000" />
-      <workItem from="1596404857322" duration="2473000" />
-      <workItem from="1596634233143" duration="185000" />
-      <workItem from="1596641344141" duration="2889000" />
-      <workItem from="1596907349195" duration="2304000" />
-      <workItem from="1597011299352" duration="2032000" />
-      <workItem from="1597091447228" duration="2580000" />
-      <workItem from="1597629491732" duration="533000" />
-      <workItem from="1598388036759" duration="387000" />
-      <workItem from="1598482573017" duration="454000" />
-      <workItem from="1598483289788" duration="1558000" />
+      <workItem from="1589414155513" duration="959000" />
+      <workItem from="1589566353914" duration="767000" />
+      <workItem from="1589581862420" duration="826000" />
+      <workItem from="1589647829481" duration="18000" />
+      <workItem from="1589774245330" duration="2850000" />
+      <workItem from="1589825477396" duration="6260000" />
+      <workItem from="1589934495547" duration="336000" />
+      <workItem from="1589934846070" duration="812000" />
+      <workItem from="1590022363856" duration="6175000" />
+      <workItem from="1590073968829" duration="6707000" />
+      <workItem from="1590257986196" duration="66000" />
+      <workItem from="1590258063499" duration="545000" />
+      <workItem from="1590277693791" duration="38000" />
+      <workItem from="1590361876649" duration="4306000" />
+      <workItem from="1590374431117" duration="10935000" />
+      <workItem from="1590532468975" duration="66000" />
+      <workItem from="1590533577274" duration="6250000" />
+      <workItem from="1591030675640" duration="7791000" />
+      <workItem from="1591109696238" duration="124000" />
+      <workItem from="1591395441772" duration="79000" />
+      <workItem from="1591395693841" duration="13000" />
+      <workItem from="1591403596899" duration="34000" />
+      <workItem from="1591466186318" duration="4255000" />
+      <workItem from="1591556991896" duration="671000" />
+      <workItem from="1591657769852" duration="4448000" />
+      <workItem from="1591746960178" duration="1697000" />
+      <workItem from="1591822226859" duration="195000" />
+      <workItem from="1592005540134" duration="627000" />
+      <workItem from="1592006450922" duration="182000" />
+      <workItem from="1592154900633" duration="127000" />
+      <workItem from="1592839467450" duration="240000" />
+      <workItem from="1592839720226" duration="29000" />
+      <workItem from="1593659889817" duration="189000" />
+      <workItem from="1593660099254" duration="530000" />
+      <workItem from="1593859878038" duration="471000" />
+      <workItem from="1594070661794" duration="21000" />
+      <workItem from="1594070733086" duration="39000" />
+      <workItem from="1596058139702" duration="1741000" />
+      <workItem from="1596115617141" duration="14000" />
+      <workItem from="1596232551927" duration="3411000" />
+      <workItem from="1596285323941" duration="11128000" />
+      <workItem from="1596328107466" duration="653000" />
+      <workItem from="1596378916873" duration="1185000" />
+      <workItem from="1596543943129" duration="329000" />
+      <workItem from="1596631068920" duration="44000" />
+      <workItem from="1596631132707" duration="1155000" />
+      <workItem from="1596633890573" duration="1863000" />
+      <workItem from="1596648331159" duration="2047000" />
+      <workItem from="1596656095713" duration="6995000" />
+      <workItem from="1596804065347" duration="610000" />
+      <workItem from="1596927663191" duration="739000" />
+      <workItem from="1596996510633" duration="25000" />
+      <workItem from="1597008953496" duration="2743000" />
+      <workItem from="1597066037996" duration="207000" />
+      <workItem from="1597094254908" duration="2390000" />
+      <workItem from="1597152146709" duration="187000" />
+      <workItem from="1597163814027" duration="11000" />
     </task>
     <task id="LOCAL-00001" summary="terminado primer ejercicio js">
       <created>1584843303560</created>
@@ -259,84 +294,182 @@
       <option name="project" value="LOCAL" />
       <updated>1589401833426</updated>
     </task>
-    <task id="LOCAL-00016" summary="agregando contenido visto durante corte de internet">
-      <created>1589757256207</created>
+    <task id="LOCAL-00016" summary="solucionado problemas de APIS!">
+      <created>1589414205937</created>
       <option name="number" value="00016" />
       <option name="presentableId" value="LOCAL-00016" />
       <option name="project" value="LOCAL" />
-      <updated>1589757256207</updated>
+      <updated>1589414205937</updated>
     </task>
-    <task id="LOCAL-00017" summary="ejercicio noveno ! me quede en el search by name por que parece que ya esta deprecado">
-      <created>1590105430515</created>
+    <task id="LOCAL-00017" summary="solucionado problemas de APIS!">
+      <created>1589581888180</created>
       <option name="number" value="00017" />
       <option name="presentableId" value="LOCAL-00017" />
       <option name="project" value="LOCAL" />
-      <updated>1590105430515</updated>
+      <updated>1589581888180</updated>
     </task>
-    <task id="LOCAL-00018" summary="Games">
-      <created>1590281612025</created>
+    <task id="LOCAL-00018" summary="Octavo proyecto!">
+      <created>1589837539022</created>
       <option name="number" value="00018" />
       <option name="presentableId" value="LOCAL-00018" />
       <option name="project" value="LOCAL" />
-      <updated>1590281612025</updated>
+      <updated>1589837539022</updated>
     </task>
-    <task id="LOCAL-00019" summary="games 01 memory game falta corregir el tema del doble click sobre la misma imagen (la toma como un movimiento valido una vez que se pickeo una imagen no se puede volver a pickear)">
-      <created>1590287452953</created>
+    <task id="LOCAL-00019" summary="Octavo proyecto!">
+      <created>1590086482220</created>
       <option name="number" value="00019" />
       <option name="presentableId" value="LOCAL-00019" />
       <option name="project" value="LOCAL" />
-      <updated>1590287452953</updated>
+      <updated>1590086482220</updated>
     </task>
-    <task id="LOCAL-00020" summary="games 02">
-      <created>1590361545648</created>
+    <task id="LOCAL-00020" summary="noveno proyecto">
+      <created>1590095038010</created>
       <option name="number" value="00020" />
       <option name="presentableId" value="LOCAL-00020" />
       <option name="project" value="LOCAL" />
-      <updated>1590361545648</updated>
+      <updated>1590095038010</updated>
     </task>
-    <task id="LOCAL-00021" summary="games 02">
-      <created>1590679644306</created>
+    <task id="LOCAL-00021" summary="noveno proyecto">
+      <created>1590277723847</created>
       <option name="number" value="00021" />
       <option name="presentableId" value="LOCAL-00021" />
       <option name="project" value="LOCAL" />
-      <updated>1590679644306</updated>
+      <updated>1590277723847</updated>
     </task>
-    <task id="LOCAL-00022" summary="games 02">
-      <created>1596058270425</created>
+    <task id="LOCAL-00022" summary="Cuarto proyecto games">
+      <created>1590454241431</created>
       <option name="number" value="00022" />
       <option name="presentableId" value="LOCAL-00022" />
       <option name="project" value="LOCAL" />
-      <updated>1596058270425</updated>
+      <updated>1590454241432</updated>
     </task>
-    <task id="LOCAL-00023" summary="js teoria">
-      <created>1596232338511</created>
+    <task id="LOCAL-00023" summary="Cuarto proyecto games">
+      <created>1590532522018</created>
       <option name="number" value="00023" />
       <option name="presentableId" value="LOCAL-00023" />
       <option name="project" value="LOCAL" />
-      <updated>1596232338511</updated>
+      <updated>1590532522018</updated>
     </task>
-    <task id="LOCAL-00024" summary="js teoria">
-      <created>1596634387396</created>
+    <task id="LOCAL-00024" summary="Quinto proyecto game">
+      <created>1590592090303</created>
       <option name="number" value="00024" />
       <option name="presentableId" value="LOCAL-00024" />
       <option name="project" value="LOCAL" />
-      <updated>1596634387396</updated>
+      <updated>1590592090303</updated>
     </task>
-    <task id="LOCAL-00025" summary="js teoria">
-      <created>1596648171625</created>
+    <task id="LOCAL-00025" summary="Quinto proyecto game">
+      <created>1591032794023</created>
       <option name="number" value="00025" />
       <option name="presentableId" value="LOCAL-00025" />
       <option name="project" value="LOCAL" />
-      <updated>1596648171625</updated>
+      <updated>1591032794024</updated>
     </task>
-    <task id="LOCAL-00026" summary="js teoria">
-      <created>1597094190950</created>
+    <task id="LOCAL-00026" summary="sexto proyecto game">
+      <created>1591053209361</created>
       <option name="number" value="00026" />
       <option name="presentableId" value="LOCAL-00026" />
       <option name="project" value="LOCAL" />
-      <updated>1597094190950</updated>
+      <updated>1591053209361</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="sexto proyecto game">
+      <created>1591403622830</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1591403622830</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Organizando la mesa">
+      <created>1591476450210</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1591476450210</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Organizando la mesa">
+      <created>1591557006758</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1591557006758</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Organizando la mesa">
+      <created>1591822409242</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1591822409242</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Organizando la mesa">
+      <created>1596060187395</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1596060187395</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Organizando la mesa">
+      <created>1596060815377</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1596060815377</updated>
+    </task>
+    <task id="LOCAL-00033" summary="Modulos js">
+      <created>1596285912412</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1596285912412</updated>
+    </task>
+    <task id="LOCAL-00034" summary="Patrones JS">
+      <created>1596304942138</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1596304942138</updated>
+    </task>
+    <task id="LOCAL-00035" summary="Practica 11">
+      <created>1596327531411</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1596327531411</updated>
+    </task>
+    <task id="LOCAL-00036" summary="Practica 11">
+      <created>1596634535161</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1596634535161</updated>
+    </task>
+    <task id="LOCAL-00037" summary="Practica 11">
+      <created>1596650428630</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1596650428630</updated>
+    </task>
+    <task id="LOCAL-00038" summary="Practica 11">
+      <created>1596675661023</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1596675661023</updated>
+    </task>
+    <task id="LOCAL-00039" summary="Practica 11">
+      <created>1596927797694</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1596927797694</updated>
+    </task>
+    <task id="LOCAL-00040" summary="teorica">
+      <created>1597011451038</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1597011451038</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -355,6 +488,7 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="terminado primer ejercicio js" />
     <MESSAGE value="terminado el 3er ejercicio" />
     <MESSAGE value="comenzando el 4to ejercicio" />
@@ -362,57 +496,88 @@
     <MESSAGE value="haciendo parte teorica me quede en el comienzo del video 44" />
     <MESSAGE value="terminando cuarto proyecto &#10;terminando quinto proyecto" />
     <MESSAGE value="sexto proyecto y callbaks *falta solucionar el tema que no me deja hacer llamadas a las APIS!!!!" />
-    <MESSAGE value="agregando contenido visto durante corte de internet" />
-    <MESSAGE value="ejercicio noveno ! me quede en el search by name por que parece que ya esta deprecado" />
-    <MESSAGE value="Games" />
-    <MESSAGE value="games 01 memory game falta corregir el tema del doble click sobre la misma imagen (la toma como un movimiento valido una vez que se pickeo una imagen no se puede volver a pickear)" />
-    <MESSAGE value="games 02" />
-    <MESSAGE value="js teoria" />
-    <option name="LAST_COMMIT_MESSAGE" value="js teoria" />
+    <MESSAGE value="solucionado problemas de APIS!" />
+    <MESSAGE value="Octavo proyecto!" />
+    <MESSAGE value="noveno proyecto" />
+    <MESSAGE value="Cuarto proyecto games" />
+    <MESSAGE value="Quinto proyecto game" />
+    <MESSAGE value="sexto proyecto game" />
+    <MESSAGE value="Organizando la mesa" />
+    <MESSAGE value="Modulos js" />
+    <MESSAGE value="Patrones JS" />
+    <MESSAGE value="Practica 11" />
+    <MESSAGE value="teorica" />
+    <option name="LAST_COMMIT_MESSAGE" value="teorica" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="363" y="100" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1598482855988">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="1325" y="403" key="#Notifications" timestamp="1590258087276">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="363" y="100" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1366.728@0.0.1366.728" timestamp="1598482855988" />
-    <state x="0" y="0" key="CommitChangelistDialog2" timestamp="1598388054070">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="1325" y="403" key="#Notifications/0.0.1920.1080@0.0.1920.1080" timestamp="1590258087276" />
+    <state x="1120" y="536" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1591395451454">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="0" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1598388054070" />
-    <state x="0" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1590679643206" />
-    <state x="0" y="55" key="DiffContextDialog" timestamp="1597011432195">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="1120" y="536" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1591395451454" />
+    <state x="2505" y="129" key="CommitChangelistDialog2" timestamp="1597066234070">
+      <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="0" y="55" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1597011432195" />
-    <state x="868" y="199" key="FileChooserDialogImpl" timestamp="1597629751718">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="2505" y="129" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1597066234070" />
+    <state x="2505" y="134" key="CommitChangelistDialog2/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1596060814678" />
+    <state x="585" y="134" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1591822408615" />
+    <state x="3140" y="284" key="FileChooserDialogImpl" timestamp="1597066241233">
+      <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="868" y="199" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1597629751718" />
-    <state x="868" y="210" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1594155720964" />
-    <state x="129" y="56" key="MergeDialog" timestamp="1597011539521">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="3140" y="284" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1597066241233" />
+    <state x="3140" y="295" key="FileChooserDialogImpl/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1596115629492" />
+    <state x="1220" y="295" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1589935055688" />
+    <state x="2288" y="90" key="MergeDialog" timestamp="1597094265053">
+      <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="129" y="56" key="MergeDialog/0.0.1366.728@0.0.1366.728" timestamp="1597011539521" />
-    <state x="129" y="59" key="MergeDialog/0.0.1366.768@0.0.1366.768" timestamp="1591470371327" />
-    <state x="550" y="184" key="Vcs.Push.Dialog.v2" timestamp="1597094193661">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="2288" y="90" key="MergeDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1597094265053" />
+    <state x="2288" y="93" key="MergeDialog/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1596059780679" />
+    <state x="368" y="93" key="MergeDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1591475316928" />
+    <state x="2768" y="393" width="389" height="264" key="MultipleFileMergeDialog" timestamp="1596648409153">
+      <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="550" y="184" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1597094193661" />
-    <state x="550" y="194" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1590679648123" />
-    <state x="889" y="308" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1598490651991">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="2768" y="393" width="389" height="264" key="MultipleFileMergeDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596648409153" />
+    <state x="848" y="408" width="389" height="264" key="MultipleFileMergeDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1590361948642" />
+    <state x="2360" y="94" key="SettingsEditor" timestamp="1596234584513">
+      <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="889" y="308" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1598490651991" />
-    <state x="889" y="325" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.768@0.0.1366.768" timestamp="1591470332326" />
-    <state x="680" y="167" width="672" height="677" key="run.anything.popup" timestamp="1597092551330">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="2360" y="94" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596234584513" />
+    <state x="2952" y="263" key="Vcs.Push.Dialog.v2" timestamp="1597011452212">
+      <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="680" y="167" width="672" height="677" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1597092551330" />
-    <state x="680" y="176" key="run.anything.popup/0.0.1366.768@0.0.1366.768" timestamp="1590644646690" />
-    <state x="348" y="172" width="672" height="458" key="search.everywhere.popup" timestamp="1596406192387">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="2952" y="263" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1597011452212" />
+    <state x="2952" y="273" key="Vcs.Push.Dialog.v2/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1596060817782" />
+    <state x="1032" y="273" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1591822411169" />
+    <state x="2012" y="92" width="1736" height="896" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1596060148886">
+      <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state x="348" y="172" width="672" height="458" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1596406192387" />
-    <state x="348" y="181" width="672" height="483" key="search.everywhere.popup/0.0.1366.768@0.0.1366.768" timestamp="1590644626434" />
+    <state x="2012" y="92" width="1736" height="896" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1596060148886" />
+    <state x="3169" y="440" width="382" height="170" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1597094257463">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="3169" y="440" width="382" height="170" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1597094257463" />
+    <state x="3169" y="457" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1596059980114" />
+    <state x="1249" y="457" width="382" height="170" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1080@0.0.1920.1080" timestamp="1591556997138" />
+    <state x="1148" y="139" width="585" height="801" key="find.popup" timestamp="1591660785829">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1148" y="139" width="585" height="801" key="find.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1591660785829" />
+    <state width="600" height="428" key="javadoc.popup" timestamp="1590437368080">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="600" height="428" key="javadoc.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1590437368080" />
+    <state x="2011" y="152" key="new project wizard" timestamp="1594070681138">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2011" y="152" key="new project wizard/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1594070681138" />
+    <state x="91" y="152" key="new project wizard/0.0.1920.1080@0.0.1920.1080" timestamp="1592155025985" />
+    <state x="3023" y="386" width="672" height="653" key="search.everywhere.popup" timestamp="1596234551988">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="3023" y="386" width="672" height="653" key="search.everywhere.popup/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596234551988" />
+    <state x="1103" y="401" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1591658881782" />
   </component>
 </project>
