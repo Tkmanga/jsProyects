@@ -20,12 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="94462d20-5c7f-4a1e-b8c7-7655b1aaaaf6" name="Default Changelist" comment="teorica">
-      <change afterPath="$PROJECT_DIR$/UdemyJuanPablo/Teoria/11-webpack/dist/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdemyJuanPablo/Teoria/11-webpack/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdemyJuanPablo/Teoria/11-webpack/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdemyJuanPablo/Teoria/11-webpack/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UdemyJuanPablo/Teoria/10-jsAvanzado/js/08.js" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Teoria/10-jsAvanzado/js/08.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdemyJuanPablo/Teoria/01-teoricaBasica/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Teoria/01-teoricaBasica/js/app.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -188,6 +185,13 @@
       <workItem from="1597094254908" duration="2390000" />
       <workItem from="1597152146709" duration="187000" />
       <workItem from="1597163814027" duration="11000" />
+      <workItem from="1600022529019" duration="1889000" />
+      <workItem from="1600333945948" duration="822000" />
+      <workItem from="1600335010234" duration="774000" />
+      <workItem from="1600723400471" duration="672000" />
+      <workItem from="1600790308385" duration="1839000" />
+      <workItem from="1600863374204" duration="302000" />
+      <workItem from="1600863694029" duration="5158000" />
     </task>
     <task id="LOCAL-00001" summary="terminado primer ejercicio js">
       <created>1584843303560</created>
@@ -469,7 +473,14 @@
       <option name="project" value="LOCAL" />
       <updated>1597011451038</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="teorica">
+      <created>1600022559777</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1600022559777</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -510,65 +521,52 @@
     <option name="LAST_COMMIT_MESSAGE" value="teorica" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1325" y="403" key="#Notifications" timestamp="1590258087276">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state x="2140" y="676" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1600334698316">
+      <screen x="1920" y="0" width="1080" height="1880" />
     </state>
-    <state x="1325" y="403" key="#Notifications/0.0.1920.1080@0.0.1920.1080" timestamp="1590258087276" />
-    <state x="1120" y="536" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1591395451454">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state x="2140" y="676" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1040/1920.0.1080.1880@1920.0.1080.1880" timestamp="1600334698316" />
+    <state x="2249" y="233" key="CommitChangelistDialog2" timestamp="1600724434150">
+      <screen x="1920" y="0" width="1080" height="1880" />
     </state>
-    <state x="1120" y="536" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1591395451454" />
-    <state x="2505" y="129" key="CommitChangelistDialog2" timestamp="1597066234070">
-      <screen x="1920" y="0" width="1920" height="1040" />
-    </state>
+    <state x="2249" y="233" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1080.1880@1920.0.1080.1880" timestamp="1600724434150" />
     <state x="2505" y="129" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1597066234070" />
     <state x="2505" y="134" key="CommitChangelistDialog2/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1596060814678" />
-    <state x="585" y="134" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1591822408615" />
-    <state x="3140" y="284" key="FileChooserDialogImpl" timestamp="1597066241233">
-      <screen x="1920" y="0" width="1920" height="1040" />
+    <state x="2560" y="513" key="FileChooserDialogImpl" timestamp="1600724439507">
+      <screen x="1920" y="0" width="1080" height="1880" />
     </state>
+    <state x="2560" y="513" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1080.1880@1920.0.1080.1880" timestamp="1600724439507" />
     <state x="3140" y="284" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1597066241233" />
     <state x="3140" y="295" key="FileChooserDialogImpl/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1596115629492" />
-    <state x="1220" y="295" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1589935055688" />
-    <state x="2288" y="90" key="MergeDialog" timestamp="1597094265053">
-      <screen x="1920" y="0" width="1920" height="1040" />
+    <state x="1920" y="163" key="MergeDialog" timestamp="1600022548438">
+      <screen x="1920" y="0" width="1080" height="1880" />
     </state>
+    <state x="1920" y="163" key="MergeDialog/0.0.1920.1040/1920.0.1080.1880@1920.0.1080.1880" timestamp="1600022548438" />
     <state x="2288" y="90" key="MergeDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1597094265053" />
     <state x="2288" y="93" key="MergeDialog/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1596059780679" />
-    <state x="368" y="93" key="MergeDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1591475316928" />
     <state x="2768" y="393" width="389" height="264" key="MultipleFileMergeDialog" timestamp="1596648409153">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2768" y="393" width="389" height="264" key="MultipleFileMergeDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596648409153" />
-    <state x="848" y="408" width="389" height="264" key="MultipleFileMergeDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1590361948642" />
     <state x="2360" y="94" key="SettingsEditor" timestamp="1596234584513">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2360" y="94" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596234584513" />
-    <state x="2952" y="263" key="Vcs.Push.Dialog.v2" timestamp="1597011452212">
-      <screen x="1920" y="0" width="1920" height="1040" />
+    <state x="2184" y="475" key="Vcs.Push.Dialog.v2" timestamp="1600022577027">
+      <screen x="1920" y="0" width="1080" height="1880" />
     </state>
+    <state x="2184" y="475" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1080.1880@1920.0.1080.1880" timestamp="1600022577027" />
     <state x="2952" y="263" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1597011452212" />
     <state x="2952" y="273" key="Vcs.Push.Dialog.v2/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1596060817782" />
-    <state x="1032" y="273" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1591822411169" />
     <state x="2012" y="92" width="1736" height="896" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1596060148886">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state x="2012" y="92" width="1736" height="896" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1596060148886" />
-    <state x="3169" y="440" width="382" height="170" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1597094257463">
-      <screen x="1920" y="0" width="1920" height="1040" />
+    <state x="2623" y="795" width="365" height="308" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600724424330">
+      <screen x="1920" y="0" width="1080" height="1880" />
     </state>
+    <state x="2623" y="795" width="365" height="308" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040/1920.0.1080.1880@1920.0.1080.1880" timestamp="1600724424330" />
     <state x="3169" y="440" width="382" height="170" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1597094257463" />
     <state x="3169" y="457" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1596059980114" />
-    <state x="1249" y="457" width="382" height="170" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1080@0.0.1920.1080" timestamp="1591556997138" />
-    <state x="1148" y="139" width="585" height="801" key="find.popup" timestamp="1591660785829">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="1148" y="139" width="585" height="801" key="find.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1591660785829" />
-    <state width="600" height="428" key="javadoc.popup" timestamp="1590437368080">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state width="600" height="428" key="javadoc.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1590437368080" />
     <state x="2011" y="152" key="new project wizard" timestamp="1594070681138">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
@@ -578,6 +576,5 @@
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="3023" y="386" width="672" height="653" key="search.everywhere.popup/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596234551988" />
-    <state x="1103" y="401" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1591658881782" />
   </component>
 </project>

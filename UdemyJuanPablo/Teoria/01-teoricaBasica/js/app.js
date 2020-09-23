@@ -1,40 +1,53 @@
 //aca voy a poner toda la teoria que no toque hasta el momento de la mejor forma posible para futuras referencias
 /*
-
 alert("asd");
 
 document.getElementById('app').append("hola mundo");
 
+const nombre = prompt("Cual es tu nombre ?");
+const  edad = prompt("cual es tu edad ?");
 
-let nombre = prompt("Cual es tu nombre ?");
-let edad = prompt("cual es tu edad ?");
 document.getElementById("app").append(`Bienvenido ${nombre} de ${edad} años de edad`);
-// ese tipo de comilla es alt+96
+
+// ese tipo de comilla es alt+96 se llama template
 
 prompt()
 confirm()
-//los console nos devuelve undefined por que toda funcion tiene un "return" al no tener algo para retornar tiene esto por defecto pero no afecta el programa
+
+//los console nos devuelve undefined por que toda función tiene un "return" al no tener algo para retornar tiene esto por defecto pero no afecta el programa
+
 console.log();
-console.warn();
 console.error();
+console.warn();
+
 console.time();
 //aca tendriamos que poner codigo para medir el tiempo de respuesta ! el time end nos devuelve la cantidad de milisegundos que pasaron desde el time
 console.timeEnd();
+
 //se pueden mandar arrays por console y la funcion table me lo imprime en una tabla
 console.table();
 
+/////////////////////////////////////////////////FIN INTRODUCCION/////////////////////////////////////////////////
 
 var nombre = "Juan", nombre1 = 'john';
+let nombre1; //podemos declarar una variable sin su contenido NO  es lo mismo con const 
+nombre2 = "jeje" // no es necesario ponerle var etc  no es un lenguaje fuertemente tipado
 var primerNombre;  //camelcase
 var primer_nombre; //under score
 var PrimerNombre;  //pascalCase
 var primernombre; //se usa pero no se recomienda
 
-//var let const
+// var let const sus diferencias
 // var podes sobreescribirlo y redeclalarlo
 // let no podes redeclararlo (usar el mismo nombre de variable)
-// const no podes hacer ninguna de las 2 se declara 1 vez
-let nombre = 'Juan', producto = 'libro';
+// const no podes hacer ninguna de las 2 se declara 1 vez con su contenido si o si
+
+/////////////////////////////////////////////////FIN VARIABLES /////////////////////////////////////////////////
+
+let nombre = 'Juan', producto = "libro";
+const producto2 = String('asd');
+const producto3 = new String('asd');
+
 console.log(nombre);
 
 //string
@@ -43,15 +56,17 @@ nombre = 'juan pablo';
 nombre = "juan pablo";
 mensaje = 'y entonces dije "buen curso!!"';
 mensaje = 'y entonces dije \' buen curso!! \'';
-//concatenar javascript
+
+//concatenar javascript              
 
 mensaje = 'JAVA'+ 'SCRIPT';
+
 //uniendo variables en una sola
 
 let aprendiendo = 'aprendiendo',
     tecnologia = 'javascript';
 
-//console.log(`${aprendiendo} ${tecnologia}`);
+//console.log(`${aprendiendo} --> ${tecnologia}`);
 
 let mensajee = 'aprendiendo javascript css html para ser frontend';
 
@@ -60,49 +75,55 @@ console.log(tecnologia.concat(' ',"es genial"))
 console.log(tecnologia.toUpperCase());
 console.log(tecnologia.toLowerCase());
 
-console.log(mensajee.indexOf('PHP')); //te devuelve -1 si no lo encuentra
+console.log(mensajee.indexOf('PHP')); //te devuelve -1 si no lo encuentra el string en la cadena de texto
 
-
-// 13
 
 let mensaje = "asd asd ";
 console.log(mensaje.substring(-2,3));
-//poniendo negativo de atras hacia adelante
+//poniendo negativo de atrás hacia adelante
 // poniendo 0 desde el comienzo y asi sucesivamente para adelante
 console.log(mensaje.slice(0,2)); //corta el string
 console.log(mensaje.split(' ')); // separa un texto cada vez que encuentra un espacio por ejemplo
 
 console.log(mensaje.replace('asd',"PHP")); //este reemplaza el primer encuentro con lo que quieras que ponga en su lugar
-console.log(mensaje.includes('asd')); //este confirma o no si existe lo que pidamos dentro de la variable a la que le consultamos
+console.log(mensaje.includes('asd')); //este confirma o no si existe lo que pidamos dentro de la variable a la que le consultamos es case sensitive 
 let tecno = "JavaScript";
-console.log(tecno.repeat(10)); //imprime la cantidad de veces que necesitemos
+console.log(tecno.repeat(10)); //imprime la cantidad de veces que necesitemos, si le pasamos un numero q no es entero lo redondea
 
-//numeros
 
-const numero1 = 30, numero2 = 20, numero3 = 20.20, numero4 = -1020, numero5 = -3;
+console.log(tecno.charAt(0));
+
+/////////////////////////////////////////////////FIN STRINGS /////////////////////////////////////////////////
+
+const numero1 = 30, numero2 = .21230, numero3 = 20.20, numero4 = -1020, numero5 = new Number(-3);
+
 let resultado;
 
 resultado = numero1+numero2;
 resultado = numero1-numero2;
 resultado = numero1*numero2;
 resultado = numero1/numero2;
-resultado = numero1%numero2;
+resultado = numero1%numero2;                            
 
 console.log(resultado);
 
 //Pi
 resultado = Math.PI;
-resultado = Math.round(2.4); //redondea hacia arriba
+resultado = Math.round(2.4); //redondea
+resultado = Math.ceil(2.1); // redondea hacia arriba
 resultado = Math.floor(2.4); // redondea hacia abajo
 //cell para redondear hacia arriba
-resultado = Math.sqrt(144); //raiz cuadrada
-resultado = Math.abs(numero5); //numero absoulto
+resultado = Math.sqrt(144); //raíz cuadrada
+resultado = Math.abs(numero5); //numero absoluto
 resultado = Math.pow(8,3); //potencia
-resultado = Math.min(3,2,45,6,78); //me devuelve el minimo
+resultado = Math.min(3,2,45,6,78); //me devuelve el mínimo
 resultado = Math.max(3,2,45,6,78); //maximo
 resultado = Math.random(); //numero random
+resultado = Math.floor(Math.random()*30);
+
 resultado = (10+20)*5;
-resultado = (10+20+20+10+40)*.20;
+resultado = (10+20+20+10+40)*1.20;      //el 1.20 le aumenta un 20%
+
 let puntaje = 10;
 
 puntaje++;
@@ -139,11 +160,14 @@ valor = new Date();
 
 console.log(typeof valor); //nos devuelve que tipo de dato es la variable
 
+/////////////////////////////////////////////////FIN NUMBERS /////////////////////////////////////////////////
 const num1 = 20, num2 = 50, num3='20';
 console.log(num1 < num2); // < >
 console.log(num1 > num2);
+console.log(20 == '20'); // false 
+
 console.log(20 === '20'); // usando solo == hubiera dado true
-console.log(2 != 3 );
+console.log(2 != 3 ); // podemos usar tambien !==
 console.log('hola'==' hola');
 console.log('a'>'b'); //false por que la A es menor que Z y lo mismo con a to z;
 console.log(null == undefined) // true, pero si usamos el operador estricto es false;
@@ -152,7 +176,9 @@ console.log(null == undefined) // true, pero si usamos el operador estricto es f
 const numero1 = "50", numero2 = 10, numero3 = 'tres';
 console.log(Number(numero1) + numero2); // si uno es cadena, lo concatena
 
-console.log(parseInt(numero1)+numero2); //otra forma de solucionarlo
+console.log(parseInt(numero1)+numero2); //otra forma de solucionarlo o parseFloat
+console.log(Number.isInteger(numero1)); //resultado booleano si es o no entero
+
 
 console.log(numero1-numero2); //en el caso del + lo concatena, pero en el meno sabe que tiene que restar algo...
 
