@@ -148,6 +148,8 @@ valor = null;
 valor = undefined;
 valor = 4.2;
 valor = -20;
+
+
 //objeto
 valor = {
     nombre: 'juan'
@@ -204,9 +206,7 @@ dato = parseInt('100.23');
 dato = 265526;
 dato = 23132132.15616516;
 
-console.log(dato.toFixed(2));
-
-//to fixed es una funcion que corta el decimal en la cantidad de numeros que precisemos
+console.log(dato.toFixed(2)); //to fixed es una funcion que corta el decimal en la cantidad de numeros que precisemos
 
 let cp = 90210;
 cp = String(cp);
@@ -215,9 +215,11 @@ let dato;
 dato = '4'+'4';
 dato = String(dato);
 
-//booleanos
+/////////////////////////////////////////////////FIN OPERADORES /////////////////////////////////////////////////
+
 dato = true;
 dato = false;
+dato2 = new Boolean(false); //un type of de esto nos daria objeto no "boolean"
 // de arreglo a string
 dato = [1,2,3];
 // toString();
@@ -231,9 +233,13 @@ dato = dato.toString();
 console.log(dato); // false
 console.log(dato.length); //undefinded
 console.log(typeof dato);  // boolean
+
+console.log(dato?'asd':'dsa'); //un ejemplo de operador ternario, si dato es true o false imprimero asd o dsa respectivamente
+
+/////////////////////////////////////////////////FIN BOOLEANOS /////////////////////////////////////////////////
+
 */
 
-//alert('asdd');
 /*
 const producto1 = 'Pizza',
     precio1 = 30,
@@ -336,6 +342,8 @@ numeros = ['Enero','Febrero']; // esto si se puede hacer
 
 console.log(numeros);
 
+
+-------------------------------------------
 //objetos
 
 const persona = {
