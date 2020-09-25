@@ -236,9 +236,9 @@ console.log(typeof dato);  // boolean
 
 console.log(dato?'asd':'dsa'); //un ejemplo de operador ternario, si dato es true o false imprimero asd o dsa respectivamente
 
-/////////////////////////////////////////////////FIN BOOLEANOS /////////////////////////////////////////////////
-
 */
+
+/////////////////////////////////////////////////FIN BOOLEANOS /////////////////////////////////////////////////
 
 /*
 const producto1 = 'Pizza',
@@ -342,32 +342,6 @@ numeros = ['Enero','Febrero']; // esto si se puede hacer
 
 console.log(numeros);
 
-
--------------------------------------------
-//objetos
-
-const persona = {
-    nombre: 'miguel',
-    apellido: 'martinez',
-    profesion: 'diseñador grafico',
-    email: 'lala@hotmail.com',
-    edad: 20,
-    musica: ['trance','rock','Grunge'],
-    hogar: {
-        ciudad: 'Guadalajara',
-        pais: 'Mexico'
-    },
-    nacimiento: function () {
-        return new Date().getFullYear() - this.edad;
-    }
-
-}
-
-console.log(persona); //persona.algo para acceder a ese objeto y persona.algo[x] para acceder al valor e un arrelgo
-persona.musica.push('alternativo');
-console.log(persona.hogar.ciudad);
-//console.log(persona['hogar']['pais']); // esto no es muy usada ni recomendada
-console.log(persona.nacimiento());
 
 const autos = [
     {modelo:'Mustang', motor:6.0},

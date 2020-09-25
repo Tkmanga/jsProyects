@@ -1,3 +1,49 @@
+
+/*
+//objetos
+
+const persona = {
+    nombre: 'miguel',
+    apellido: 'martinez',
+    profesion: 'diseñador grafico',
+    email: 'lala@hotmail.com',
+    edad: 20,
+    musica: ['trance','rock','Grunge'],
+    hogar: {
+        ciudad: 'Guadalajara',
+        pais: 'Mexico'
+    },
+    nacimiento: function () {
+        return new Date().getFullYear() - this.edad;
+    }
+
+}
+
+console.log(persona); //persona.algo para acceder a ese objeto y persona.algo[x] para acceder al valor e un arreglo
+persona.altura = '1.32'; //agregamos un valor al objeto  aunque sea "CONST" podemos agregarle a su contenido
+delete persona.altura; //eliminar propiedades del objeto
+persona.musica.push('alternativo'); //al ser un array podemos aplicar push
+
+//cuando queremos que no se modifique un objeto ponemos "use strict"; al comienzo o dsp de crear el objeto ponerle Object.freeze(persona); este metodo no te deja hacer ningun cambio
+//para saber si esta congelado o no basta con hacer Object.isFrozen(persona);
+
+// Object.seal(persona); este metodo nos permite sellar un objeto no podemos agregar o eliminar, pero podemos modificar las ya existentes igual que el metodo freeze tiene su metodo isSealed(persona); para saber si esta sellado
+
+// podemos unir 2 objetos con const lala = Object.assign(objeto1, objeto2);
+// tambien podemos usar el spread operator const lala = {...objeto1, ...objeto2};
+
+console.log(persona.hogar.ciudad);
+//console.log(persona['hogar']['pais']); // es otra forma de acceder a un valor de un objeto pero no es muy usada ni recomendada
+console.log(persona.nacimiento());
+
+{nombre, apellido, noExiste } = persona; // esto es destrocturing en este caso se quiebra por el noExiste
+{hogar ,hogar: {ciudad}} =  persona; //destructoring aplicado a q me traiga all el objeto hogar y la ciudad
+
+//console.log(nombre);
+//console.log(ciudad);
+
+
+
 //un metodo para crear objetos
 /*
 const cliente = {
@@ -42,6 +88,14 @@ function Cliente(nombre,saldo) {
 //const persona = new Cliente('Pedro',30000);
 //const persona2 = new Cliente('lala',203);
 
+console.log(Object.keys(Cliente));    //nos devuelve las keys del objeto (parte de la izquierda)
+console.log(Object.values(Cliente));  //los valores (derecha)
+console.log(Object.entries(Cliente)); //key y valores (ambos)
+
+*/
+
+
+/*
 const nombre = 'pedro';
 const nombre2 = new String('pedro');
 
@@ -50,7 +104,7 @@ const num2 = new Number(20);
 
 const boolean1 = true;
 const boolean2 = new Boolean(true);
-/*
+
 const function1 = function (a,b) {
     return a+b;
 }
@@ -225,7 +279,7 @@ const cliente = {
 };
 
 //aunque esten estas variables en el scope global no afecta por que el destructuring busca las variables del objeto
-
+/*
 nombre = 'Pedro';
 tipo = 'gold';
 
