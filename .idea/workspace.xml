@@ -19,7 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="94462d20-5c7f-4a1e-b8c7-7655b1aaaaf6" name="Default Changelist" comment="" />
+    <list default="true" id="94462d20-5c7f-4a1e-b8c7-7655b1aaaaf6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdemyJuanPablo/Teoria/01-teoricaBasica/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Teoria/01-teoricaBasica/js/app.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -159,7 +162,7 @@
       <workItem from="1600984951998" duration="1281000" />
       <workItem from="1601045747389" duration="2280000" />
       <workItem from="1601226491391" duration="4153000" />
-      <workItem from="1601391597778" duration="724000" />
+      <workItem from="1601391597778" duration="4232000" />
     </task>
     <task id="LOCAL-00001" summary="terminado primer ejercicio js">
       <created>1584843303560</created>
@@ -364,7 +367,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601391722541</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="js teoria">
+      <created>1601398279203</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1601398279203</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -407,10 +417,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="363" y="100" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1366.728@0.0.1366.728" timestamp="1598482855988" />
-    <state x="0" y="0" key="CommitChangelistDialog2" timestamp="1601391720378">
+    <state x="0" y="0" key="CommitChangelistDialog2" timestamp="1601398278253">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="0" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1601391720378" />
+    <state x="0" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1601398278253" />
     <state x="0" y="55" key="DiffContextDialog" timestamp="1601391677644">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -420,22 +430,30 @@
     </state>
     <state x="868" y="199" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1599530979988" />
     <state x="868" y="210" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1594155720964" />
-    <state x="129" y="56" key="MergeDialog" timestamp="1601226841595">
+    <state x="129" y="56" key="MergeDialog" timestamp="1601398349332">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="129" y="56" key="MergeDialog/0.0.1366.728@0.0.1366.728" timestamp="1601226841595" />
+    <state x="129" y="56" key="MergeDialog/0.0.1366.728@0.0.1366.728" timestamp="1601398349332" />
+    <state x="321" y="125" key="MultipleFileMergeDialog" timestamp="1601398349339">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="321" y="125" key="MultipleFileMergeDialog/0.0.1366.728@0.0.1366.728" timestamp="1601398349339" />
     <state x="184" y="9" key="SettingsEditor" timestamp="1600784685056">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1600784685056" />
+    <state x="470" y="80" key="VCS.ChangeListViewerDialog" timestamp="1601398270584">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="470" y="80" key="VCS.ChangeListViewerDialog/0.0.1366.728@0.0.1366.728" timestamp="1601398270584" />
     <state x="550" y="184" key="Vcs.Push.Dialog.v2" timestamp="1601391729024">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="550" y="184" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1601391729024" />
-    <state x="889" y="308" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1601398190833">
+    <state x="889" y="308" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1601398301252">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="889" y="308" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1601398190833" />
+    <state x="889" y="308" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1601398301252" />
     <state x="680" y="167" width="672" height="677" key="run.anything.popup" timestamp="1597092551330">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

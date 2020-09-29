@@ -1,4 +1,5 @@
 //aca voy a poner toda la teoria que no toque hasta el momento de la mejor forma posible para futuras referencias
+
 /*
 alert("asd");
 
@@ -27,8 +28,10 @@ console.timeEnd();
 //se pueden mandar arrays por console y la funcion table me lo imprime en una tabla
 console.table();
 
-/////////////////////////////////////////////////FIN INTRODUCCION/////////////////////////////////////////////////
+ */
 
+/////////////////////////////////////////////////FIN INTRODUCCION/////////////////////////////////////////////////
+/*
 var nombre = "Juan", nombre1 = 'john';
 let nombre1; //podemos declarar una variable sin su contenido NO  es lo mismo con const 
 nombre2 = "jeje" // no es necesario ponerle var etc  no es un lenguaje fuertemente tipado
@@ -42,8 +45,10 @@ var primernombre; //se usa pero no se recomienda
 // let no podes redeclararlo (usar el mismo nombre de variable)
 // const no podes hacer ninguna de las 2 se declara 1 vez con su contenido si o si
 
-/////////////////////////////////////////////////FIN VARIABLES /////////////////////////////////////////////////
+ */
 
+/////////////////////////////////////////////////FIN VARIABLES /////////////////////////////////////////////////
+/*
 let nombre = 'Juan', producto = "libro";
 const producto2 = String('asd');
 const producto3 = new String('asd');
@@ -100,7 +105,7 @@ const producto1 = 'Pizza',
 
 
 //forma vieja de crear un templade de html
-/*
+
 let html;
 html =  '<ul>'+
         '<li>Orden: '+ producto1+ '</li>'+
@@ -109,7 +114,7 @@ html =  '<ul>'+
         '<li>Precio: '+ precio2+ '</li>'+
         '<li>Total: '+ (precio1+precio2)+ '</li>'+
         '</ul>';
-*/
+
 
 // forma mas normal de crera los templade
 /*
@@ -128,9 +133,10 @@ function total(precio1,precio2){
 
 document.getElementById('app').innerHTML = html;
 
+*/
 
 /////////////////////////////////////////////////FIN STRINGS /////////////////////////////////////////////////
-
+/*
 const numero1 = 30, numero2 = .21230, numero3 = 20.20, numero4 = -1020, numero5 = new Number(-3);
 
 let resultado;
@@ -198,7 +204,10 @@ valor = new Date();
 
 console.log(typeof valor); //nos devuelve que tipo de dato es la variable
 
+*/
+
 /////////////////////////////////////////////////FIN NUMBERS /////////////////////////////////////////////////
+/*
 const num1 = 20, num2 = 50, num3='20';
 console.log(num1 < num2); // < >
 console.log(num1 > num2);
@@ -250,9 +259,10 @@ console.log(cp.length) // si yo intento hacer un length de un numero no va encon
 let dato;
 dato = '4'+'4';
 dato = String(dato);
+*/
 
 /////////////////////////////////////////////////FIN OPERADORES /////////////////////////////////////////////////
-
+/*
 dato = true;
 dato = false;
 dato2 = new Boolean(false); //un type of de esto nos daria objeto no "boolean"
@@ -271,11 +281,10 @@ console.log(dato.length); //undefinded
 console.log(typeof dato);  // boolean
 
 console.log(dato?'asd':'dsa'); //un ejemplo de operador ternario, si dato es true o false imprimero asd o dsa respectivamente
-
+*/
 
 /////////////////////////////////////////////////FIN BOOLEANOS /////////////////////////////////////////////////
-
-
+/*
 //crear un arreglo
 const numeros = [10,20,30,40,50];
 
@@ -377,8 +386,8 @@ const autos = { // no se puede hacer por que ya esta declarado con constante hab
 console.log(auto)
 
 */
-/////////////////////////////////////////////////FIN ARREGLOS /////////////////////////////////////////////////
 
+/////////////////////////////////////////////////FIN ARREGLOS /////////////////////////////////////////////////
 /*
 
 function saludar(){
@@ -429,27 +438,29 @@ function usuarioAutenticado(usuario){
     console.log(`usuario autenticado exitosamente ${usuario}`);
 }
 
-*/
-
-/*
-
 // IIFE <-ejemplo para tener en cuenta 
 
     (function (tecnologia) {
     console.log(`Creando un ${tecnologia}`)
     })('javascript');
 
-const musica = {
-    reproducir: function (id) { //metodos de propiedad se llama hacer esto de una propiedad un metodo 
-        console.log(`reproduciendo muisca ${id}`);
+const musica = {//metodos de propiedad se llama hacer esto de una propiedad un metodo
+    cancion: '',
+    reproducir:  id => console.log(`reproduciendo muisca ${id}`),
+
+    pausar: () => console.log(`pausar la musica`),
+    set nuevaCancion(cancion ){
+        this.cancion = cancion;
+        console.log('aniadiendo cancion');
     },
-    pausar: function (id) {
-        console.log(`pausar la musica`)
+    get obtenerCancion(){
+        console.log(`${this.cancion}`
     }
 }
 
 // los metodos tambien pueden guardarse/crearse fuera del objeto
-
+musica.nuevaCancion = 'asd';
+musica.obtenerCancion;
 musica.borrar = function (id){
     console.log(`Borrando la cancion con el id ${id}`)
 }
@@ -489,7 +500,6 @@ const cantidadProductos =
   return producto.length;
 });
 
-
 productos.map((producto) =>{
   return producto.length;
 });
@@ -506,6 +516,11 @@ productos.map(producto => producto.length);
 
 productos.forEach((producto) => console.log(producto.length));
 
+ */
+
+/////////////////////////////////////////////////FIN FUNCTIONS /////////////////////////////////////////////////
+
+/*
 //aprendiendoB();
 //console.log(aprendiendoC());
 aprendiendoD('tomates', 'lechuga');
@@ -563,7 +578,7 @@ valor = diaHoy.getFullYear();
 const edad = 19;
 
 if(edad > 18) {
-    // < > <= >=
+    // <, >, <=, >=, ==, ===, !==
     console.log('si se puede entrar al sitio');
 }else{
     console.log('no puedes entrar al sitio ');
@@ -620,6 +635,8 @@ console.log(logueado === true ? 'si se logue':'no se logueo');
 const  metodoPago = 'efectivo';
 switch (metodoPago) {
     case 'efectivo':
+
+        pagar();
         console.log(`el usuario pago con ${metodoPago}`)
         break;
     case 'checke':
@@ -631,6 +648,10 @@ switch (metodoPago) {
     default:
         console.log('metodo no aceptado');
         break;
+}
+
+function pagar(){
+    console.log('pagando...');
 }
 let mes;
 const fechaa = new Date();
