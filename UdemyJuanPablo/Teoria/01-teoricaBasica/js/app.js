@@ -525,8 +525,6 @@ productos.forEach((producto) => console.log(producto.length));
 //console.log(aprendiendoC());
 aprendiendoD('tomates', 'lechuga');
 
-  */
- /*
 obtenerClientes();
 //funcion que no existe
 
@@ -615,7 +613,7 @@ if(hora > 0 && hora <= 10){
     console.log('hora no valida')
 }
 
-//operador ||
+//operador || funciona como un " o " y el && funciona como una regla de " y "
 
 let efectivo = 300,
     credito = 700,
@@ -635,7 +633,6 @@ console.log(logueado === true ? 'si se logue':'no se logueo');
 const  metodoPago = 'efectivo';
 switch (metodoPago) {
     case 'efectivo':
-
         pagar();
         console.log(`el usuario pago con ${metodoPago}`)
         break;
