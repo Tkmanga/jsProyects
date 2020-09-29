@@ -93,6 +93,42 @@ console.log(tecno.repeat(10)); //imprime la cantidad de veces que necesitemos, s
 
 console.log(tecno.charAt(0));
 
+const producto1 = 'Pizza',
+    precio1 = 30,
+    producto2 = 'Hamburgesa',
+    precio2 = 40;
+
+
+//forma vieja de crear un templade de html
+/*
+let html;
+html =  '<ul>'+
+        '<li>Orden: '+ producto1+ '</li>'+
+        '<li>Precio: '+ precio1+ '</li>'+
+        '<li>Orden: '+ producto2+ '</li>'+
+        '<li>Precio: '+ precio2+ '</li>'+
+        '<li>Total: '+ (precio1+precio2)+ '</li>'+
+        '</ul>';
+*/
+
+// forma mas normal de crera los templade
+/*
+html = `
+        <ul>
+            <li>Orden: ${producto1}</li>
+            <li>Precio: ${precio1}</li>
+            <li>Orden: ${producto2}</li>
+            <li>Precio: ${precio2}</li>
+            <li>Total: ${total(precio1,precio2)}</li>
+        </ul>`;
+
+function total(precio1,precio2){
+    return precio1+precio2;
+}
+
+document.getElementById('app').innerHTML = html;
+
+
 /////////////////////////////////////////////////FIN STRINGS /////////////////////////////////////////////////
 
 const numero1 = 30, numero2 = .21230, numero3 = 20.20, numero4 = -1020, numero5 = new Number(-3);
@@ -236,45 +272,8 @@ console.log(typeof dato);  // boolean
 
 console.log(dato?'asd':'dsa'); //un ejemplo de operador ternario, si dato es true o false imprimero asd o dsa respectivamente
 
-*/
 
 /////////////////////////////////////////////////FIN BOOLEANOS /////////////////////////////////////////////////
-
-/*
-const producto1 = 'Pizza',
-    precio1 = 30,
-    producto2 = 'Hamburgesa',
-    precio2 = 40;
-
-
-//forma vieja de crear un templade de html
-/*
-let html;
-html =  '<ul>'+
-        '<li>Orden: '+ producto1+ '</li>'+
-        '<li>Precio: '+ precio1+ '</li>'+
-        '<li>Orden: '+ producto2+ '</li>'+
-        '<li>Precio: '+ precio2+ '</li>'+
-        '<li>Total: '+ (precio1+precio2)+ '</li>'+
-        '</ul>';
-*/
-
-// forma mas normal de crera los templade
-/*
-html = `
-        <ul>
-            <li>Orden: ${producto1}</li>
-            <li>Precio: ${precio1}</li>
-            <li>Orden: ${producto2}</li>
-            <li>Precio: ${precio2}</li>
-            <li>Total: ${total(precio1,precio2)}</li>
-        </ul>`;
-
-function total(precio1,precio2){
-    return precio1+precio2;
-}
-
-document.getElementById('app').innerHTML = html;
 
 
 //crear un arreglo
@@ -286,34 +285,42 @@ const meses = new Array('enero','febrero','marzo','abril');
 //arreglo mesclado
 const mezclado = ['hola',1,2,3,false];
 
-// el length te dice cuantos elementos tiene un arreglo
+// Array.length te dice cuantos elementos tiene un arreglo
+
 // Array.isArray(x) devuelve un booleano confirmando si es un array
 
 console.log(meses[1]); // forma de acceder a un elemento preciso del arreglo
+
+console.table(meses); //una forma mas presentable
+
 meses[4] = 'Mayo'; //reemplazando un valor del arreglo
+
 meses.push('febrero'); // agregar un elemento al final del arreglo
 
-//encontrar un elemento en el arreglo
-console.log(meses.indexOf('Abril'))
+console.log(meses.indexOf('Abril')) //encontrar un elemento en el arreglo
 
-//como agregar un elemento al inicio del arreglo
-meses.unshift('Mes 0');
+meses.unshift('Mes 0'); //como agregar un elemento al inicio del arreglo
 
-//eliminar un elemento de un arreglo
-meses.pop();
+meses.pop(); //eliminar un elemento de un arreglo
 
-//eliminar un elemento del inicio del arreglo
-meses.shift();
+meses.shift(); //eliminar un elemento del inicio del arreglo
 
-//quitar un rango del arreglo
-meses.splice(2,1);
+meses.splice(2,1); //quitar un rango del arreglo
 
-//revertir
-meses.reverse();
+meses.reverse(); //revertir
+
+//podemos usar el spread opeartor variable = [...arreglo1, variable] o [variable, ...arreglo1];
 
 let arreglo1 = [1,2,3], arreglo2 = [9,8,7];
 
 console.log(arreglo1.concat(arreglo2)); //los une
+
+//destructuring arreglo
+
+const  arregloNum = [1,2,3,4,5];
+const [,,,cuarto] = arregloNum;
+console.log(cuarto); //creamos una constante con el cuarto valor del arregloNum
+
 
 // ordenar un arreglo
 const frutas = ['Platano','Manzana','Fresa','Naranja','Zanahoria']; //lo ordena alfabeticamente
@@ -336,7 +343,7 @@ let numeros = [1,2,3];
 
 numeros = [3,4]; // wrong way no se puede cambiar por que no especifico que quiero cambiar del arreglo
 numeros[0] = 4; //ok
-numeros.push(5); //agregarndo al final
+numeros.push(5); //agregado al final
 
 numeros = ['Enero','Febrero']; // esto si se puede hacer
 
@@ -352,6 +359,15 @@ const autos = [
 for(let i = 0; i<autos.length; i++){
     console.log(`${autos[i].modelo} ${autos[i].motor}`);
 }
+//ejemplo foreach
+autos.forEach(function(auto){
+    console.log(`${auto.modelo} ${auto.motor}`);
+});
+//map crea un nuevo arreglo con los datos
+
+const nuevoArreglo = autos.map(function(auto){
+    return `${auto.modelo} ${auto.motor}`;
+});
 
 autos[0].modelo = 'Audi';  // accediendo de forma individual si se puede modificar aunque sea const
 const autos = { // no se puede hacer por que ya esta declarado con constante habria que cambiarlo a let
@@ -359,6 +375,11 @@ const autos = { // no se puede hacer por que ya esta declarado con constante hab
     motor: 2.3
 }
 console.log(auto)
+
+*/
+/////////////////////////////////////////////////FIN ARREGLOS /////////////////////////////////////////////////
+
+/*
 
 function saludar(){
     console.log('Hola miguel');
@@ -410,7 +431,6 @@ musica.borrar = function (id){
 }
 musica.reproducir(30);
 musica.pausar(30);
-*/
 
 obtenerClientes();
 //funcion que no existe
@@ -786,5 +806,6 @@ const nombre = localStorage.getItem('nombre');
 console.log(nombre);
 
 //PROYECTO UTILIZANDO LOCAL STORAGE
+
 */
 
