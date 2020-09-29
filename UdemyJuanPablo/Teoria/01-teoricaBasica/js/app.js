@@ -385,7 +385,7 @@ function saludar(){
     console.log('Hola miguel');
 }
 
-function saludar(nombre){
+function saludar(nombre = 'usuario'){ //tenemos un parametro por default si la funcion es llamada pero no se le pasa parametro 
     console.log(`Hola ${nombre}`);
 }
 
@@ -401,22 +401,46 @@ function saludar(nombre = 'Visitante') { // forma nueva
     //if(typeof nombre === 'undefined'){nombre = 'Visitante'} // forma vieja
     return `hola ${nombre}`
 }
-
-//function expression
+  //function expression
 
 const saludar = function (nombre='visitante',edad=30, trabajo = 'desarrollador web') {
     return `Hola, tienes ${edad}, profesion ${trabajo} y te llamas ${nombre}`
 }
+//saludar();  //no podemos hacer saludar(); antes de declarar la constante funcion por que javascript usa holsting
 
 
-// IIFE
+iniciarApp();
+//ejemplo de funciones q inicializa y llama a otras funciones 
+function iniciarApp(){
+    console.log('iniciando app...');
+    segundaFuncion();
+}
+
+function segundaFuncion(){
+    console.log('desde la segunda funcion');
+
+    usuarioAutenticado('pablo');
+
+
+}
+
+function usuarioAutenticado(usuario){
+    console.log('autenticando usuario... espere...');
+    console.log(`usuario autenticado exitosamente ${usuario}`);
+}
+
+*/
+
+/*
+
+// IIFE <-ejemplo para tener en cuenta 
 
     (function (tecnologia) {
     console.log(`Creando un ${tecnologia}`)
     })('javascript');
 
 const musica = {
-    reproducir: function (id) {
+    reproducir: function (id) { //metodos de propiedad se llama hacer esto de una propiedad un metodo 
         console.log(`reproduciendo muisca ${id}`);
     },
     pausar: function (id) {
@@ -432,6 +456,62 @@ musica.borrar = function (id){
 musica.reproducir(30);
 musica.pausar(30);
 
+//arrow functions
+//basico
+let aprendiendo;
+aprendiendo = function(){
+  console.log('aprendiendo javascript');
+}
+//reducido
+aprendiendoA = () => {
+  console.log('aprendiendo arrow function de javascript');
+}
+//aun mas reducido
+aprendiendoB = () => console.log('reducir codigo');
+// AUN MAS REDUCIDO
+aprendiendoC = () => "reducir aun mas codigo";
+//devolviendo un objeto
+aprendiendoD = () => ({tomate: 'perita'});
+//pasandole parametros
+aprendiendoD = (tec) => (console.log(`Aprendiendo ${tec}`));
+//puede ir sin parentecis cuando tenes 1 parametro nada mas
+aprendiendoD = tec => (console.log(`Aprendiendo ${tec}`));
+//con mas parametros
+aprendiendoD = (fru1, fru2) => (console.log(`Fruta ${fru1} ${fru2}`))
+
+//maps
+
+const productos = ['aaaa','bbb','ccasd','dqweredsf'];
+
+const cantidadProductos =
+
+/*productos.map(function(producto){
+  return producto.length;
+});
+
+
+productos.map((producto) =>{
+  return producto.length;
+});
+
+productos.map(producto =>{
+  return producto.length;
+});
+
+//vs mas reducida
+productos.map(producto => producto.length);
+
+//console.log(cantidadProductos);
+//tambien podemos en vez de crear una variable imprimir sus valores en tiempo de salida
+
+productos.forEach((producto) => console.log(producto.length));
+
+//aprendiendoB();
+//console.log(aprendiendoC());
+aprendiendoD('tomates', 'lechuga');
+
+  */
+ /*
 obtenerClientes();
 //funcion que no existe
 
