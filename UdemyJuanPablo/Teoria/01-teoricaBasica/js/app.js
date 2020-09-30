@@ -719,60 +719,87 @@ switch (new Date().getMonth() ) {
  */
 /////////////////////////////////////////////////FIN CONTROL STRUCTERS ft DATE /////////////////////////////////////////////////
 
-//FOR LOOPS
+/*
 
-for(let i = 0; i < 10; i++){
-    if(i == 5){
+for (let i = 0; i < 10; i++) {
+    if (i == 5) {
         console.log('voy en el 5');
         break;
     }
     console.log(`Numero ${i}`);
 }
 
-const arregloProductos = [1,2,3];
+const arregloProductos = [1, 2, 3];
 
-for(let i = 0; i < arregloProductos.length; i++){
+for (let i = 0; i < arregloProductos.length; i++) {
     console.log(`el num del arreglo es ${arregloProductos[i]}`);
 }
 
-let i = 0;
-const musica = ['cancion 1','cancion 2','cancion 3'];
 
-while (i<musica.length){
+
+ // Fizz buzz -- 100 numeros
+ // 3 6 9 12 fizz
+ // 5 10 15 20 buzz
+ // 15 30 45 fizzbuzz!
+
+
+
+for (let i = 0; i <= 99; i++) {
+    if (i % 3 == 0 && i % 5 == 0) {
+        console.log('fizzBuzz');
+        continue;
+    }
+    if (i % 5 == 0) {
+        console.log('Buzz');
+        continue;
+    }
+    if (i % 3 == 0) {
+        console.log('Fizz');
+        continue; 
+    }
+}
+
+
+//si queremos cortar un proceso podemos usar BREAK; o si queremos saltar un ciclo del loop tenemos CONTINUE;
+
+let i = 0;
+
+const musica = ['cancion 1', 'cancion 2', 'cancion 3'];
+
+while (i < musica.length) {
     console.log(`numero ${musica[i]}`);
     i++;
 }
 
 let i = 1000;
-do{
+
+do {
     console.log(`Numero ${i}`)
     i++;
-}while(i<20);
-// la diferencia entr el do y el do while es que el do corre aunque sea 1 vez
+} while (i < 20); // condicion
 
-const pendientes  = ['Tarea','Comer','Proyecto','Aprender','Javascript']
+// la diferencia entr el do y el do while es que el do corre aunque sea 1 vez en este caso por el i vale 1000 
 
-for(let i = 0; i<pendientes.length; i++){
+const pendientes = ['Tarea', 'Comer', 'Proyecto', 'Aprender', 'Javascript']
+
+for (let i = 0; i < pendientes.length; i++) {
     console.log(pendientes[i]);
 
 }
 
-pendientes.forEach(function (pendiente, index) {
-    console.log(`${index}: ${pendiente}`);
-});
+pendientes.forEach( (pendiente, index) =>  console.log(`${index}: ${pendiente}`));
 console.log(pendientes);
 
 //map para recorrer un arreglo de objetos
 
 const carrito = [
-    { id:1, producto: 'libro'},
-    { id:2, producto: 'libro2'},
-    { id:3, producto: 'libro3'}
+    {id: 1, producto: 'libro'},
+    {id: 2, producto: 'libro2'},
+    {id: 3, producto: 'libro3'}
 ]
 
-const nombreProducto = carrito.map(function (carrito) {
-    return carrito.producto;
-})
+const nombreProducto = carrito.map(carrito => carrito.producto);
+
 console.log(nombreProducto);
 
 const automovil = {
@@ -782,56 +809,105 @@ const automovil = {
     marca: 'Chevrolet'
 }
 
-for ( let caracteristica in automovil){
+for (let caracteristica in automovil) {                                            
     console.log(`${caracteristica}: ${automovil[caracteristica]}`);
-}
+} //permite iterar sobre un objeto
 
-const ciudades = ['ny','miami','england','russia'];
-const ordenes = new Set([123,321,243,234,543]);
+for ( let [llave,valor] of Object.entries(automovil)){
+    console.log(valor);
+    console.log(llave);
+} //otra forma de iterar en los valores es de ECS7
+
+const ciudades = ['ny', 'miami', 'england', 'russia'];
+const ordenes = new Set([123, 321, 243, 234, 543]);
 const datos = new Map();
-datos.set('nombre','Juan');
-datos.set('profesion','dev web');
+datos.set('nombre', 'Juan');
+datos.set('profesion', 'dev web');
 console.log(ciudades);
 
-for(let entrada of ciudades.entries()){
+for (let entrada of ciudades.entries()) {
     console.log(entrada);
 }
 //entries para las ordenes
-for(let entrada of ordenes.entries()){
+for (let entrada of ordenes.entries()) {
     console.log(entrada);
 }
 //entries para el map
 
-for(let entrada of datos.entries()){
+for (let entrada of datos.entries()) {
     console.log(entrada);
 }
 
 //values iteradors
 //values a las ciudades
-for(let entrada of ciudades.values()){
+for (let entrada of ciudades.values()) {
     console.log(entrada); //al ser un arreglo de solamente valores se puede obviar el ".values()"
 }
 
-for(let entrada of ordenes.values()){
+for (let entrada of ordenes.values()) {
     console.log(entrada);
 }
 
-for(let entrada of datos.values()){
+for (let entrada of datos.values()) {
     console.log(entrada);
 }
 //keys iterador
 
-for(let entrada of ciudades.keys()){
+for (let entrada of ciudades.keys()) {
     console.log(entrada);
 }
 
-for(let entrada of ordenes.keys()){
+for (let entrada of ordenes.keys()) {
     console.log(entrada); // como no tiene  llaves devuelve los valores directamente
 }
 
-for(let entrada of datos.keys()){
+for (let entrada of datos.keys()) {
     console.log(entrada);
 }
+
+ */
+/////////////////////////////////////////////////FIN ITERADORES /////////////////////////////////////////////////
+
+const meses = ['Enero','Febrero','Marzo','Abril','Mayo','Junio','Julio','Agosto','Septiembre','Octubre','Noviembre','Diciembre'];
+
+const resultado = meses.includes('Enero'); 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 // el "default" es cuando no especifico ningun tipo de funcion dsp del of,  en algunos casos me devuelve el valor diretamente
 
@@ -839,12 +915,12 @@ const msj = 'Aprendiendo javascript';
 
 //la forma vieja de recorrer el arreglo era for etc etc la forma nueva es la siguiente
 
-for (let letra of msj){
+for (let letra of msj) {
     console.log(letra);
 }
 
 const enlaces = document.getElementsByTagName('a');
-for(let enlace of enlaces){
+for (let enlace of enlaces) {
     console.log(enlace.href);
 }
 
@@ -854,9 +930,9 @@ for(let enlace of enlaces){
 const nombre = prompt('');
 console.log(`bienvenido ${nombre}`);
 
-if(confirm('Eliminar?')){
+if (confirm('Eliminar?')) {
     console.log('Eliminado');
-}else{
+} else {
     console.log('nada paso');
 }
 
@@ -892,31 +968,28 @@ const c = 'c';
 function functionScope() {
     var a = 'A';
     let b = 'B';
-    const c  = 'C';
-    console.log('FUNCTION: '+ a,b,c);
+    const c = 'C';
+    console.log('FUNCTION: ' + a, b, c);
 }
 
 functionScope();
 //scope de bloque
-if(true){
+if (true) {
     var a = 'AA'; // este si modifica el global 
     let b = 'BB';
     const c = 'CC';
-    console.log('BLOQUE: '+a,b,c);
+    console.log('BLOQUE: ' + a, b, c);
 }
 //for
-for(var a = 0; a<10; a++){
+for (var a = 0; a < 10; a++) {
     console.log(a);
 }
 
 
-
-
-//DOM document object modelm
+//DOM document object model
 
 
 
-/*
     // me salite las primeras partes hasta el video 59 por que me parecian aburridas
 
 localStorage.setItem('nombre','juan'); // aunque recarge o cierre el valor siempre se va quedar
@@ -933,5 +1006,5 @@ console.log(nombre);
 
 //PROYECTO UTILIZANDO LOCAL STORAGE
 
-*/
+
 
