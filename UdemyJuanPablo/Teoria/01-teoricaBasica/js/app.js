@@ -521,8 +521,9 @@ productos.forEach((producto) => console.log(producto.length));
 /////////////////////////////////////////////////FIN FUNCTIONS /////////////////////////////////////////////////
 
 /*
-//aprendiendoB();
-//console.log(aprendiendoC());
+
+aprendiendoB();
+console.log(aprendiendoC());
 aprendiendoD('tomates', 'lechuga');
 
 obtenerClientes();
@@ -621,13 +622,36 @@ let efectivo = 300,
     totalCarrito = 500;
 
 if(totalCarrito < efectivo || totalCarrito<credito ||totalCarrito < disponible){
-    console.log('Puedo pagar');
+    console.log('Puedo pagar con efectivo');
 }else{
     console.log('no puedo pagar ')
 }
+
+if(totalCarrito < efectivo && totalCarrito<credito){
+    console.log('Puedo pagar con efectivo o credito ');
+}else{
+    console.log('no puedo pagar con ningun medio ')
+}
+
+function revisarEfectivo() {
+    if (efectivo > 400) {
+        console.log('tenes poco efecitvo');
+        return;
+    }
+
+    if (efectivo > 100){
+        console.log('tenes muy poco efectivo');
+        return;
+    }
+}
+
+//los return al final de cada if hacen que se deje de ejecutar el resto de los mensajes
 const logueado = true;
-//una forma es poner un if debajo de otro pero no es recomendada
-console.log(logueado === true ? 'si se logue':'no se logueo');
+const usuarioFiel = true;
+//if ternario example: 
+console.log(logueado ? 'si se logue':'no se logueo');
+//ternarios anidados 
+console.log(logueado ? usuarioFiel ? 'si se logueo y es fiel':'si se logueo pero no es fiel':'no se puede loguear');
 
 //switch
 const  metodoPago = 'efectivo';
@@ -650,6 +674,7 @@ switch (metodoPago) {
 function pagar(){
     console.log('pagando...');
 }
+
 let mes;
 const fechaa = new Date();
 switch (new Date().getMonth() ) {
@@ -690,6 +715,9 @@ switch (new Date().getMonth() ) {
         mes = 'Enero';
         break;
 }
+
+ */
+/////////////////////////////////////////////////FIN CONTROL STRUCTERS ft DATE /////////////////////////////////////////////////
 
 //FOR LOOPS
 
