@@ -870,7 +870,22 @@ for (let entrada of datos.keys()) {
 
 const meses = ['Enero','Febrero','Marzo','Abril','Mayo','Junio','Julio','Agosto','Septiembre','Octubre','Noviembre','Diciembre'];
 
+const carrito = [
+    {nombre: 'asd', valor: 12},
+    {nombre: 'dsa', valor: 13},
+    {nombre: 'sad', valor: 14}
+]
+//en un arreglo comun podemos usar .includes que nos devuelve truo o false si algun valor coincide
 const resultado = meses.includes('Enero'); 
+
+//en un arreglo de objetos se utiliza  .some se puede usar en un arreglo comun pero es engorroso inecesariamente
+
+const existe = carrito.some(producto => producto.nombre === 'asd');
+
+meses.forEach((mes,index) => {
+    console.log(index);
+    console.log(mes);
+})
 
 
 
