@@ -868,7 +868,10 @@ for (let entrada of datos.keys()) {
  */
 /////////////////////////////////////////////////FIN ITERADORES /////////////////////////////////////////////////
 
+/*
 const meses = ['Enero','Febrero','Marzo','Abril','Mayo','Junio','Julio','Agosto','Septiembre','Octubre','Noviembre','Diciembre'];
+
+const meses2 = ['lala','lala2'];
 
 const carrito = [
     {nombre: 'asd', valor: 12},
@@ -882,47 +885,38 @@ const resultado = meses.includes('Enero');
 
 const existe = carrito.some(producto => producto.nombre === 'asd');
 
-meses.forEach((mes,index) => {
-    console.log(index);
-    console.log(mes);
-})
+const indice = meses.findIndex(mes => mes == 'Abril');
 
+//encontrar un indice de un arreglo de objetos devuelve el index del primer objeto que encuentra cumpliendo la condicion sino devuelve -1
 
+const indice2 = carrito.findIndex(producto => producto.valor == 12);
 
+let resultado = carrito.reduce((total, producto) => total + producto.valor, 0 );
+//este 0 lo podemos sacar es el donde queremos que inice
+//crear un nuevo arreglo en base a parametros que le pasamos
 
+let resultado2 = carrito.filter( producto => producto.valor > 13);
 
+resutado2 = carrito.filter(producto => producto.nombre !== 'asd');
 
+//find crea un nuevo arreglo basado en la condicion que estamos declarando devuelve el primero encontrado unicamente.
 
+const resultado3 = carrito.find(producto => producto.nombre == 'asd');
 
+//este revisa por todos ! si todos no cumplen la condicion devuelve false.
+const resultado4 = carrito.every(producto => producto.valor>10);
 
+const resultado5 = meses.concat(meses2); //si queremos agregarle mas con una , separamos los arreglos que querems concatenar
 
+//tambien tenemos el spread operator
 
+const resultado5 = [...meses, ...meses2, 'diciembre sin ti']; //si usamos el spread tenemos que asegurarnos que sea un arreglo sino va crear un registro por cada caracter y el orden en el que le pasamos los arreglos importa.
 
+const producto2 = {producto: 'asd2',valor: 1333};
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+const carrito2 = [...carrito, producto2];
+*/
+/////////////////////////////////////////////////FIN ARRAY METHODS /////////////////////////////////////////////////
 
 // el "default" es cuando no especifico ningun tipo de funcion dsp del of,  en algunos casos me devuelve el valor diretamente
 
