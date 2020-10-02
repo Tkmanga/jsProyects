@@ -19,10 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="94462d20-5c7f-4a1e-b8c7-7655b1aaaaf6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UdemyJuanPablo/Teoria/01-teoricaBasica/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Teoria/01-teoricaBasica/js/app.js" afterDir="false" />
-    </list>
+    <list default="true" id="94462d20-5c7f-4a1e-b8c7-7655b1aaaaf6" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -165,7 +162,7 @@
       <workItem from="1601391597778" duration="5096000" />
       <workItem from="1601569085438" duration="3122000" />
       <workItem from="1601602848940" duration="728000" />
-      <workItem from="1601647596414" duration="2947000" />
+      <workItem from="1601647596414" duration="3242000" />
     </task>
     <task id="LOCAL-00001" summary="terminado primer ejercicio js">
       <created>1584843303560</created>
@@ -398,7 +395,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601593343641</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="js teoria">
+      <created>1601651778531</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1601651778531</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -441,10 +445,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="363" y="100" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1366.728@0.0.1366.728" timestamp="1598482855988" />
-    <state x="0" y="0" key="CommitChangelistDialog2" timestamp="1601593341233">
+    <state x="0" y="0" key="CommitChangelistDialog2" timestamp="1601651775028">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="0" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1601593341233" />
+    <state x="0" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1601651775028" />
     <state x="0" y="55" key="DiffContextDialog" timestamp="1601391677644">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -470,10 +474,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="470" y="80" key="VCS.ChangeListViewerDialog/0.0.1366.728@0.0.1366.728" timestamp="1601398270584" />
-    <state x="550" y="184" key="Vcs.Push.Dialog.v2" timestamp="1601593385397">
+    <state x="550" y="184" key="Vcs.Push.Dialog.v2" timestamp="1601651784120">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="550" y="184" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1601593385397" />
+    <state x="550" y="184" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1601651784120" />
     <state x="889" y="308" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1601569137345">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
