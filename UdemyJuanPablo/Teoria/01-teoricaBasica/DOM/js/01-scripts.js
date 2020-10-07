@@ -119,7 +119,7 @@ const primerEnlace = document.querySelector('a');
 primerEnlace.remove();
 
 //desde el padre 
-console.log(navegacion.children);
+//console.log(navegacion.children);
 navegacion.removeChild(navegacion.children[2]);
 
 const enlace = document.createElement('a'); //le pasamos la etiqueta html q necesitemos crear
@@ -160,6 +160,12 @@ const parrafo3 = document.createElement('p');
 parrafo3.textContent = ' $800 por persona';
 parrafo3.classList.add('precio');
 
+parrafo3.onclick = () => {nuevaFuncion(1)};
+
+function nuevaFuncion(id){
+    console.log('desde nueva funcion ',id);
+}
+
 //creamos div con la clase  info
 
 const info = document.createElement('div');
@@ -170,7 +176,7 @@ info.appendChild(parrafo3);
 
 //crear la imagen
 const img = document.createElement('img');
-img.src = 'img/imagen2.jpg';
+img.src = 'img/newyork1.jpg';
 
 //crear el card
 
