@@ -3,7 +3,7 @@
 /*
 * Si los campos de para, asunto y mensaje estan vacios, el mail no puede enviarse y los campos deberan mostrarse en rojo
 *
-* debe existir un boton para borrar todo el contenido del formulario
+* debe existir un boton para borrar t*do el contenido del formulario
 *
 * al presionar el boton enviar, un spinner de carga debera mostrarse
 *

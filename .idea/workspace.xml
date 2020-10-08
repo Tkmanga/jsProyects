@@ -20,10 +20,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="94462d20-5c7f-4a1e-b8c7-7655b1aaaaf6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/00/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/00/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/00/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/00/js/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UdemyJuanPablo/Teoria/01-teoricaBasica/DOM/js/02-scripts.js" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Teoria/01-teoricaBasica/DOM/js/02-scripts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/00/css/custom.css" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/v2/00/css/custom.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/00/css/normalize.css" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/v2/00/css/normalize.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/00/css/skeleton.css" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/v2/00/css/skeleton.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/00/img/cart.png" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/v2/00/img/cart.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/00/img/curso1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/v2/00/img/curso1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/00/img/curso2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/v2/00/img/curso2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/00/img/curso3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/v2/00/img/curso3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/00/img/curso4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/v2/00/img/curso4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/00/img/curso5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/v2/00/img/curso5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/00/img/estrellas.png" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/v2/00/img/estrellas.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/00/img/hero.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/v2/00/img/hero.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/00/img/icono1.png" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/v2/00/img/icono1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/00/img/icono2.png" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/v2/00/img/icono2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/00/img/icono3.png" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/v2/00/img/icono3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/00/img/logo.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/v2/00/img/logo.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/00/img/lupa.png" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/v2/00/img/lupa.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/00/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/v2/00/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/00/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/v2/00/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/03/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/03/js/app.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,11 +90,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Desktop\jsProyects\UdemyJuanPablo\Proyects\v2" />
       <recent name="C:\Users\User\Desktop\jsProyects\UdemyJuanPablo\Proyects" />
       <recent name="C:\Users\User\Desktop\jsProyects\UdemyJuanPablo\Teoria\01-teoricaBasica\JsBasic" />
       <recent name="C:\Users\User\Desktop\jsProyects\UdemyJuanPablo\Teoria\01-teoricaBasica" />
       <recent name="C:\Users\User\Desktop\jsProyects\UdemyJuanPablo\Teoria" />
-      <recent name="C:\Users\User\Desktop\jsProyects" />
     </key>
   </component>
   <component name="RunManager">
@@ -227,21 +242,7 @@
       <workItem from="1602092432052" duration="4971000" />
       <workItem from="1602163542892" duration="1140000" />
       <workItem from="1602178888874" duration="3363000" />
-      <workItem from="1602191111566" duration="2537000" />
-    </task>
-    <task id="LOCAL-00004" summary="terminado el 3er ejercicio">
-      <created>1584977227695</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1584977227695</updated>
-    </task>
-    <task id="LOCAL-00005" summary="terminado el 3er ejercicio">
-      <created>1585148146432</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1585148146432</updated>
+      <workItem from="1602191111566" duration="2743000" />
     </task>
     <task id="LOCAL-00006" summary="terminado el 3er ejercicio">
       <created>1585148165235</created>
@@ -572,7 +573,21 @@
       <option name="project" value="LOCAL" />
       <updated>1602097673833</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL-00053" summary="teorica nueva version correciones y adeciones al contenido teorico">
+      <created>1602193721477</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1602193721478</updated>
+    </task>
+    <task id="LOCAL-00054" summary="teorica nueva version correciones y adeciones al contenido teorico">
+      <created>1602193739809</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1602193739809</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -630,10 +645,10 @@
       <screen x="1920" y="0" width="1080" height="1880" />
     </state>
     <state x="2190" y="687" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040/1920.0.1080.1880@1920.0.1080.1880" timestamp="1602096845802" />
-    <state x="1920" y="233" key="CommitChangelistDialog2" timestamp="1602097673109">
+    <state x="1920" y="233" key="CommitChangelistDialog2" timestamp="1602193739272">
       <screen x="1920" y="0" width="1080" height="1880" />
     </state>
-    <state x="1920" y="233" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1080.1880@1920.0.1080.1880" timestamp="1602097673109" />
+    <state x="1920" y="233" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1080.1880@1920.0.1080.1880" timestamp="1602193739272" />
     <state x="2505" y="129" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1597066234070" />
     <state x="2505" y="134" key="CommitChangelistDialog2/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1596060814678" />
     <state x="2012" y="92" width="896" height="1696" key="DiffContextDialog" timestamp="1600987622639">
@@ -665,10 +680,10 @@
       <screen x="1920" y="0" width="1080" height="1880" />
     </state>
     <state x="2181" y="681" width="540" height="524" key="StructurePopup/0.0.1920.1040/1920.0.1080.1880@1920.0.1080.1880" timestamp="1601499422450" />
-    <state x="2184" y="475" key="Vcs.Push.Dialog.v2" timestamp="1602097676131">
+    <state x="2184" y="475" key="Vcs.Push.Dialog.v2" timestamp="1602193754127">
       <screen x="1920" y="0" width="1080" height="1880" />
     </state>
-    <state x="2184" y="475" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1080.1880@1920.0.1080.1880" timestamp="1602097676131" />
+    <state x="2184" y="475" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1080.1880@1920.0.1080.1880" timestamp="1602193754127" />
     <state x="2952" y="263" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1597011452212" />
     <state x="2952" y="273" key="Vcs.Push.Dialog.v2/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1596060817782" />
     <state x="2012" y="92" width="1736" height="896" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1596060148886">
