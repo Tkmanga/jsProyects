@@ -19,40 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="94462d20-5c7f-4a1e-b8c7-7655b1aaaaf6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_1_10_2020_8_03_p__m___Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_1_10_2020_8_03_p__m___Default_Changelist_.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2_10_2020_12_25_p__m___Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2_10_2020_12_25_p__m___Default_Changelist_.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UdemyJuanPablo/Teoria/01-teoricaBasica/DOM/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Teoria/01-teoricaBasica/DOM/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UdemyJuanPablo/Teoria/01-teoricaBasica/DOM/js/01-scripts.js" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Teoria/01-teoricaBasica/DOM/js/01-scripts.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UdemyJuanPablo/Teoria/01-teoricaBasica/DOM/js/02-scripts.js" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Teoria/01-teoricaBasica/DOM/js/02-scripts.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UdemyJuanPablo/Teoria/01-teoricaBasica/DOM/js/03-scripts.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/UdemyJuanPablo/Teoria/01-teoricaBasica/DOM/js/04-scripts.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/UdemyJuanPablo/Teoria/01-teoricaBasica/DOM/js/05-scripts.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/UdemyJuanPablo/Teoria/01-teoricaBasica/DOM/js/06-scripts.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/UdemyJuanPablo/Teoria/01-teoricaBasica/DOM/js/07-scripts.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/UdemyJuanPablo/Teoria/01-teoricaBasica/DOM/js/08-scripts.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/UdemyJuanPablo/Teoria/01-teoricaBasica/DOM/js/09-scripts.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/UdemyJuanPablo/Teoria/01-teoricaBasica/DOM/js/10-scripts.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/UdemyJuanPablo/Teoria/originalTeoricoDom/css/custom.css" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/00/css/custom.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UdemyJuanPablo/Teoria/originalTeoricoDom/css/normalize.css" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/00/css/normalize.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UdemyJuanPablo/Teoria/originalTeoricoDom/css/skeleton.css" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/00/css/skeleton.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UdemyJuanPablo/Teoria/originalTeoricoDom/img/cart.png" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/00/img/cart.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UdemyJuanPablo/Teoria/originalTeoricoDom/img/curso1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/00/img/curso1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UdemyJuanPablo/Teoria/originalTeoricoDom/img/curso2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/00/img/curso2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UdemyJuanPablo/Teoria/originalTeoricoDom/img/curso3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/00/img/curso3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UdemyJuanPablo/Teoria/originalTeoricoDom/img/curso4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/00/img/curso4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UdemyJuanPablo/Teoria/originalTeoricoDom/img/curso5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/00/img/curso5.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UdemyJuanPablo/Teoria/originalTeoricoDom/img/estrellas.png" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/00/img/estrellas.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UdemyJuanPablo/Teoria/originalTeoricoDom/img/hero.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/00/img/hero.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UdemyJuanPablo/Teoria/originalTeoricoDom/img/icono1.png" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/00/img/icono1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UdemyJuanPablo/Teoria/originalTeoricoDom/img/icono2.png" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/00/img/icono2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UdemyJuanPablo/Teoria/originalTeoricoDom/img/icono3.png" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/00/img/icono3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UdemyJuanPablo/Teoria/originalTeoricoDom/img/logo.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/00/img/logo.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UdemyJuanPablo/Teoria/originalTeoricoDom/img/lupa.png" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/00/img/lupa.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UdemyJuanPablo/Teoria/originalTeoricoDom/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/00/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UdemyJuanPablo/Teoria/originalTeoricoDom/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/00/js/app.js" afterDir="false" />
-    </list>
+    <list default="true" id="94462d20-5c7f-4a1e-b8c7-7655b1aaaaf6" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -109,21 +76,6 @@
       <recent name="C:\Users\User\Desktop\jsProyects\UdemyJuanPablo\Teoria" />
       <recent name="C:\Users\User\Desktop\jsProyects" />
     </key>
-  </component>
-  <component name="RunManager">
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
@@ -254,14 +206,7 @@
       <workItem from="1602027929602" duration="819000" />
       <workItem from="1602087976216" duration="618000" />
       <workItem from="1602091946325" duration="115000" />
-      <workItem from="1602092432052" duration="4942000" />
-    </task>
-    <task id="LOCAL-00003" summary="terminado el 3er ejercicio">
-      <created>1584927397415</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1584927397415</updated>
+      <workItem from="1602092432052" duration="4971000" />
     </task>
     <task id="LOCAL-00004" summary="terminado el 3er ejercicio">
       <created>1584977227695</created>
@@ -599,7 +544,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602087991337</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="teorica nueva version correciones y adeciones al contenido teorico">
+      <created>1602097673833</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1602097673833</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -657,10 +609,10 @@
       <screen x="1920" y="0" width="1080" height="1880" />
     </state>
     <state x="2190" y="687" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040/1920.0.1080.1880@1920.0.1080.1880" timestamp="1602096845802" />
-    <state x="1920" y="233" key="CommitChangelistDialog2" timestamp="1602087990559">
+    <state x="1920" y="233" key="CommitChangelistDialog2" timestamp="1602097673109">
       <screen x="1920" y="0" width="1080" height="1880" />
     </state>
-    <state x="1920" y="233" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1080.1880@1920.0.1080.1880" timestamp="1602087990559" />
+    <state x="1920" y="233" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1080.1880@1920.0.1080.1880" timestamp="1602097673109" />
     <state x="2505" y="129" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1597066234070" />
     <state x="2505" y="134" key="CommitChangelistDialog2/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1596060814678" />
     <state x="2012" y="92" width="896" height="1696" key="DiffContextDialog" timestamp="1600987622639">
@@ -692,10 +644,10 @@
       <screen x="1920" y="0" width="1080" height="1880" />
     </state>
     <state x="2181" y="681" width="540" height="524" key="StructurePopup/0.0.1920.1040/1920.0.1080.1880@1920.0.1080.1880" timestamp="1601499422450" />
-    <state x="2184" y="475" key="Vcs.Push.Dialog.v2" timestamp="1602087992810">
+    <state x="2184" y="475" key="Vcs.Push.Dialog.v2" timestamp="1602097676131">
       <screen x="1920" y="0" width="1080" height="1880" />
     </state>
-    <state x="2184" y="475" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1080.1880@1920.0.1080.1880" timestamp="1602087992810" />
+    <state x="2184" y="475" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1080.1880@1920.0.1080.1880" timestamp="1602097676131" />
     <state x="2952" y="263" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1597011452212" />
     <state x="2952" y="273" key="Vcs.Push.Dialog.v2/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1596060817782" />
     <state x="2012" y="92" width="1736" height="896" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1596060148886">
