@@ -1,91 +1,131 @@
-// Eliminar de Local Storage
-localStorage.clear();
+//variables
 
-let elemento = document;
-elemento = document.all;
-elemento = document.all[10]; //esta es una forma de seleccionar un elemento pero no es la mas usada
-elemento = document.head;
-elemento = document.body;
-elemento = document.domain;
-elemento = document.URL; // url
-elemento = document.characterSet; //utf etc
-elemento = document.forms; //devuelve un formulario
-elemento = document.forms[0]; //devuelve un formulario
+const carrito = document.querySelector('#carrito');
+const contenedorCarrito = document.querySelector('#lista-carrito tbody');
+const vaciarCarrito = document.querySelector('#vaciar-carrito');
+const listaCursos = document.querySelector('#lista-cursos');
+let articulosCarrito = [];
 
-elemento = document.forms[0].id; //devuelve un formulario
-elemento = document.forms[0].classList;
-elemento = document.forms[0].className;
-elemento = document.forms[0].classList[0];
-elemento = document.images;
-elemento = document.images[2];
-elemento = document.images[2].src;
-elemento = document.images[2].getAttribute('src'); // .3 aca habia un .3 no me acuerdo por que
-elemento = document.scripts;
-elemento = document.images;
-let imagenes = document.images;
-let imagenesArr = Array.from(imagenes);
-imagenesArr.forEach(function (imagen) {
-    console.log(imagen);
-})
+cargarEventListeners();
+function cargarEventListeners(){
+    //cuando agregar un curso presionando "agregar al carrito"
+    listaCursos.addEventListener('click',agregarCurso);
+    //elimina cursos del carrito
+    carrito.addEventListener('click', eliminarCurso);
+    //vaciar carrito
+    vaciarCarrito.addEventListener('click',eliminarTodos);
+}
 
-//get
-let encabezado;
-encabezado = document.getElementById('encabezado');
-//.classname
-//.id
-//.textContent
-//.innerText
-//.style.background se les puede hacer miles de modificaciones
+//funciones
 
-// Query Selector
+function agregarCurso(e){
+    if(e.target.classList.contains('agregar-carrito')){
+        const cursoSeleccionado = e.target.parentElement.parentElement;
+        leerDatosCurso(cursoSeleccionado);
+    }
+}
+//elimina un curso del carrito
 
-const encabezadoo = document.querySelector('#encabezado');
-console.log(encabezadoo);
+function eliminarCurso(evt){
+    if(evt.target.classList.contains('borrar-curso')){
+        const cursoId = evt.target.getAttribute('data-id');
 
-//aplicar CSS
+        //elimina del arrelgo de articulsoCarrito por el data-id
 
-encabezadoo.style.background = '#333';
+        articulosCarrito = articulosCarrito.filter(curso => curso.id !== cursoId); //atento a la condicion que al ser negativa excluye la que corresponde
+
+        limpiarHTML();
+    }
+}
+
+//vaciar carrito
+
+function eliminarTodos(){
+    articulosCarrito = [];
+    carritoHTML(); 
+}
+//lee el contenido del html que hicimos click y extrae la informacion del curso
+
+function leerDatosCurso (curso){
+
+    const infoCurso = {
+        imagen: curso.querySelector('img').src,
+        titulo: curso.querySelector('H4').textContent,
+        precio: curso.querySelector('.precio span').textContent,
+        id: curso.querySelector('a').getAttribute('data-id'),
+        cantidad: 1
+    }
+    //revisa si un elemento ya existe en el carrito
+
+    const articuloExiste = articulosCarrito.some(curso => curso.id === infoCurso.id);
+    if(articuloExiste){
+        //actualizamos la cantidad
+        const cursos = articulosCarrito.map(curso => {
+            if(curso.id === infoCurso.id){
+               curso.cantidad++; //retorna objeto actualizados
+               return curso;
+            }else{
+                return curso; //retorna objetos no actualizados 
+            }
+        })
+    }else{
+        //agrega elementos al arreglo de carrito
+
+        //articulosCarrito.push(infoCurso); //una opcion
+
+        articulosCarrito = [...articulosCarrito, infoCurso]; //usamos spread opeartor y no olvidamos de traer los cursos ya agregados
+
+    }
+
+    carritoHTML();
+}
+
+//muestra el carrito de compras en el html
+
+function carritoHTML(){
+
+    //limpiar el html
+    limpiarHTML();
 
 
-///TEORICAA BASICA
 
-//const a = document.querySelector('#encabezado');
-//puede traer clases
-//etiquetas
-a = document.getElementById('encabezado');
-//getElementById solamente busca items con I
+    //recorre el carrito y genera el html
+    articulosCarrito.forEach(curso => {
+       //destructoring de objeto
+       const {imagen, titulo, precio, cantidad, id } = curso;
+       //como dentro del carrito hay un tbody tenemos que crear un trow
+       const row = document.createElement('tr');
+       row.innerHTML = `
+        <td>
+            <img src="${imagen}" width="100">
+        </td>
+        <td>
+            ${titulo}
+        </td>
+        <td>
+            ${precio}
+        </td>
+        <td>
+            ${cantidad}
+        </td>
+        <td>
+            <a href="#" class="borrar-curso" data-id="${id}">X</a>
+        </td>
+       `;
 
-a.style.background = '#333';
-a.style.color = '#FFF';
-a.style.padding = '20px';
-a.textContent = 'Los mejores cursos';
-//si queremos traer mas que un elementos tenemos que buscar los query que tienen ALL al final
+       //agrega el html del carrito en el tbody
+        contenedorCarrito.appendChild(row);
+    });
+}
 
-console.log(a);
+function  limpiarHTML () {
 
-let enlace;
-enlace = document.querySelector('#principal a:first-child');
-enlace = document.querySelector('#principal a:nth-child(3)');
-//dentro de los selectores con el primer argumento le decimos donde buscar y con el 2do que especificamente quermos bucar los
-// <a> dentro de principal son todos iguales, es codigo css3 lo que usamos
-console.log(enlace);
+    contenedorCarrito.innerHTML = '';   //forma lenta de limpiar
+    /*
+    while (contenedorCarrito.firstChild){
+        contenedorCarrito.removeChild(contenedorCarrito.firstChild);
+        //suponiendo que queremos limpiar el carrito este bucle hace q mientras haya un hijo lo elimina
+    };
 
-let enlaces = document.getElementsByClassName('enlace')[1];//enlace)[3]; podemos poner al final consultando directamente el 3ro
-//esto busca todas los items con esa clase
-
-//enlaces = enlaces[0];
-
-enlaces.style.background = '#333';
-enlaces.textContent = 'Nuevo Enlace';
-
-const listaEnlaces = document.querySelector('#principal').getElementsByClassName('enlace');
-const links = document.getElementsByTagName('a');
-links[18].style.color = 'red';
-link[18].textContent = 'Nuevo enlace';
-
-let liink = Array.from(links);
-
-enlaces.forEach(enlace => console.log(enlace.textContent));
-
-const enlacee = document.querySelectorAll('#principal .enlace');
-enlacee[1].style
+     */
+}

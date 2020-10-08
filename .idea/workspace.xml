@@ -19,7 +19,12 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="94462d20-5c7f-4a1e-b8c7-7655b1aaaaf6" name="Default Changelist" comment="" />
+    <list default="true" id="94462d20-5c7f-4a1e-b8c7-7655b1aaaaf6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/00/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/00/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/00/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/00/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdemyJuanPablo/Teoria/01-teoricaBasica/DOM/js/02-scripts.js" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Teoria/01-teoricaBasica/DOM/js/02-scripts.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -76,6 +81,19 @@
       <recent name="C:\Users\User\Desktop\jsProyects\UdemyJuanPablo\Teoria" />
       <recent name="C:\Users\User\Desktop\jsProyects" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
@@ -207,6 +225,9 @@
       <workItem from="1602087976216" duration="618000" />
       <workItem from="1602091946325" duration="115000" />
       <workItem from="1602092432052" duration="4971000" />
+      <workItem from="1602163542892" duration="1140000" />
+      <workItem from="1602178888874" duration="3363000" />
+      <workItem from="1602191111566" duration="2537000" />
     </task>
     <task id="LOCAL-00004" summary="terminado el 3er ejercicio">
       <created>1584977227695</created>
@@ -601,10 +622,10 @@
       <screen x="1920" y="0" width="1080" height="1880" />
     </state>
     <state x="1920" y="595" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.0.1080.1880@1920.0.1080.1880" timestamp="1601046594922" />
-    <state x="2140" y="676" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1600334698316">
+    <state x="2140" y="676" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1602178918863">
       <screen x="1920" y="0" width="1080" height="1880" />
     </state>
-    <state x="2140" y="676" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1040/1920.0.1080.1880@1920.0.1080.1880" timestamp="1600334698316" />
+    <state x="2140" y="676" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1040/1920.0.1080.1880@1920.0.1080.1880" timestamp="1602178918863" />
     <state x="2190" y="687" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1602096845802">
       <screen x="1920" y="0" width="1080" height="1880" />
     </state>
