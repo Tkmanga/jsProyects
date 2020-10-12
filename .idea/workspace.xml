@@ -19,12 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="94462d20-5c7f-4a1e-b8c7-7655b1aaaaf6" name="Default Changelist" comment="js teoria">
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_1_10_2020_8_03_p__m__[Default_Changelist]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2_10_2020_12_25_p__m__[Default_Changelist]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_7_10_2020_2_44_p__m___Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_7_10_2020_2_44_p__m___Default_Changelist_.xml" afterDir="false" />
+    <list default="true" id="94462d20-5c7f-4a1e-b8c7-7655b1aaaaf6" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UdemyJuanPablo/Teoria/01-teoricaBasica/DOM/js/02-scripts.js" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Teoria/01-teoricaBasica/DOM/js/02-scripts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/03/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/03/js/app.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,6 +74,19 @@
       <recent name="C:\Users\User\Desktop\jproyects\jsProyects\.idea\toricaAjaxRequest\sinJson" />
       <recent name="C:\Users\User\Desktop\jproyects\jsProyects\.idea\primerProyecto" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
@@ -174,6 +184,7 @@
       <workItem from="1602080655572" duration="1149000" />
       <workItem from="1602092543908" duration="733000" />
       <workItem from="1602177555888" duration="836000" />
+      <workItem from="1602534844150" duration="1785000" />
     </task>
     <task id="LOCAL-00001" summary="terminado primer ejercicio js">
       <created>1584843303560</created>
@@ -427,7 +438,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602092622037</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="js teoria">
+      <created>1602535111796</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1602535111796</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -470,10 +488,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="363" y="100" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1366.728@0.0.1366.728" timestamp="1598482855988" />
-    <state x="0" y="0" key="CommitChangelistDialog2" timestamp="1602092620299">
+    <state x="0" y="0" key="CommitChangelistDialog2" timestamp="1602535108788">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="0" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1602092620299" />
+    <state x="0" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1602535108788" />
     <state x="0" y="55" key="DiffContextDialog" timestamp="1601391677644">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -483,10 +501,10 @@
     </state>
     <state x="868" y="199" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1599530979988" />
     <state x="868" y="210" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1594155720964" />
-    <state x="129" y="56" key="MergeDialog" timestamp="1602177638009">
+    <state x="129" y="56" key="MergeDialog" timestamp="1602535035980">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="129" y="56" key="MergeDialog/0.0.1366.728@0.0.1366.728" timestamp="1602177638009" />
+    <state x="129" y="56" key="MergeDialog/0.0.1366.728@0.0.1366.728" timestamp="1602535035980" />
     <state x="321" y="125" key="MultipleFileMergeDialog" timestamp="1601398349339">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -499,14 +517,14 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="470" y="80" key="VCS.ChangeListViewerDialog/0.0.1366.728@0.0.1366.728" timestamp="1601398270584" />
-    <state x="550" y="184" key="Vcs.Push.Dialog.v2" timestamp="1602092635845">
+    <state x="550" y="184" key="Vcs.Push.Dialog.v2" timestamp="1602535114561">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="550" y="184" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1602092635845" />
-    <state x="889" y="308" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602177602552">
+    <state x="550" y="184" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1602535114561" />
+    <state x="889" y="308" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602535157543">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="889" y="308" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1602177602552" />
+    <state x="889" y="308" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1602535157543" />
     <state x="680" y="167" width="672" height="677" key="run.anything.popup" timestamp="1602028163848">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

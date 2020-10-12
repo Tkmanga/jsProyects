@@ -11,13 +11,14 @@
 *
 *
 * */
-//variables
+//variables para campos
 const email = document.getElementById('email');
 const asunto = document.getElementById('asunto');
 const mensaje  = document.getElementById('mensaje');
 const btnEnviar = document.getElementById('enviar');
 const formularioEnviar = document.getElementById('enviar-mail');
 const resetBtn = document.getElementById('resetBtn');
+
 //llamas al metodo
 
 eventListeners();
@@ -27,12 +28,12 @@ function eventListeners() {
     //inicio de la aplicacion y deshabilitar submit
     document.addEventListener('DOMContentLoaded',inicioApp);
     //campos del formulario
-    email.addEventListener('blur',validarCampo);
-    asunto.addEventListener('blur',validarCampo);
-    mensaje.addEventListener('blur',validarCampo)
+    email.addEventListener('blur',validarFormulario);
+    asunto.addEventListener('blur',validarFormulario);
+    mensaje.addEventListener('blur',validarFormulario);
 
     //boton enviar en el submit
-    btnEnviar.addEventListener('click',enviarEmail);
+    btnEnviar.addEventListener('click',validarFormulario);
     resetBtn.addEventListener('click',resetarForm);
 }
 //resetear el formulario
@@ -46,8 +47,19 @@ function resetarForm(e) {
 function inicioApp() {
     //deshabilitar el envio
     btnEnviar.disabled = true;
+    btnEnviar.classList.add('cursor-not-allowed','opacity-50');
 }
 
+function validarFormulario(e){
+    if(e.target.value.length > 0){
+        console.log('hay algo');
+    }else{
+        e.target.style.borderBottomColor = 'red';
+        e.target.classList.add('border','border-red-500')  ;
+
+    }
+}
+/*
 //valida que el campo tenga algo escrito
 function validarCampo() {
     //se valida la longitud del texto y que no este vacio
@@ -113,3 +125,5 @@ function validarEmail(campo) {
         campo.classList.add('error');
     }
 }
+
+ */
