@@ -112,8 +112,8 @@ cardDiv.addEventListener('click',evt => {
     }
 
 });
-
  */
+
 
 
 // Eliminar de Local Storage
@@ -170,7 +170,7 @@ encabezadoo.style.background = '#333';
 //const a = document.querySelector('#encabezado');
 //puede traer clases
 //etiquetas
-a = document.getElementById('encabezado');
+const a = document.getElementById('encabezado');
 //getElementById solamente busca items con I
 
 a.style.background = '#333';
