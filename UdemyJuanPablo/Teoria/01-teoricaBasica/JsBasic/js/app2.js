@@ -66,21 +66,4 @@ for (var a = 0; a < 10; a++) {
 }
 
 
-//DOM document object model
-
-
-
-// me salite las primeras partes hasta el video 59 por que me parecian aburridas
-
-localStorage.setItem('nombre','juan'); // aunque recarge o cierre el valor siempre se va quedar
-
-sessionStorage.setItem('nombre','masdkf'); // cuando se cierra el navegador se va esto
-
-
-//localStorage.removeItem('nombre');
-
-
-const nombre = localStorage.getItem('nombre');
-
-console.log(nombre);
 
