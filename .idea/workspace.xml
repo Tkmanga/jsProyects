@@ -20,14 +20,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="94462d20-5c7f-4a1e-b8c7-7655b1aaaaf6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/UdemyJuanPablo/Teoria/01-teoricaBasica/localStorage/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdemyJuanPablo/Teoria/01-teoricaBasica/localStorage/js/01-app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdemyJuanPablo/Teoria/01-teoricaBasica/localStorage/js/02-app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdemyJuanPablo/Teoria/01-teoricaBasica/localStorage/js/03-app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/v2/03/css/custom.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/v2/03/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/v2/03/js/app.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/v2/02/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/v2/02/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/v2/02/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/v2/02/js/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UdemyJuanPablo/Teoria/01-teoricaBasica/JsBasic/js/app2.js" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Teoria/01-teoricaBasica/JsBasic/js/app2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/01/css/custom.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/01/css/normalize.css" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/v2/03/css/normalize.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/01/css/skeleton.css" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/v2/03/css/skeleton.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/01/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/01/script/App.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,6 +77,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\tacac\Desktop\jsProyects\UdemyJuanPablo\Proyects\v2\03" />
       <recent name="C:\Users\tacac\Desktop\jsProyects\UdemyJuanPablo\Teoria\07-Modulos\JS" />
       <recent name="C:\Users\User\Desktop\jproyects\jsProyects\.idea\asy\callback" />
       <recent name="C:\Users\User\Desktop\jproyects\jsProyects\.idea\toricaAjaxRequest\sinJson" />
@@ -83,13 +85,15 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -194,7 +198,8 @@
       <workItem from="1602534844150" duration="1919000" />
       <workItem from="1603293172677" duration="1059000" />
       <workItem from="1603819571088" duration="2813000" />
-      <workItem from="1603828163296" duration="10994000" />
+      <workItem from="1603828163296" duration="11202000" />
+      <workItem from="1603925839234" duration="2487000" />
     </task>
     <task id="LOCAL-00001" summary="terminado primer ejercicio js">
       <created>1584843303560</created>
@@ -469,7 +474,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603828867430</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="js teoria">
+      <created>1603844059412</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1603844059412</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -513,10 +525,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="363" y="100" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1366.728@0.0.1366.728" timestamp="1598482855988" />
-    <state x="0" y="0" key="CommitChangelistDialog2" timestamp="1603828865497">
+    <state x="0" y="0" key="CommitChangelistDialog2" timestamp="1603844057219">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="0" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1603828865497" />
+    <state x="0" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1603844057219" />
     <state x="0" y="55" key="DiffContextDialog" timestamp="1601391677644">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -541,10 +553,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="470" y="80" key="VCS.ChangeListViewerDialog/0.0.1366.728@0.0.1366.728" timestamp="1601398270584" />
-    <state x="550" y="184" key="Vcs.Push.Dialog.v2" timestamp="1603828873438">
+    <state x="550" y="184" key="Vcs.Push.Dialog.v2" timestamp="1603844061388">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="550" y="184" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1603828873438" />
+    <state x="550" y="184" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1603844061388" />
     <state x="889" y="308" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603819579904">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -553,9 +565,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="680" y="167" width="672" height="677" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1603840802866" />
-    <state x="348" y="172" width="672" height="458" key="search.everywhere.popup" timestamp="1603830754010">
+    <state x="348" y="172" width="672" height="458" key="search.everywhere.popup" timestamp="1603931101578">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="348" y="172" width="672" height="458" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1603830754010" />
+    <state x="348" y="172" width="672" height="458" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1603931101578" />
   </component>
 </project>
