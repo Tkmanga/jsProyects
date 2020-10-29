@@ -20,12 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="94462d20-5c7f-4a1e-b8c7-7655b1aaaaf6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/UdemyJuanPablo/Teoria/01-teoricaBasica/date/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdemyJuanPablo/Teoria/01-teoricaBasica/date/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdemyJuanPablo/Teoria/01-teoricaBasica/date/libreriaMoment.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UdemyJuanPablo/Teoria/01-teoricaBasica/prototype/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UdemyJuanPablo/Teoria/01-teoricaBasica/prototype/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/v2/03/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/v2/03/js/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UdemyJuanPablo/Teoria/10-jsAvanzado/js/07.js" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Teoria/10-jsAvanzado/js/07.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdemyJuanPablo/Teoria/02-AseccionObjeto/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Teoria/02-AseccionObjeto/js/app.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,19 +81,6 @@
       <recent name="C:\Users\User\Desktop\jsProyects\UdemyJuanPablo\Proyects" />
       <recent name="C:\Users\User\Desktop\jsProyects\UdemyJuanPablo\Teoria\01-teoricaBasica\JsBasic" />
     </key>
-  </component>
-  <component name="RunManager">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
@@ -232,14 +217,7 @@
       <workItem from="1602191111566" duration="3182000" />
       <workItem from="1602534553836" duration="7245000" />
       <workItem from="1603794659502" duration="370000" />
-      <workItem from="1603990382085" duration="9204000" />
-    </task>
-    <task id="LOCAL-00009" summary="comenzando el 4to ejercicio">
-      <created>1585267160334</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1585267160334</updated>
+      <workItem from="1603990382085" duration="16466000" />
     </task>
     <task id="LOCAL-00010" summary="comenzando el 4to ejercicio">
       <created>1585426715429</created>
@@ -577,7 +555,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602544035709</updated>
     </task>
-    <option name="localTasksCounter" value="58" />
+    <task id="LOCAL-00058" summary="teorica nueva version correciones y adeciones al contenido teorico">
+      <created>1604000556791</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1604000556791</updated>
+    </task>
+    <option name="localTasksCounter" value="59" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -635,9 +620,10 @@
       <screen x="1920" y="0" width="1080" height="1880" />
     </state>
     <state x="2190" y="687" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040/1920.0.1080.1880@1920.0.1080.1880" timestamp="1602096845802" />
-    <state x="1920" y="233" key="CommitChangelistDialog2" timestamp="1602544034952">
-      <screen x="1920" y="0" width="1080" height="1880" />
+    <state x="0" y="0" key="CommitChangelistDialog2" timestamp="1604000554600">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state x="0" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1604000554600" />
     <state x="1920" y="233" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1080.1880@1920.0.1080.1880" timestamp="1602544034952" />
     <state x="2505" y="129" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1597066234070" />
     <state x="2505" y="134" key="CommitChangelistDialog2/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1596060814678" />
@@ -670,10 +656,10 @@
       <screen x="1920" y="0" width="1080" height="1880" />
     </state>
     <state x="2181" y="681" width="540" height="524" key="StructurePopup/0.0.1920.1040/1920.0.1080.1880@1920.0.1080.1880" timestamp="1601499422450" />
-    <state x="334" y="184" key="Vcs.Push.Dialog.v2" timestamp="1603931940592">
+    <state x="334" y="184" key="Vcs.Push.Dialog.v2" timestamp="1604000559696">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="334" y="184" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1603931940592" />
+    <state x="334" y="184" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1604000559696" />
     <state x="2184" y="475" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1080.1880@1920.0.1080.1880" timestamp="1602544036995" />
     <state x="2952" y="263" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1597011452212" />
     <state x="2952" y="273" key="Vcs.Push.Dialog.v2/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1596060817782" />
@@ -703,10 +689,10 @@
       <screen x="1920" y="0" width="1080" height="1880" />
     </state>
     <state x="2116" y="450" key="run.anything.popup/0.0.1920.1040/1920.0.1080.1880@1920.0.1080.1880" timestamp="1601663581819" />
-    <state x="183" y="172" width="850" height="458" key="search.everywhere.popup" timestamp="1604000279106">
+    <state x="183" y="172" width="850" height="458" key="search.everywhere.popup" timestamp="1604005827897">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="183" y="172" width="850" height="458" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1604000279106" />
+    <state x="183" y="172" width="850" height="458" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1604005827897" />
     <state x="2065" y="444" width="672" height="1181" key="search.everywhere.popup/0.0.1920.1040/1920.0.1080.1880@1920.0.1080.1880" timestamp="1601499745617" />
     <state x="3023" y="386" width="672" height="653" key="search.everywhere.popup/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596234551988" />
   </component>

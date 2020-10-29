@@ -237,6 +237,14 @@ class Cliente {
     }
 }
 
+
+ */
+
+const cliente2 = class{
+
+}
+ /*
+
 const marya = new Cliente ('Maria','Perez','10000');
 marya.retirarSaldo(400);
 console.log(Cliente.bienvenida());
