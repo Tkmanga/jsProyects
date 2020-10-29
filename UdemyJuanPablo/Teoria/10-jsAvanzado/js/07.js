@@ -18,7 +18,7 @@ function cancion(nombre,genero){
 
 //herencia de metodos
 
-cancion.prototype = Object.create(playList.prototype);
+    cancion.prototype = Object.create(playList.prototype);
 
 const mus = new cancion('nothing else matters','heavy');
 mus.play();

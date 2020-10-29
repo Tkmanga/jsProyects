@@ -7,6 +7,7 @@ eventsListeners();
 
 function eventsListeners(){
     formulario.addEventListener('submit',agregarTweet);
+    document.addEventListener('DOMContentLoaded',publicarTweets);
 }
 
 function agregarTweet(e){
@@ -18,9 +19,32 @@ function agregarTweet(e){
         return;
     }
     //añadir al arreglo de tweets
+    const tweetObj = {
+        id: Date.now(),
+        tweet //en recientes versiones si ambos coinciden podemos poner solo 1
+    }
 
-    tweets = [ ...tweets , tweet]; //spread operator
-    console.log(tweets)
+    tweets = [ ...tweets , tweetObj]; //spread operator
+    crearHTML()
+    guardarTweetsLocalStorage();
+    //reiniciar el formulario
+    formulario.reset()
+}
+
+function guardarTweetsLocalStorage(){
+    localStorage.setItem('tweets',JSON.stringify(tweets))
+}
+
+function publicarTweets(){
+
+    tweets = JSON.parse(traerTweetsLocalStorage()) || [];
+
+    crearHTML()
+
+}
+
+function traerTweetsLocalStorage(){
+    return localStorage.getItem('tweets');
 }
 
 function mensajeError(error){
@@ -35,4 +59,46 @@ function mensajeError(error){
             //eliminar la alerta
             mensaje.remove()
         },3000)
+}
+
+function crearHTML(){
+    limpiarHTML();
+    if(tweets.length > 0){
+        tweets.forEach(tweet =>{
+
+            //agregar un boton
+            const btnEliminar = document.createElement('a');
+            btnEliminar.classList.add('borrar-tweet');
+            btnEliminar.textContent = 'X';
+
+            //añadir la funcion de eliminar
+            btnEliminar.onclick = () => {
+                borrarTweet(tweet.id);
+            }
+
+
+            //crear el html
+            const l = document.createElement('li');
+            //añado texto
+            l.innerText =  tweet.tweet;
+            l.appendChild(btnEliminar);
+            //insertar en el html
+            listaTweets.appendChild(l);
+
+        })
+    }
+}
+
+//limpiar HTML
+
+function limpiarHTML(){
+    while(listaTweets.firstChild){
+        listaTweets.removeChild(listaTweets.firstChild)
+    }
+}
+
+function borrarTweet(id){
+    tweets = tweets.filter(tweet => tweet.id !== id);
+    guardarTweetsLocalStorage();
+    crearHTML();
 }
