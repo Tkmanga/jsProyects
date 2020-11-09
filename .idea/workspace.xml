@@ -19,15 +19,14 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="94462d20-5c7f-4a1e-b8c7-7655b1aaaaf6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/UdemyJuanPablo/Teoria/01-teoricaBasica/setMapsSymbols/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdemyJuanPablo/Teoria/01-teoricaBasica/setMapsSymbols/desing.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdemyJuanPablo/Teoria/01-teoricaBasica/setMapsSymbols/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdemyJuanPablo/Teoria/02-AseccionObjeto/js/app2.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_27_10_2020_2_26_p__m__[Default_Changelist]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_27_10_2020_2_26_p__m___Default_Changelist_.xml" beforeDir="false" />
+    <list default="true" id="94462d20-5c7f-4a1e-b8c7-7655b1aaaaf6" name="Default Changelist" comment="teorica nueva version correciones y adeciones al contenido teorico">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdemyJuanPablo/Teoria/01-teoricaBasica/setMapsSymbols/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Teoria/01-teoricaBasica/setMapsSymbols/app.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/UdemyJuanPablo/Teoria/02-AseccionObjeto/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Teoria/02-AseccionObjeto/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdemyJuanPablo/Teoria/02-AseccionObjeto/js/app2.js" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Teoria/02-AseccionObjeto/js/appV2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdemyJuanPablo/Teoria/07-Modulos/JS/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Teoria/07-Modulos/JS/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdemyJuanPablo/Teoria/07-Modulos/JS/cliente.js" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Teoria/07-Modulos/JS/cliente.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdemyJuanPablo/Teoria/07-Modulos/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Teoria/07-Modulos/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,19 +84,6 @@
       <recent name="C:\Users\User\Desktop\jsProyects\UdemyJuanPablo\Proyects" />
       <recent name="C:\Users\User\Desktop\jsProyects\UdemyJuanPablo\Teoria\01-teoricaBasica\JsBasic" />
     </key>
-  </component>
-  <component name="RunManager">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
@@ -238,14 +224,8 @@
       <workItem from="1604013927119" duration="592000" />
       <workItem from="1604068652361" duration="911000" />
       <workItem from="1604082012319" duration="588000" />
-      <workItem from="1604425664306" duration="9366000" />
-    </task>
-    <task id="LOCAL-00011" summary="haciendo parte teorica me quede en el comienzo del video 31">
-      <created>1585960282169</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1585960282169</updated>
+      <workItem from="1604425664306" duration="9823000" />
+      <workItem from="1604687956108" duration="12612000" />
     </task>
     <task id="LOCAL-00012" summary="haciendo parte teorica me quede en el comienzo del video 31">
       <created>1586183676647</created>
@@ -583,7 +563,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604014389861</updated>
     </task>
-    <option name="localTasksCounter" value="60" />
+    <task id="LOCAL-00060" summary="teorica nueva version correciones y adeciones al contenido teorico">
+      <created>1604437992231</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1604437992231</updated>
+    </task>
+    <option name="localTasksCounter" value="61" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -641,10 +628,10 @@
       <screen x="1920" y="0" width="1080" height="1880" />
     </state>
     <state x="2190" y="687" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040/1920.0.1080.1880@1920.0.1080.1880" timestamp="1602096845802" />
-    <state x="0" y="0" key="CommitChangelistDialog2" timestamp="1604014387173">
+    <state x="0" y="0" key="CommitChangelistDialog2" timestamp="1604688908808">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="0" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1604014387173" />
+    <state x="0" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1604688908808" />
     <state x="1920" y="233" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1080.1880@1920.0.1080.1880" timestamp="1602544034952" />
     <state x="2505" y="129" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1597066234070" />
     <state x="2505" y="134" key="CommitChangelistDialog2/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1596060814678" />
@@ -677,10 +664,10 @@
       <screen x="1920" y="0" width="1080" height="1880" />
     </state>
     <state x="2181" y="681" width="540" height="524" key="StructurePopup/0.0.1920.1040/1920.0.1080.1880@1920.0.1080.1880" timestamp="1601499422450" />
-    <state x="334" y="184" key="Vcs.Push.Dialog.v2" timestamp="1604014518552">
+    <state x="334" y="184" key="Vcs.Push.Dialog.v2" timestamp="1604437994904">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="334" y="184" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1604014518552" />
+    <state x="334" y="184" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1604437994904" />
     <state x="2184" y="475" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1080.1880@1920.0.1080.1880" timestamp="1602544036995" />
     <state x="2952" y="263" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1597011452212" />
     <state x="2952" y="273" key="Vcs.Push.Dialog.v2/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1596060817782" />
@@ -696,9 +683,10 @@
       <screen x="1920" y="0" width="1080" height="1880" />
     </state>
     <state x="2234" y="398" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/0.0.1920.1040/1920.0.1080.1880@1920.0.1080.1880" timestamp="1602027940986" />
-    <state x="2623" y="795" width="365" height="308" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602537492385">
-      <screen x="1920" y="0" width="1080" height="1880" />
+    <state x="889" y="308" width="462" height="170" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1604688874310">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state x="889" y="308" width="462" height="170" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1604688874310" />
     <state x="2623" y="795" width="365" height="308" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040/1920.0.1080.1880@1920.0.1080.1880" timestamp="1602537492385" />
     <state x="3169" y="440" width="382" height="170" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1597094257463" />
     <state x="3169" y="457" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1596059980114" />
