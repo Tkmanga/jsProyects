@@ -12,6 +12,13 @@ function cargarEventListeners(){
     listaCursos.addEventListener('click',agregarCurso);
     //elimina cursos del carrito
     carrito.addEventListener('click', eliminarCurso);
+    //muestra los cursos del localStorage
+    document.addEventListener('DOMContentLoaded',()=>{
+        articulosCarrito = JSON.parse(localStorage.getItem('Articulos')) || [];
+
+        carritoHTML();
+    })
+
     //vaciar carrito
     vaciarCarrito.addEventListener('click',eliminarTodos);
 }
@@ -58,6 +65,8 @@ function leerDatosCurso (curso){
     //revisa si un elemento ya existe en el carrito
 
     const articuloExiste = articulosCarrito.some(curso => curso.id === infoCurso.id);
+
+
     if(articuloExiste){
         //actualizamos la cantidad
         const cursos = articulosCarrito.map(curso => {
@@ -78,6 +87,11 @@ function leerDatosCurso (curso){
     }
 
     carritoHTML();
+}
+
+function agregarAlLocalS(){
+    const carritoString = JSON.stringify(articulosCarrito)
+    localStorage.setItem('Articulos', carritoString);
 }
 
 //muestra el carrito de compras en el html
@@ -116,16 +130,16 @@ function carritoHTML(){
        //agrega el html del carrito en el tbody
         contenedorCarrito.appendChild(row);
     });
+    agregarAlLocalS();
 }
 
 function  limpiarHTML () {
+    //contenedorCarrito.innerHTML = '';   //forma lenta de limpiar
 
-    contenedorCarrito.innerHTML = '';   //forma lenta de limpiar
-    /*
     while (contenedorCarrito.firstChild){
         contenedorCarrito.removeChild(contenedorCarrito.firstChild);
         //suponiendo que queremos limpiar el carrito este bucle hace q mientras haya un hijo lo elimina
     };
 
-     */
+
 }

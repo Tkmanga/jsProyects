@@ -20,6 +20,7 @@
         * 3 = europeo 1.35;
         * */
         let cantidad;
+
         const base = 2000;
         switch (this.marca) {
             case '1':
