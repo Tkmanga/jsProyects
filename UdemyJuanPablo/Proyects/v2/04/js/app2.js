@@ -10,11 +10,27 @@ function UI(){
 
 UI.prototype.mostrarResultado = (seguro,total) => {
     const div = document.createElement('div');
-
+    const {marca,anios,tipo} = seguro;
+    console.log(seguro);
+    switch (marca) {
+        case '1':
+            textoMarca = 'Americano'
+            break;
+        case '2':
+            textoMarca = 'Asiatico'
+            break;
+        case '3':
+            textoMarca = 'Europeo'
+            break;
+    }
     div.classList.add('mt-10');
     div.innerHTML = `
         <p class="header">Tu resumen</p>
-        <p class="font-bold">Total: ${total}</p>
+        <p class="font-bold">Total: <span class="font-normal"> $ ${total}</span></p>
+        <p class="font-bold">Marca: <span class="font-normal"> ${textoMarca}</span></p>
+        <p class="font-bold">Año: <span class="font-normal"> ${anios}</span></p>
+        <p class="font-bold">Tipo: <span class="font-normal"> ${tipo}</span></p>
+        
     `;
 
     const resultadoDiv = document.querySelector('#resultado');
@@ -27,7 +43,7 @@ UI.prototype.mostrarResultado = (seguro,total) => {
 
 
     setTimeout(()=>{
-        spinner.remove();
+        spinner.style.display = 'none';
         resultadoDiv.appendChild(div);
     },3000)
 }
@@ -115,6 +131,7 @@ function eventsListeners(){
 
 }
 function cotizarSeguro(e){
+
     e.preventDefault();
 
     //leer la marca seleccionada
@@ -125,6 +142,13 @@ function cotizarSeguro(e){
 
     //leer el tipo de covertura
     const tipo = document.querySelector('input[name="tipo"]:checked').value;
+    
+    const resultados = document.querySelector('#resultado div');
+
+    if(resultados != null){
+        resultados.remove();
+    }
+
     if(marca ==='' || anio === '' || tipo ===''){
         ui.mostrarMensaje('Todos los campos son obligatorios','error');
         return;

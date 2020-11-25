@@ -19,20 +19,13 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="94462d20-5c7f-4a1e-b8c7-7655b1aaaaf6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/v2/04/js/app2.js" afterDir="false" />
+    <list default="true" id="94462d20-5c7f-4a1e-b8c7-7655b1aaaaf6" name="Default Changelist" comment="teorica nueva version correciones y adeciones al contenido teorico">
+      <change afterPath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/v2/05/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/v2/05/css/custom.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/v2/05/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/v2/05/js/app.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/04/css/bootstrap-material-design.css" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/v2/04/css/bootstrap-material-design.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/04/css/bootstrap-material-design.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/v2/04/css/bootstrap-material-design.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/04/css/custom.css" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/v2/04/css/custom.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/04/img/spinner.gif" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/v2/04/img/spinner.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/04/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/v2/04/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/04/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/v2/04/js/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/04/js/appe6.js" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/v2/04/js/appe6.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/04/js/bootstrap-material-design.js" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/v2/04/js/bootstrap-material-design.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/04/js/bootstrap-material-design.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/v2/04/js/bootstrap-material-design.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/04/js/bootstrap-material-design.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/v2/04/js/bootstrap-material-design.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/v2/00/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/v2/00/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/v2/04/js/app2.js" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyJuanPablo/Proyects/v2/04/js/app2.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,19 +83,6 @@
       <recent name="C:\Users\User\Desktop\jsProyects\UdemyJuanPablo\Proyects\03\js" />
       <recent name="C:\Users\User\Desktop\jsProyects\UdemyJuanPablo\Proyects" />
     </key>
-  </component>
-  <component name="RunManager">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
@@ -246,14 +226,9 @@
       <workItem from="1604425664306" duration="9823000" />
       <workItem from="1604687956108" duration="12612000" />
       <workItem from="1604923956963" duration="814000" />
-      <workItem from="1605017430352" duration="17458000" />
-    </task>
-    <task id="LOCAL-00013" summary="haciendo parte teorica me quede en el comienzo del video 31">
-      <created>1586183759691</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1586183759691</updated>
+      <workItem from="1605017430352" duration="18191000" />
+      <workItem from="1605540592130" duration="3103000" />
+      <workItem from="1605551204443" duration="2170000" />
     </task>
     <task id="LOCAL-00014" summary="terminando cuarto proyecto &#10;terminando quinto proyecto">
       <created>1589312368285</created>
@@ -591,7 +566,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604924109022</updated>
     </task>
-    <option name="localTasksCounter" value="62" />
+    <task id="LOCAL-00062" summary="teorica nueva version correciones y adeciones al contenido teorico">
+      <created>1605038453199</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1605038453200</updated>
+    </task>
+    <option name="localTasksCounter" value="63" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -649,10 +631,10 @@
       <screen x="1920" y="0" width="1080" height="1880" />
     </state>
     <state x="2190" y="687" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040/1920.0.1080.1880@1920.0.1080.1880" timestamp="1602096845802" />
-    <state x="0" y="0" key="CommitChangelistDialog2" timestamp="1604924105578">
+    <state x="0" y="0" key="CommitChangelistDialog2" timestamp="1605544937594">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="0" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1604924105578" />
+    <state x="0" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1605544937594" />
     <state x="1920" y="233" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1080.1880@1920.0.1080.1880" timestamp="1602544034952" />
     <state x="2505" y="129" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1597066234070" />
     <state x="2012" y="92" width="896" height="1696" key="DiffContextDialog" timestamp="1600987622639">
@@ -669,10 +651,6 @@
     </state>
     <state x="1920" y="163" key="MergeDialog/0.0.1920.1040/1920.0.1080.1880@1920.0.1080.1880" timestamp="1602537497438" />
     <state x="2288" y="90" key="MergeDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1597094265053" />
-    <state x="2768" y="393" width="389" height="264" key="MultipleFileMergeDialog" timestamp="1596648409153">
-      <screen x="1920" y="0" width="1920" height="1040" />
-    </state>
-    <state x="2768" y="393" width="389" height="264" key="MultipleFileMergeDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596648409153" />
     <state x="2002" y="170" key="SettingsEditor" timestamp="1601494808310">
       <screen x="1920" y="0" width="1080" height="1880" />
     </state>
@@ -681,10 +659,10 @@
       <screen x="1920" y="0" width="1080" height="1880" />
     </state>
     <state x="2181" y="681" width="540" height="524" key="StructurePopup/0.0.1920.1040/1920.0.1080.1880@1920.0.1080.1880" timestamp="1601499422450" />
-    <state x="334" y="184" key="Vcs.Push.Dialog.v2" timestamp="1604924199001">
+    <state x="334" y="184" key="Vcs.Push.Dialog.v2" timestamp="1605038457111">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="334" y="184" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1604924199001" />
+    <state x="334" y="184" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1605038457111" />
     <state x="2184" y="475" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1080.1880@1920.0.1080.1880" timestamp="1602544036995" />
     <state x="2952" y="263" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1597011452212" />
     <state x="2012" y="92" width="896" height="1696" key="com.intellij.history.integration.ui.views.SelectionHistoryDialog" timestamp="1602543599235">
@@ -695,10 +673,10 @@
       <screen x="1920" y="0" width="1080" height="1880" />
     </state>
     <state x="2234" y="398" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/0.0.1920.1040/1920.0.1080.1880@1920.0.1080.1880" timestamp="1602027940986" />
-    <state x="889" y="308" width="462" height="170" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1604923984498">
+    <state x="889" y="308" width="462" height="170" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1605540674388">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="889" y="308" width="462" height="170" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1604923984498" />
+    <state x="889" y="308" width="462" height="170" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1605540674388" />
     <state x="2623" y="795" width="365" height="308" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040/1920.0.1080.1880@1920.0.1080.1880" timestamp="1602537492385" />
     <state x="3169" y="440" width="382" height="170" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1597094257463" />
     <state x="2167" y="539" width="585" height="801" key="find.popup" timestamp="1601499759477">
